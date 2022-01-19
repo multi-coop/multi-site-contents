@@ -2,12 +2,7 @@
 tags: test
 ---
 
-# En deux mots
-
-La coopérative multi contribue à **développer des communs numériques** et des services associés, en regroupant **une communauté de professionnel·le·s** engagé·e·s pour l’intérêt général. 
-
-
-# Ce qu'on fait
+# La coopératiive
 
 🚀 &nbsp; **multi** c'est une coopérative de type [SCOP](https://www.les-scop.coop/foire-aux-questions) qui développe des logiciels libres et qui a pour ambition de donner plus de poids aux multiples acteurs du numérique d'intérêt général grâce aux [communs numériques](https://labo.societenumerique.gouv.fr/2019/10/16/les-communs-numeriques-un-modele-innovant-de-developpement-des-ressources-numeriques/). 
 

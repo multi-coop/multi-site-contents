@@ -16,40 +16,43 @@ routes:
         options:
           columns-size: three-quarters
         files:
-          fr: ./texts/landing/landing-text-fr.md
-          en: ./texts/landing/landing-text-en.md
+          fr: ./texts/landing/catchphrase-fr.md
+          en: ./texts/landing/catchphrase-en.md
   
   # WHO ARE WE
-  # - name: who-are-we
-  #   url: /who-are-we
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/who-are-we/who-head-fr.md
-
-  - name: manifesto
-    url: /manifesto
+  - name: cooperative
+    url: /cooperative
     sections: 
-      - name: logo
-        component: LogoAnimated
-        options: [ no-translation ]
-        files:
-          fr: ./texts/landing/landing-head-fr.md
-          en: ./texts/landing/landing-head-fr.md
-      - name: manifesto
-        component: TextComponent
-        options:
-          columns-size: half
-          columns-divider: h1
-        files:
-          fr: ./texts/who-are-we/manifesto-fr.md
-      - name: goals
+      - name: head
         component: TextComponent
         options:
           columns-size: three-quarters
         files:
-          fr: ./texts/who-are-we/goals-fr.md
+          fr: ./texts/who-we-are/cooperative-fr.md
+          en: ./texts/who-we-are/cooperative-en.md
+
+  # - name: manifesto
+  #   url: /manifesto
+  #   sections: 
+  #     - name: logo
+  #       component: LogoAnimated
+  #       options: [ no-translation ]
+  #       files:
+  #         fr: ./texts/landing/landing-head-fr.md
+  #         en: ./texts/landing/landing-head-fr.md
+  #     - name: manifesto
+  #       component: TextComponent
+  #       options:
+  #         columns-size: half
+  #         columns-divider: h1
+  #       files:
+  #         fr: ./texts/who-are-we/manifesto-fr.md
+  #     - name: goals
+  #       component: TextComponent
+  #       options:
+  #         columns-size: three-quarters
+  #       files:
+  #         fr: ./texts/who-are-we/goals-fr.md
 
   - name: manifesto-temp
     url: /manifesto-temp
