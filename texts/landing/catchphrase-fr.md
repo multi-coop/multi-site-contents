@@ -2,6 +2,6 @@
 tags: test
 ---
 
-# En deux mots
+<!-- # En deux mots -->
 
 La coopérative multi contribue à **développer des communs numériques** et des services associés, en regroupant **une communauté de professionnel·le·s** engagé·e·s pour l’intérêt général. 
