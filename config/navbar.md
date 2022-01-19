@@ -15,12 +15,18 @@ buttons-left:
       fr: Qui sommes-nous
       en: Who are we
     submenu: 
-      - name: manifesto
-        link: /manifesto
+      # - name: manifesto
+      #   link: /manifesto
+      #   component: simpleLink
+      #   label: 
+      #     fr: Manifeste
+      #     en: Manifesto
+      - name: what-we-do
+        link: /what-we-do
         component: simpleLink
         label: 
-          fr: Manifeste
-          en: Manifesto
+          fr: La coopérative
+          en: The cooprative
       - name: origin
         link: /origin
         component: simpleLink
