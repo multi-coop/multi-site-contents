@@ -11,6 +11,9 @@ options:
     full-screen: true
     column-left: false
     column-right: true
+    infos-texts: 
+      - author
+      - created
 
   miniature-keys: 
     - author
