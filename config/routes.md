@@ -201,7 +201,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/blog/blog-data.md
+          fr: ./texts/blog/blog-head-fr.md
       - name: data
         component: DataGrid
         files:
