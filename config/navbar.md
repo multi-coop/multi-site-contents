@@ -54,30 +54,12 @@ buttons-left:
         label: 
           fr: Présentation
           en: Presentation
-      # - name: dev
-      #   link: /dev
-      #   component: simpleLink
-      #   label: 
-      #     fr: Développement
-      #     en: Development
-      # - name: data
-      #   link: /data
-      #   component: simpleLink
-      #   label: 
-      #     fr: Data & algos
-      #     en: Data & algos
-      # - name: design
-      #   link: /design
-      #   component: simpleLink
-      #   label: 
-      #     fr: Design
-      #     en: Design
-      # - name: audit
-      #   link: /audit
-      #   component: simpleLink
-      #   label: 
-      #     fr: Conseil
-      #     en: Audit
+      - name: products
+        link: /products
+        component: simpleLink
+        label: 
+          fr: Produits
+          en: Products
       - name: references
         link: /references
         component: simpleLink

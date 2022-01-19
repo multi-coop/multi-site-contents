@@ -89,17 +89,6 @@ routes:
         files:
           fr: ./texts/team/team-data.md
 
-  - name: references
-    url: /references
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/references/references-head-fr.md
-      - name: ref-data
-        component: DataGrid
-        files:
-          fr: ./texts/references/references-data.md
 
   # OFFER
   - name: offer
@@ -111,7 +100,7 @@ routes:
         files:
           fr: ./texts/landing/landing-head-fr.md
           en: ./texts/landing/landing-head-fr.md
-      - name: head
+      - name: offer-head
         component: TextComponent
         options:
           columns-size: half
@@ -129,39 +118,30 @@ routes:
         files:
           fr: ./texts/offer/offer-temp-fr.md
 
-  # - name: dev
-  #   url: /dev
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-dev-fr.md
+  - name: products
+    url: /products
+    sections: 
+      - name: products-head
+        component: TextComponent
+        files:
+          fr: ./texts/references/products-head-fr.md
+      - name: products-data
+        component: DataGrid
+        files:
+          fr: ./texts/references/products-data.md
 
-  # - name: data
-  #   url: /data
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-data-fr.md
-
-  # - name: design
-  #   url: /design
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-design-fr.md
-
-  # - name: audit
-  #   url: /audit
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-audit-fr.md
-
-
+  - name: references
+    url: /references
+    sections: 
+      - name: refs-head
+        component: TextComponent
+        files:
+          fr: ./texts/references/references-head-fr.md
+      - name: refs-data
+        component: DataGrid
+        files:
+          fr: ./texts/references/references-data.md
+  
   # WE LIKE
   # - name: we-like
   #   url: /we-like
