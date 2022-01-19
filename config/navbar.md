@@ -21,8 +21,8 @@ buttons-left:
       #   label: 
       #     fr: Manifeste
       #     en: Manifesto
-      - name: what-we-do
-        link: /what-we-do
+      - name: cooperative
+        link: /cooperative
         component: simpleLink
         label: 
           fr: La coopérative
