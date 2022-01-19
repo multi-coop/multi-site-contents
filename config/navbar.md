@@ -52,20 +52,20 @@ buttons-left:
         link: /offer
         component: simpleLink
         label: 
-          fr: Présentation
-          en: Presentation
+          fr: Nos prestations
+          en: Our services
       - name: products
         link: /products
         component: simpleLink
         label: 
-          fr: Produits
-          en: Products
+          fr: Nos produits open source
+          en: Our open source products
       - name: references
         link: /references
         component: simpleLink
         label: 
-          fr: Références
-          en: References
+          fr: Nos références
+          en: Our references
   
   - name: contact 
     # link: /contact
