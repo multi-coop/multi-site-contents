@@ -12,6 +12,8 @@ options:
     full-screen: true
     column-left: false
     column-right: true
+    infos-texts: 
+      - post_date
 
   miniature-keys: 
     - post_date
