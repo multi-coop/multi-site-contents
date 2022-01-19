@@ -28,8 +28,8 @@ routes:
         options:
           columns-size: three-quarters
         files:
-          fr: ./texts/who-we-are/cooperative-fr.md
-          en: ./texts/who-we-are/cooperative-en.md
+          fr: ./texts/who-are-we/cooperative-fr.md
+          en: ./texts/who-are-we/cooperative-en.md
 
   # - name: manifesto
   #   url: /manifesto
