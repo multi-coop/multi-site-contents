@@ -21,7 +21,7 @@ routes:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
-          columns-size: three-thirds
+          columns-size: two-thirds
           buttons-size: half
           buttons: 
             - link: /offer
