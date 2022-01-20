@@ -299,7 +299,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: thow-thirds
+          buttons-size: two-thirds
           custom-classes: mb-5
           buttons: 
             - link: /join
