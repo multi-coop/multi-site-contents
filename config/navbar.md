@@ -15,12 +15,18 @@ buttons-left:
       fr: Qui sommes-nous
       en: Who are we
     submenu: 
-      - name: manifesto
-        link: /manifesto
+      # - name: manifesto
+      #   link: /manifesto
+      #   component: simpleLink
+      #   label: 
+      #     fr: Manifeste
+      #     en: Manifesto
+      - name: cooperative
+        link: /cooperative
         component: simpleLink
         label: 
-          fr: Manifeste
-          en: Manifesto
+          fr: La coopérative
+          en: The cooprative
       - name: origin
         link: /origin
         component: simpleLink
@@ -46,38 +52,20 @@ buttons-left:
         link: /offer
         component: simpleLink
         label: 
-          fr: Présentation
-          en: Presentation
-      # - name: dev
-      #   link: /dev
-      #   component: simpleLink
-      #   label: 
-      #     fr: Développement
-      #     en: Development
-      # - name: data
-      #   link: /data
-      #   component: simpleLink
-      #   label: 
-      #     fr: Data & algos
-      #     en: Data & algos
-      # - name: design
-      #   link: /design
-      #   component: simpleLink
-      #   label: 
-      #     fr: Design
-      #     en: Design
-      # - name: audit
-      #   link: /audit
-      #   component: simpleLink
-      #   label: 
-      #     fr: Conseil
-      #     en: Audit
+          fr: Nos prestations
+          en: Our services
+      - name: products
+        link: /products
+        component: simpleLink
+        label: 
+          fr: Nos produits open source
+          en: Our open source products
       - name: references
         link: /references
         component: simpleLink
         label: 
-          fr: Références
-          en: References
+          fr: Nos références
+          en: Our references
   
   - name: contact 
     # link: /contact
@@ -99,12 +87,12 @@ buttons-left:
         label: 
           fr: Contribuer
           en: Contribute
-      - name: legal
-        link: /legal
-        component: simpleLink
-        label: 
-          fr: Mentions légales
-          en: Legal
+      # - name: legal
+      #   link: /legal
+      #   component: simpleLink
+      #   label: 
+      #     fr: Mentions légales
+      #     en: Legal
 
 buttons-right: 
 

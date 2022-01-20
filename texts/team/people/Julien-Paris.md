@@ -6,7 +6,7 @@ image: ./images/team/julien-paris.jpg
 github: https://github.com/JulienParis
 linkedin: https://www.linkedin.com/in/julien-paris-3056b035/
 email: julien.paris@multi.coop
-tags: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
+skills: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
 ---
 
 Après une formation initiale d'architecte DPLG puis dans la recherche (doctorant CNRS en Turquie) je me suis reconverti dans le numérique en tant que développeur fullstack. 

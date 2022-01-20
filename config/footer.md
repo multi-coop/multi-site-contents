@@ -5,10 +5,14 @@ columns:
       fr: Informations générales
       en: Infos
     links: 
-      - url: /manifesto
+      - url: /cooperative
         label:
-          fr: Manifeste
-          en: Manifesto
+          fr: Coopérative
+          en: Cooperative
+      # - url: /manifesto
+      #   label:
+      #     fr: Manifeste
+      #     en: Manifesto
       - url: /infos
         label:
           fr: Contact

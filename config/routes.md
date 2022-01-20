@@ -14,42 +14,85 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: three-quarters
+          columns-size: half
         files:
-          fr: ./texts/landing/landing-text-fr.md
-          en: ./texts/landing/landing-text-en.md
+          fr: ./texts/landing/catchphrase-fr.md
+          en: ./texts/landing/catchphrase-en.md
+      - name: btn-to-offer-products
+        component: ButtonsComponent
+        options:
+          columns-size: three-quarters
+          buttons-size: half
+          buttons: 
+            - link: /offer
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez notre offre de service
+                en: Discover our services
+            - link: /products
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos produits open source
+                en: Discover our open source products
   
   # WHO ARE WE
-  # - name: who-are-we
-  #   url: /who-are-we
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/who-are-we/who-head-fr.md
-
-  - name: manifesto
-    url: /manifesto
+  - name: cooperative
+    url: /cooperative
     sections: 
-      - name: logo
-        component: LogoAnimated
-        options: [ no-translation ]
-        files:
-          fr: ./texts/landing/landing-head-fr.md
-          en: ./texts/landing/landing-head-fr.md
-      - name: manifesto
-        component: TextComponent
-        options:
-          columns-size: half
-          columns-divider: h1
-        files:
-          fr: ./texts/who-are-we/manifesto-fr.md
-      - name: goals
+      - name: head
         component: TextComponent
         options:
           columns-size: three-quarters
         files:
-          fr: ./texts/who-are-we/goals-fr.md
+          fr: ./texts/who-are-we/cooperative-fr.md
+          en: ./texts/who-are-we/cooperative-en.md
+      - name: btn-to-team
+        component: ButtonsComponent
+        options:
+          columns-size: three-quarters
+          buttons-size: full
+          buttons: 
+            - link: /team
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez l'équipe
+                en: Discover the team
+
+  # - name: manifesto
+  #   url: /manifesto
+  #   sections: 
+  #     - name: logo
+  #       component: LogoAnimated
+  #       options: [ no-translation ]
+  #       files:
+  #         fr: ./texts/landing/landing-head-fr.md
+  #         en: ./texts/landing/landing-head-fr.md
+  #     - name: manifesto
+  #       component: TextComponent
+  #       options:
+  #         columns-size: half
+  #         columns-divider: h1
+  #       files:
+  #         fr: ./texts/who-are-we/manifesto-fr.md
+  #     - name: goals
+  #       component: TextComponent
+  #       options:
+  #         columns-size: three-quarters
+  #       files:
+  #         fr: ./texts/who-are-we/goals-fr.md
+
+  - name: manifesto-temp
+    url: /manifesto-temp
+    sections: 
+      - name: manifesto-temp
+        component: TextComponent
+        options:
+          columns-size: full
+        files:
+          fr: ./texts/who-are-we/manifesto-temp-fr.md
 
   - name: origin
     url: /origin
@@ -57,10 +100,14 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/origin-fr.md
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/goals-fr.md
 
@@ -75,18 +122,19 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/team/team-data.md
-
-  - name: references
-    url: /references
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/references/references-head-fr.md
-      - name: ref-data
-        component: DataGrid
-        files:
-          fr: ./texts/references/references-data.md
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          custom-classes: mt-6
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos offres d'emploi
+                en: Discover our job offers
 
   # OFFER
   - name: offer
@@ -98,55 +146,71 @@ routes:
         files:
           fr: ./texts/landing/landing-head-fr.md
           en: ./texts/landing/landing-head-fr.md
-      - name: head
+      - name: offer-head
         component: TextComponent
         options:
           columns-size: half
-          columns-divider: h1
+          # columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
+      - name: btn-to-products
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /products
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos produits open source
+                en: Discover our open source products
 
-  # - name: dev
-  #   url: /dev
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-dev-fr.md
+  - name: offer-temp
+    url: /offer-temp
+    sections: 
+      - name: offer-temp
+        component: TextComponent
+        options:
+          columns-size: full
+        files:
+          fr: ./texts/offer/offer-temp-fr.md
 
-  # - name: data
-  #   url: /data
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-data-fr.md
+  - name: products
+    url: /products
+    sections: 
+      - name: products-head
+        component: TextComponent
+        files:
+          fr: ./texts/references/products-head-fr.md
+      - name: products-data
+        component: DataGrid
+        files:
+          fr: ./texts/references/products-data.md
+      - name: btn-to-offer
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /offer
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez notre offre de service
+                en: Discover our services
 
-  # - name: design
-  #   url: /design
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-design-fr.md
-
-  # - name: audit
-  #   url: /audit
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/offer/offer-audit-fr.md
-
-
-  # WE LIKE
-  # - name: we-like
-  #   url: /we-like
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/we-like/we-like-head-fr.md
+  - name: references
+    url: /references
+    sections: 
+      - name: refs-head
+        component: TextComponent
+        files:
+          fr: ./texts/references/references-head-fr.md
+      - name: refs-data
+        component: DataGrid
+        files:
+          fr: ./texts/references/references-data.md
   
   - name: network
     url: /network
@@ -178,7 +242,7 @@ routes:
       - name: head
         component: TextComponent
         files:
-          fr: ./texts/blog/blog-data.md
+          fr: ./texts/blog/blog-head-fr.md
       - name: data
         component: DataGrid
         files:
@@ -243,10 +307,36 @@ routes:
           columns-size: two-thirds
         files:
           fr: ./texts/jobs/join-head-fr.md
-  
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos offres d'emploi
+                en: Discover our job offers
+
   - name: jobs 
     url: /jobs
     sections: 
+      - name: btn-to-join
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: two-thirds
+          custom-classes: mb-5
+          buttons: 
+            - link: /join
+              icon-left: arrow-right-bold
+              rounded: true
+              outlined: true
+              label: 
+                fr: Pourquoi rejoindre multi ?
+                en: Why joining multi ?
       - name: head
         component: TextComponent
         files:
