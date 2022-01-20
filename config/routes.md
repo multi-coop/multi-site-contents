@@ -14,10 +14,24 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: three-quarters
+          columns-size: half
         files:
           fr: ./texts/landing/catchphrase-fr.md
           en: ./texts/landing/catchphrase-en.md
+      - name: btn-to-offer-products
+        component: ButtonsLinks
+        options:
+          columns-size: half
+          buttons-size: one-third
+          buttons: 
+            - link: /offer
+              label: 
+                fr: Découvrez notre offre de service
+                en: Discover our services
+            - link: /products
+              label: 
+                fr: Découvrez nos produits open source
+                en: Discover our open source products
   
   # WHO ARE WE
   - name: cooperative
