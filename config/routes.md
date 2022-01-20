@@ -19,7 +19,7 @@ routes:
           fr: ./texts/landing/catchphrase-fr.md
           en: ./texts/landing/catchphrase-en.md
       - name: btn-to-offer-products
-        component: ButtonsLinks
+        component: ButtonsComponent
         options:
           columns-size: half
           buttons-size: one-third
@@ -118,7 +118,7 @@ routes:
         component: TextComponent
         options:
           columns-size: half
-          columns-divider: h1
+          # columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
 
