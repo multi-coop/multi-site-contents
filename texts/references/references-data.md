@@ -5,7 +5,7 @@ options:
   title-key: name
   images-key: images
   images-ratio: 7by4
-  columns-size: half
+  columns-size: one-third
 
   card-modal: true
   card-modal-config:
