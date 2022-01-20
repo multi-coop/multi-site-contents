@@ -25,10 +25,14 @@ routes:
           buttons-size: half
           buttons: 
             - link: /offer
+              icon-left: arrow-right-bold
+              rounded: true
               label: 
                 fr: Découvrez notre offre de service
                 en: Discover our services
             - link: /products
+              icon-left: arrow-right-bold
+              rounded: true
               label: 
                 fr: Découvrez nos produits open source
                 en: Discover our open source products
