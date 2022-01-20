@@ -1,4 +1,9 @@
 
+<div class="has-text-centered">
+  🚧 &nbsp; ... en construction ... &&nbsp; 🚧  
+</div>
+
+<!-- 
 # Mise en situation
 
 ##### Vous êtes un·e agent d'une structure publique (ministère, collectivité) ou parapublique (association, fondation, think tank). 
@@ -24,4 +29,6 @@ multi, coopérative de production numérique, est au carrefour de ces deux envie
 - d'une part, en créant et en animant un collectif de professionnel·le.s du numérique, libre-penseurs, aux profils et compétences multiples, et qui portent ensemble une éthique et des pratiques communes : CDI, égalité de traitement, une personne = une voix, égalité à l'intéressement ... ; 
 - d'autre part, en offrant aux institutions un acteur spécialisé dans le numérique d’intérêt général, agile, unique, capable de produire et mettre en place des services numériques innovants, de répondre à des marchés publics, et qui possède une expertise et des références dans le champ du numérique d'intérêt général.
 
-multi c'est une structure coopérative pour donner plus de poids aux multiples acteurs du numérique libre à travers les multiples usages des communs numériques.
+multi c'est une structure coopérative pour donner plus de poids aux multiples acteurs du numérique libre à travers les multiples usages des communs numériques. 
+
+-->
