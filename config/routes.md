@@ -330,6 +330,7 @@ routes:
             - link: /team
               icon-left: arrow-right-bold
               rounded: true
+              outlined: true
               label: 
                 fr: Découvrez l'équipe
                 en: Discover the team
