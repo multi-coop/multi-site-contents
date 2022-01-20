@@ -11,7 +11,7 @@ Tous les contenus de ce site sont ouverts sur le repo suivant :
 
 📁 &nbsp; [**Contenus du site**][site_contents]
 
-N'hésitez pas à créer une issue ou proposer vos corrections 😃 !
+N'hésitez pas à créer une _issue_ ou proposer vos corrections 😃 !
 
 Si faire des *pull requests* c'est pas votre truc, vous pouvez aussi nous laisser un petit mot sur [notre pad dédié aux retours][pad_feedbacks] ...
 
@@ -20,7 +20,7 @@ Si faire des *pull requests* c'est pas votre truc, vous pouvez aussi nous laisse
 
 ### Contribuer au code source
 
-Ce site est propulsé par une application open source que nous avons développé en interne. Nous avons appelé cet outil "**[multi-site][repo_app]**". Cet outil permet de générer un site de type SPA (*Single Page App*) à partir d'un *repo* Github ou Gitlab ne contenant que des fichiers markdown et des images. 
+Ce site est propulsé par une application _open source_ que nous avons développée en interne. Nous avons appelé cet outil "**[multi-site][repo_app]**". Cet outil permet de générer un site de type SPA (*Single Page App*) à partir d'un *repo* Github ou Gitlab ne contenant que des fichiers dee type markdown et des images. 
 
 💻 &nbsp; [**Code source de l'outil 'multi-site'**][repo_app]
 
@@ -33,7 +33,7 @@ Les technologies utilisées pour l'outil **[multi-site][repo_app]** sont les sui
 - [Gray matter](https://www.npmjs.com/package/gray-matter) - librairie js permettant de transformer en objet des données de type markdown ou yaml
 - [vue-Showdown](https://vue-showdown.js.org/) - plugin js permettant de transformer en html des données de type markdown
 
-N'hésitez pas à créer une issue si vous voyez des bugs ou des choses à améliorer 😃 !
+N'hésitez pas à créer une _issue_ ou une _pull request_ si vous voyez des bugs ou des choses à améliorer 😃 !
 
 
 ---
