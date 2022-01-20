@@ -6,7 +6,7 @@ image: ./images/team/coline-malivel.jpg
 github: https://github.com/coline
 linkedin: https://www.linkedin.com/in/colinemalivel/
 email: team@multi.coop
-tags: [ design UX, design de services ]
+skills: [ design UX, design de services ]
 ---
 
 Pratiquant tour à tour le design graphique, l’UX, le design de services, puis de stratégie, j’exerce depuis une dizaine d’années ces différentes facettes du design avec une visée d’acculturation et de diffusion du design. 

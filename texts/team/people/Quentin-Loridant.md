@@ -6,7 +6,7 @@ image: ./images/team/quentin-loridant.png
 linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 github: https://github.com/qloridant
 email: team@multi.coop
-tags: [ data, data science ]
+skills: [ data, data science, python ]
 ---
 
 Après une formation à l'ENSIMAG en systèmes embarqués, je me suis retrouvé, un peu par contrainte, à étudier le machine learning. Le domaine m'ayant plu, j'ai choisi de décrocher mon premier emploi en tant que data scientist. J'ai passé deux années dans la start-up meteo\*swift, fournissant des prévisions de production éolienne. 

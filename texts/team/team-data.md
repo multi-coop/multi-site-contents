@@ -21,14 +21,14 @@ options:
   tags-keys: 
     - key: status
       color: light
-    - key: tags
+    - key: skills
       color: primary
 
   filters: 
     activate: true
     items: 
       # - name: status
-      - name: tags
+      - name: skills
     
 items:
   - file: ./texts/team/people/Johan-Richer.md
@@ -42,9 +42,9 @@ dict:
   status: 
     fr: statut
     en: status
-  tags: 
-    fr: étiquettes
-    en: tags
+  skills: 
+    fr: compétences
+    en: skills
   associate:
     fr: associé
     en: associate

@@ -6,7 +6,7 @@ image: ./images/team/thomas-brosset.png
 github: https://github.com/thoomasbro
 linkedin: https://www.linkedin.com/in/thomasbrosset/
 email: team@multi.coop
-tags: [ dev, urba ]
+skills: [ dev, urba ]
 ---
 
 Urbaniste, je me suis formé très rapidement à la géomatique et au développement web pour aider les collectivités locales à mobiliser l’open data pour construire de meilleures politiques publiques. 
