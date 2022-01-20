@@ -28,14 +28,20 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez notre offre de service
-                en: Discover our services
+                fr: Notre offre de service
+                en: Our services
             - link: /products
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez nos produits open source
-                en: Discover our open source products
+                fr: Nos produits open source
+                en: Our open source products
+            - link: /references
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Nos références
+                en: Our references
   
   # WHO ARE WE
   - name: cooperative
@@ -133,8 +139,8 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez nos offres d'emploi
-                en: Discover our job offers
+                fr: Nos offres d'emploi
+                en: Our job offers
 
   # OFFER
   - name: offer
@@ -157,14 +163,20 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: full
+          buttons-size: half
           buttons: 
             - link: /products
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez nos produits open source
-                en: Discover our open source products
+                fr: Nos produits open source
+                en: Our open source products
+            - link: /references
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Nos références
+                en: Our references
 
   - name: offer-temp
     url: /offer-temp
@@ -197,8 +209,8 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez notre offre de service
-                en: Discover our services
+                fr: Notre offre de service
+                en: Our services
 
   - name: references
     url: /references
@@ -241,6 +253,8 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/blog/blog-head-fr.md
       - name: data
@@ -313,12 +327,18 @@ routes:
           columns-size: two-thirds
           buttons-size: full
           buttons: 
+            - link: /team
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez l'équipe
+                en: Discover the team
             - link: /jobs
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Découvrez nos offres d'emploi
-                en: Discover our job offers
+                fr: Nos offres d'emploi
+                en: Our job offers
 
   - name: jobs 
     url: /jobs
