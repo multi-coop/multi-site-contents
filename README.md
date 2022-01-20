@@ -4,7 +4,7 @@ This repo contains all contents for multi website, including the site's architec
 
 Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative [multi](https://multi.coop);
 
-🚀 &nbsp; [**App source code**](https://github.com/co-demos/multi-site-app)
+🚀 &nbsp; [**App source code**](https://github.com/multi-coop/multi-site-app)
 
 
 
