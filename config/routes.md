@@ -218,23 +218,23 @@ routes:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
-          columns-size: two-thirds
+          columns-size: half
           buttons-size: half
           custom-classes: mb-5
           buttons: 
             - link: /offer
               icon-left: arrow-right-bold
-              rounded: true
-              outlined: true
-              color: grey
+              rounded: false
+              outlined: false
+              color: light
               label: 
                 fr: Notre offre de service
                 en: Our services
             - link: /products
               icon-left: arrow-right-bold
-              rounded: true
-              outlined: true
-              color: grey
+              rounded: false
+              outlined: false
+              color: light
               label: 
                 fr: Nos produits open source
                 en: Our open source products
