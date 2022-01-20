@@ -51,7 +51,7 @@ columns:
         label:
           fr: Gitlab
           en: Gitlab
-      - url: https://github.com/jailbreak-paris
+      - url: https://github.com/multi-coop
         icon: github
         label:
           fr: Github
