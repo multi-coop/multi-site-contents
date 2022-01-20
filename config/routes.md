@@ -21,7 +21,7 @@ routes:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
-          columns-size: three-thirds
+          columns-size: two-thirds
           buttons-size: half
           buttons: 
             - link: /offer
@@ -125,6 +125,18 @@ routes:
           # columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
+      - name: btn-to-products
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: half
+          buttons: 
+            - link: /products
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos produits open source
+                en: Discover our open source products
 
   - name: offer-temp
     url: /offer-temp
@@ -147,6 +159,18 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/references/products-data.md
+      - name: btn-to-offer
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: half
+          buttons: 
+            - link: /offer
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez notre offre de service
+                en: Discover our services
 
   - name: references
     url: /references
@@ -159,15 +183,6 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/references/references-data.md
-  
-  # WE LIKE
-  # - name: we-like
-  #   url: /we-like
-  #   sections: 
-  #     - name: head
-  #       component: TextComponent
-  #       files:
-  #         fr: ./texts/we-like/we-like-head-fr.md
   
   - name: network
     url: /network
@@ -264,7 +279,19 @@ routes:
           columns-size: two-thirds
         files:
           fr: ./texts/jobs/join-head-fr.md
-  
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: half
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos offres d'emploi
+                en: Discover our job offers
+
   - name: jobs 
     url: /jobs
     sections: 
@@ -272,6 +299,18 @@ routes:
         component: TextComponent
         files:
           fr: ./texts/jobs/jobs-head-fr.md
+      - name: btn-to-join
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: half
+          buttons: 
+            - link: /join
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Pourquoi rejoindre multi ?
+                en: Why joining multi ?
       - name: data
         component: DataGrid
         files:
