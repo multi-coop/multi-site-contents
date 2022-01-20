@@ -48,6 +48,18 @@ routes:
         files:
           fr: ./texts/who-are-we/cooperative-fr.md
           en: ./texts/who-are-we/cooperative-en.md
+      - name: btn-to-team
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /team
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez l'équipe
+                en: Discover the team
 
   # - name: manifesto
   #   url: /manifesto
@@ -106,7 +118,18 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/team/team-data.md
-
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Découvrez nos offres d'emploi
+                en: Discover our job offers
 
   # OFFER
   - name: offer
