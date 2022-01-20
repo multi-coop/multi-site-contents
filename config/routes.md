@@ -215,11 +215,7 @@ routes:
   - name: references
     url: /references
     sections: 
-      - name: refs-head
-        component: TextComponent
-        files:
-          fr: ./texts/references/references-head-fr.md
-      - name: btn-to-offer
+      - name: btn-to-offer-products
         component: ButtonsComponent
         options:
           columns-size: two-thirds
@@ -239,6 +235,10 @@ routes:
               label: 
                 fr: Nos produits open source
                 en: Our open source products
+      - name: refs-head
+        component: TextComponent
+        files:
+          fr: ./texts/references/references-head-fr.md
       - name: refs-data
         component: DataGrid
         files:
