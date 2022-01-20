@@ -309,7 +309,7 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Pourquoi rejoindre multi
+                fr: Pourquoi rejoindre multi ?
                 en: Why joining multi ?
       - name: data
         component: DataGrid
