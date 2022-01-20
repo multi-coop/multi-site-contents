@@ -21,7 +21,7 @@ routes:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
-          columns-size: two-thirds
+          columns-size: three-quarters
           buttons-size: half
           buttons: 
             - link: /offer
@@ -129,7 +129,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: half
+          buttons-size: full
           buttons: 
             - link: /products
               icon-left: arrow-right-bold
@@ -163,7 +163,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: half
+          buttons-size: full
           buttons: 
             - link: /offer
               icon-left: arrow-right-bold
@@ -283,7 +283,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: half
+          buttons-size: full
           buttons: 
             - link: /jobs
               icon-left: arrow-right-bold
@@ -295,15 +295,11 @@ routes:
   - name: jobs 
     url: /jobs
     sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/jobs/jobs-head-fr.md
       - name: btn-to-join
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: half
+          buttons-size: full
           buttons: 
             - link: /join
               icon-left: arrow-right-bold
@@ -311,6 +307,10 @@ routes:
               label: 
                 fr: Pourquoi rejoindre multi ?
                 en: Why joining multi ?
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/jobs/jobs-head-fr.md
       - name: data
         component: DataGrid
         files:
