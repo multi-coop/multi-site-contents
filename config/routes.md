@@ -219,6 +219,26 @@ routes:
         component: TextComponent
         files:
           fr: ./texts/references/references-head-fr.md
+      - name: btn-to-offer
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: half
+          buttons: 
+            - link: /offer
+              icon-left: arrow-right-bold
+              rounded: true
+              outlined: true
+              label: 
+                fr: Notre offre de service
+                en: Our services
+            - link: /products
+              icon-left: arrow-right-bold
+              rounded: true
+              outlined: true
+              label: 
+                fr: Nos produits open source
+                en: Our open source products
       - name: refs-data
         component: DataGrid
         files:
