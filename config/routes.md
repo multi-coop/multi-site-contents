@@ -220,11 +220,13 @@ routes:
         options:
           columns-size: two-thirds
           buttons-size: half
+          custom-classes: mb-5
           buttons: 
             - link: /offer
               icon-left: arrow-right-bold
               rounded: true
               outlined: true
+              color: grey
               label: 
                 fr: Notre offre de service
                 en: Our services
@@ -232,6 +234,7 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               outlined: true
+              color: grey
               label: 
                 fr: Nos produits open source
                 en: Our open source products
