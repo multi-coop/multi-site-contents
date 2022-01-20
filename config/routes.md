@@ -51,7 +51,7 @@ routes:
       - name: btn-to-team
         component: ButtonsComponent
         options:
-          columns-size: two-thirds
+          columns-size: three-quarters
           buttons-size: full
           buttons: 
             - link: /team
@@ -100,10 +100,14 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/origin-fr.md
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/goals-fr.md
 
@@ -123,6 +127,7 @@ routes:
         options:
           columns-size: two-thirds
           buttons-size: full
+          custom-classes: mt-6
           buttons: 
             - link: /jobs
               icon-left: arrow-right-bold
