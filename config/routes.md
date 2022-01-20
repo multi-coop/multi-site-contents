@@ -224,7 +224,7 @@ routes:
           buttons: 
             - link: /offer
               icon-left: arrow-right-bold
-              rounded: false
+              rounded: true
               outlined: false
               color: light
               label: 
@@ -232,7 +232,7 @@ routes:
                 en: Our services
             - link: /products
               icon-left: arrow-right-bold
-              rounded: false
+              rounded: true
               outlined: false
               color: light
               label: 
