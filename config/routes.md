@@ -299,11 +299,13 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: two-thirds
-          buttons-size: full
+          buttons-size: thow-thirds
+          custom-classes: mb-5
           buttons: 
             - link: /join
               icon-left: arrow-right-bold
               rounded: true
+              outlined: true
               label: 
                 fr: Pourquoi rejoindre multi ?
                 en: Why joining multi ?
