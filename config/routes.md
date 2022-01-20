@@ -118,7 +118,7 @@ routes:
         component: TextComponent
         options:
           columns-size: half
-          columns-divider: h1
+          # columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
 
