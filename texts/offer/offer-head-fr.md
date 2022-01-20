@@ -1,6 +1,6 @@
 
 <div class="has-text-centered">
-  🚧 &nbsp; ... en construction ... &&nbsp; 🚧  
+  🚧 &nbsp; ... en construction ... &nbsp; 🚧  
 </div>
 
 <!--# Mise en situation
