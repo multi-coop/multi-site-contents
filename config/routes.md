@@ -220,7 +220,7 @@ routes:
         options:
           columns-size: half
           buttons-size: half
-          custom-classes: mb-5
+          custom-classes: mb-6
           buttons: 
             - link: /offer
               icon-left: arrow-right-bold
