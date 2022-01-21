@@ -66,6 +66,12 @@ routes:
               label: 
                 fr: Découvrez l'équipe
                 en: Discover the team
+            - link: /references
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Nos références
+                en: Our references
 
   # - name: manifesto
   #   url: /manifesto
