@@ -9,11 +9,13 @@ Financer des projets *open source*, et plus largement des communs numériques, p
 
 
 --- 
->##### Quelques précisions : 
+
+> ##### Quelques précisions : 
 > Cette note de blog est un copié-collé d'une partie d'une discussion entamée sur le forum de l'ADEME : 
 
 - Lien vers [la discussion sur le forum de l'ADEME](https://forum.resilience-territoire.ademe.fr/t/comment-apprendre-aux-banques-a-financer-le-developpement-de-communs-de-territoires/304/6) si vous souhaitez prendre part à ces réflexions ; 
 - Les [notes du premier atelier](https://hackmd.io/@multi/atelier-financements-communs) en visio autour de cette question ;
+
 ---
 
 ### Introduction
