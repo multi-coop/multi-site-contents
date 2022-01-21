@@ -62,7 +62,7 @@ _Proposition à *challenger*_ :
 ----
 ## "Produits" déjà développés (dont on possède un bon savoir-faire)
 
-- slides [ici](https://nextcloud.jailbreak.paris/s/Zx7HKq6r28dWAL9)
+- slides [ici](https://nextcloud.jailbreak.paris/s/AErLTbensMCFLoc)
 
 Produits phares : 
 - [Apiviz](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fapiviz.md)
