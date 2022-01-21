@@ -5,7 +5,7 @@ created: 21/01/2021
 author: Julien Paris
 ---
 
-Financer des projets *open source*, et plus largement des communs numériques, pose rapidement la question des financements. A mon sens les spécificités des projets de communs numériques demande de problématiq
+Financer des projets *open source*, et plus largement des communs numériques, pose rapidement la question des financements. A mon sens les spécificités des projets de communs numériques demande de se reposer cette question, en partant d'un exemple concret. Ça tombe bien, [on a justement un projet de ce genre](https://wiki.resilience-territoire.ademe.fr/wiki/Data_Patch) dans les cartons !
 
 
 --- 
