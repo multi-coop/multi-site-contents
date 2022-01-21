@@ -1,6 +1,6 @@
 ---
 name: Quentin Loridant
-status: [ associate, employee ]
+status: [ associate ]
 start: début 2022
 image: ./images/team/quentin-loridant.png
 linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/

@@ -1,6 +1,6 @@
 ---
 name: Pierre Camilleri
-status: [ associate, employee ]
+status: [ associate ]
 start: début 2022
 image: ./images/team/pierre-camilleri.png
 github: https://github.com/jazzypierrot
