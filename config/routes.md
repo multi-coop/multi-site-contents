@@ -58,7 +58,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: three-quarters
-          buttons-size: full
+          buttons-size: half
           buttons: 
             - link: /team
               icon-left: arrow-right-bold
