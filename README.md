@@ -33,8 +33,15 @@ This repo is organized in the following order :
 
 The contents are deployed with Netlify 
 
+---
+
+Test deploy :
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
+
+---
+Official deploy : 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
 
-
+---
