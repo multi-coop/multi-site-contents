@@ -91,7 +91,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
     - ne possède pas de parts ;
     - travaille à plein-temps ;
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
-- Le nombre de parts sociales de la coopérative est donc au total de 3 500 parts ;
+- Le nombre de parts sociales de la coopérative est donc au total de 350 parts ;
 - La répartition statutaire des bénéfices se décompose ainsi :
   - **réserves** : 40% des bénéfices ;
   - **intéressement** : 50% des bénéfices ;
