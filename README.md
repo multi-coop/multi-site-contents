@@ -16,7 +16,7 @@ Thoses contents are organized so they could be deployed as a website, thanks to 
 
 This repo is organized in the following order :
 
-```shell
+```env
 .
 ├── README.md
 ├── LICENCE.md
