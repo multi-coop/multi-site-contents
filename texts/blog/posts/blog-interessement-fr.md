@@ -21,8 +21,8 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 - **réserves** : minimum 16% des bénéfices ;
 - **intéressement** : minimum 25% des bénéfices ;
 - **dividendes** : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement.
-- aucun associé•e ne peut détenir plus de 49% des parts ;
-- le statut d'associé·e est lié au statut de salarié·e : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
+- **aucun associé•e ne peut être majoritaire et détenir plus de 49% des parts** ;
+- **le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
 
 ---
 
