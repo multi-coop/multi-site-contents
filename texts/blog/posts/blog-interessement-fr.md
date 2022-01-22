@@ -84,19 +84,19 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - La coopérative est composée de :
   - **Albert** :
     - salarié-associé ;
-    - possède 100 parts ;
+    - possède 100 parts sociales ;
     - travaille à plein-temps ;
   - **Bénédicte** :
     - salariée-associée ;
-    - possède 250 parts ;
+    - possède 250 parts sociales ;
     - travaille aux 4/5emes ;
   - **Camille** : 
     - salarié·e ;
-    - ne possède pas de parts ;
+    - ne possède pas de parts sociales ;
     - travaille à plein-temps ;
   - **Dave** : 
     - salarié·e-associé·e ;
-    - possède 200 parts ;
+    - possède 200 parts sociales ;
     - travaille aux 1/5emes ;
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 350 parts ;
