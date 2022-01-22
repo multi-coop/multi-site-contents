@@ -21,6 +21,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 - **réserves** : minimum 16% des bénéfices ;
 - **intéressement** : minimum 25% des bénéfices ;
 - **dividendes** : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement.
+- aucun associé•e ne peut détenir plus de 49% des parts ;
 
 ---
 
@@ -33,7 +34,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - montant d'une part sociale : 25 € ;
 - plafond maximal de 300 parts sociales par associé·e (soit 7 500 €) ;
 - mécanisme de souscription de parts sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
-- le mêcanisme ne se déclenche que si la personne travaille depuis 1 an dans la coopérative ;
+- le mécanisme ne se déclenche que si la personne travaille depuis 1 an dans la coopérative ;
 
 ---
 
