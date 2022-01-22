@@ -36,7 +36,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - plafond maximal de 300 parts sociales par associé·e (soit 7 500 € en valeur nominale) ;
 - mécanisme de souscription de parts sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
 - les associé·e·s doivent être salarié·e·s ;
-- le mécanisme ne se déclenche que si la personne travaille depuis 1 an dans la coopérative ;
+- le mécanisme ne se déclenche que si la personne travaille depuis au moins 1 an dans la coopérative ;
 
 ---
 
