@@ -109,7 +109,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 <br>
 
-#### A. calcul de l'intéressement des salarié·e·s
+#### A. Calcul de l'intéressement des salarié·e·s
 
 - à répartir en intéressement : **50 000 €**
 
@@ -123,7 +123,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 <br>
 
-#### B. calcul des dividendes aux associé·e·s
+#### B. Calcul des dividendes aux associé·e·s
 
 - à répartir en  dividendes : **10 000 €**
 
