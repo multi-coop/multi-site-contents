@@ -153,7 +153,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 ---
 
-### Récapitulatif de la  répartition des bénéfices aux salarié·e·s et associé·e·s
+### Récapitulatif de la  répartition des bénéfices
 
 | personne | intéressement € | dividences € | total € |
 | :-: | --:  | --: | --: |
@@ -161,5 +161,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **Bénédicte** | 13 333 € | 4 545 € | **17 879 €** |
 | **Camille** |  16 667 € | 0 € |  **16 667 €** |
 | **Dave** | 3 333 € | 3 636 € |  **6 970 €** |
-| --- | ---  | --- | --- | --- |
-| totaux | **50 000 €**  | **10 000 €** | **60 000 €** |
+| --- | ---  | --- | --- |
+| **réserves coopérative** | ---  | --- | **40 000 €** |
+| --- | ---  | --- | --- |
+| totaux | **50 000 €**  | **10 000 €** | **100 000 €** |
