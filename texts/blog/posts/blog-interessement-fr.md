@@ -104,6 +104,8 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **réserves** | **40%**  | **40 000 €** | la coopérative |
 | **intéressement** | **50%**  | **50 000 €** | les salarié·e·s |
 | **dividendes** | **10%**  | **10 000 €** | les associé·e·s |
+| --- | ---  | --- | --- | --- |
+| totaux | **100%**  | **100 000 €** |  |
 
 <br>
 
