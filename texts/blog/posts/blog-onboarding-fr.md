@@ -28,6 +28,9 @@ Etant donné notre modèle économique (la SCOP restant une société de droit p
 
 Cela dit, on peut envisager des formes plus souples menant à cette contractualisation. Ces différents modes d'intégration sont toujours décidés au cas par cas et collectivement. 
 
+
+---
+
 ### Imaginons...
 
 **... Vous êtes donc un·e professionnel·le du numérique et vous souhaitez vous impliquer dans la coopérative multi.**
@@ -38,3 +41,47 @@ On peut imaginer différentes manières d'intégrer le collectif, en fonction de
 1. comme **salarié·e**, en CDD puis à terme associé·e salarié·e en CDI ;
 1. comme **sympathisant·e**, en rejoignant notre groupe Telegram ;
 <!-- 1. comme **associé·e non salarié·e / associé·e extérieur·e** ; -->
+
+---
+
+
+#### Salarié·e Associé·e 
+	
+
+Au bout d'un an de CDD (maximum) depuis le démarrage en tant que salarié·e, la personne est amenée à devenir associé·e de la SCOP.  Il·elle devient alors partie prenante à la gouvernance de la SCOP : il·elle est associé·e aux décisions et participe à l’animation du sociétariat et de la vie coopérative
+
+- CDI ;
+- Un·e associé·e = une voix (ne dépend  pas du montant de capital apporté) ; 
+- Prise de participation au capital ;
+- Salaire égal pour tou.te.s les salarié·e.s, montant décidé collectivement annuellement (ex. 3 000€ nets/mois) ;
+- Pas de dividendes pour les sociétaires, mais une répartition égalitaire des bénéfices parmi les salarié·e·s associé·e·s;
+- Primes complémentaires selon les besoins de chacun·e, et votées collectivement : par exemple dans le cas d'une naissance, d'un achat immobilier ou exceptionnel, d'une incapacitation, du mode de transport…
+- Possibilité de consacrer 20 jours par an à des projets collectifs ou communs (être minimum 2 pour proposer un projet libre commun) : R&D, communication, administratif, etc.... - Ces projets seront discutés / approuvés / refusés par le collectif ;
+Chacun·e peut apporter des nouveaux projets facturables (développement, conseil, design…) ;
+- Sociétariat :
+  - minimum 65% des voix
+  - minimum 51% des parts 
+
+
+#### Salarié·e Non Associé·e / Coopérateur·rice
+
+- CDD, fléché sur un ou des projets de multi ;
+- Durée minimale de 3 mois, maximale de 1 an ; 
+- Salaire égal pour tou.te.s les salarié·e.s, montant décidé collectivement annuellement (ex. 3 000€ nets/mois) ;
+- La période de CDD permet de s'immerger dans le quotidien du collectif : présence lors des AG, des points hebdo, points mensuels, points trimestriels, travail en équipe… ; 
+- Au terme du CDD et si à la fois les associé·e·s salarié·e·s et le salarié·e  non associé·e en émettent le souhait, passage au statut d'associé·e salarié·e (prise de participation au capital + CDI);
+- Le droit / devoir à consacrer 20 jours par an à des projets collectifs ou communs (être minimum 2 pour proposer un projet libre commun) : R&D, communication, administratif, etc.... - Ces projets seront discutés / approuvés / refusés par le collectif ;
+- Donne pas droit de vote lors des AG
+- Droit à une part minorée du partage égalitaire des bénéfices ;  
+- Système de parrainage ?
+
+
+### Sympathisant·e 
+
+- Non associé·e, non salarié·e, membre du collège des parties prenantes ;
+- Pas de participation au capital / sociétariat ;
+- Système de don / cagnottes / association extérieure ?
+- Participation aux discussions lors des AG, mais pas de droit de vote ;
+- Ne donne pas droit à répartition des bénéfices ;
+- Donne droit à accompagnement / entraide / discussion avec les autres associé·e·s ;
+(à + détailler)
