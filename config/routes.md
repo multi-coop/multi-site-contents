@@ -224,7 +224,7 @@ routes:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
-          columns-size: half
+          columns-size: two-thirds
           buttons-size: half
           custom-classes: mb-6
           buttons: 
