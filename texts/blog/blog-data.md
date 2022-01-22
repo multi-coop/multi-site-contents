@@ -27,6 +27,11 @@ options:
 items:
   - file: ./texts/blog/posts/blog-post-financements-fr.md
   - file: ./texts/blog/posts/blog-post-01-fr.md
+  - file: ./texts/blog/posts/blog-ambitions-fr.md
+  - file: ./texts/blog/posts/blog-model-eco-fr.md
+  - file: ./texts/blog/posts/blog-onboarding-fr.md
+  - file: ./texts/blog/posts/blog-vie-coop-fr.md
+  - file: ./texts/blog/posts/blog-why-multi-fr.md
 
 dict:
   created:
