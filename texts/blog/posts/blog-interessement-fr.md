@@ -34,6 +34,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - montant d'une part sociale : 25 € ;
 - plafond maximal de 300 parts sociales par associé·e (soit 7 500 €) ;
 - mécanisme de souscription de parts sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
+- les associé·e·s doivent être salarié·e·s ;
 - le mécanisme ne se déclenche que si la personne travaille depuis 1 an dans la coopérative ;
 
 ---
@@ -92,8 +93,8 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
     - salarié·e ;
     - ne possède pas de parts ;
     - travaille à plein-temps ;
-  - **Doug** : 
-    - salarié-associé ;
+  - **Dave** : 
+    - salarié·e-associé·e ;
     - possède 200 parts ;
     - travaille aux 1/5emes ;
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
@@ -124,7 +125,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **Albert** | 100%  | 1/3 = **33.3%** | 16 667 € |
 | **Bénédicte** | 80%  | .8/3 = **26.7%** | 13 333 €  |
 | **Camille** | 100%  | 1/3 = **33.3%**  |  16 667 €  |
-| **Doug** | 20%  | .2/3 = **6.7%**  | 3 333 €  |
+| **Dave** | 20%  | .2/3 = **6.7%**  | 3 333 €  |
 | --- | ---  | --- | --- | --- |
 | totaux | 300%  | 100% | **50 000 €** |
 
@@ -139,7 +140,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **Albert** | **100 parts**  | 100 / 550  = **18.2%** | 1 819 € |
 | **Bénédicte** | **250 parts**  | 250 / 550  = **45.5%** | 4 545 € |
 | **Camille** | **0 parts**  | 0 / 550 = **0%** | 0 € |
-| **Doug** | **200 parts**  | 200 / 550 = **36.4%** | 3 636 € |
+| **Dave** | **200 parts**  | 200 / 550 = **36.4%** | 3 636 € |
 | --- | ---  | --- | --- | --- |
 | totaux | **550 parts**  | 100% | **10 000 €** |
 
@@ -152,6 +153,6 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **Albert** | 16 667 € | 1 819 € | **18 486 €** |
 | **Bénédicte** | 13 333 € | 4 545 € | **17 879 €** |
 | **Camille** |  16 667 € | 0 € |  **16 667 €** |
-| **Doug** | 3 333 € | 3 636 € |  **6 970 €** |
+| **Dave** | 3 333 € | 3 636 € |  **6 970 €** |
 | --- | ---  | --- | --- | --- |
 | totaux | **50 000 €**  | **10 000 €** | **60 000 €** |
