@@ -90,9 +90,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
     - salarié·e ;
     - ne possède pas de parts ;
     - travaille à plein-temps ;
-- Tous les salarié·e·s ont travaillé toute l'année ;
-- Le nombre de parts sociales est donc de 3 500 parts ;
-- La répartition des bénéfices se décompose ainsi :
+- Tou·te·s les salarié·e·s ont travaillé toute l'année ;
+- Le nombre de parts sociales de la coopérative est donc au total de 3 500 parts ;
+- La répartition statutaire des bénéfices se décompose ainsi :
   - **réserves** : 40% des bénéfices ;
   - **intéressement** : 50% des bénéfices ;
   - **dividendes** : 10% des bénéfices ;
