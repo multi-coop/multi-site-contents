@@ -6,7 +6,11 @@ updated: 22/01/2021
 author: multi
 ---
 
+Créer une coopérative est une aventure entrepreneuriale, militante, humaine. Si l'envie de créer la coopérative multi est au départ une impulsion profonde partagée par chacun des sociétaires, nous avons tenté ici de poser sur le papier le constat initial - la problématique - qui nous rassemble.
+
 # Pourquoi nous créons la coopérative multi
+
+## Les défis que nous apercevons
 
 Le numérique est devenu un moyen d'accès habituel et quotidien aux services publics. Au-delà des seuls acteurs publics, les acteurs de la société civile ou du moins les acteurs para-publics (associations, fondations, think tanks...) ont eux aussi plus que jamais **besoin de disposer d'outils et de compétences** leur permettant de proposer des services numériques efficaces afin de remplir leur rôle auprès de leurs publics.
 
@@ -71,8 +75,6 @@ Une structure qui ne ferait que du portage salarial - en ne proposant qu'une sim
 
 [eig]: https://entrepreneur-interet-general.etalab.gouv.fr/
 [dig]: https://www.numerique.gouv.fr/actualites/lancement-designers-interet-general-administrations-proposez-vos-projets-ux-design/
-[dataforgood]: https://dataforgood.fr/
-[latitudes]: https://www.latitudes.cc/
 [vivier]: https://www.incubateur.net/communaute/
 [startups_d_etat]: https://beta.gouv.fr/startups/
 
@@ -103,8 +105,6 @@ De nombreuses structures de l'économie sociale et solidaires ou des *[civic tec
 [civic_tech]: https://fr.wikipedia.org/wiki/Technologie_civique
 
 
-> _(*) parmi ces acteurs de la société civile, dans le désordre : la MednNum, Open Data France, Datactivist, Data Publica, Latitudes, la Fing, Numéricités, PiNG, Open Street Map France, Wikimedia, l'Assemblée Virtuelle, Inno3, Scopyleft, Code Lutin, Open Source Politics, Fairness, Code For France, Vraiment Vraiment, la 2ème région, Data For Good, Scop It, Startin' Blox ..._
-
 ---
 
 Le modèle de la SCOP que nous proposons ici offre de nombreux avantages pour proposer une alternative constructive, nouvelle, et à la hauteur de ces ambitions. Ces avantages peuvent être résumés ainsi :  
@@ -115,4 +115,57 @@ Le modèle de la SCOP que nous proposons ici offre de nombreux avantages pour pr
 - **Inscrire dans un accord d'entreprise le droit / devoir à un nombre de jours par an et par salarié, dédiés à des projets communs et/ou collectifs**.
 - **Une structure pérenne, identifiable, dont la taille permet de répondre à des projets complexes et ambitieux et en capacité à créer / produire des outils numériques innovants, sur mesure ou sur étagère** ;
 - **Affirmer une présence et une complémentarité au sein des réseaux d'acteurs historiques du numérique d'intérêt général**.
+
+---
+
+_(*) parmi ces acteurs de la société civile, on comptera dans le désordre et sans être exhaustifs :_
+- [la MednNum][mednum]
+- [Open Data France][odf]
+- [Datactivist][datactivist]
+- [Data Publica][datapublica]
+- [Latitudes][latitudes]
+- [la Fing][fing]
+- [Numéricités][numericites]
+- [PiNG][ping]
+- [Open Street Map France][osm_fr]
+- [Wikimedia][wikimedia]
+- [l'Assemblée Virtuelle][assemblee_virtuelle]
+- [Inno3][inno3]
+- [Scopyleft][scopyleft]
+- [Code Lutin][code_lutin]
+- [Open Source Politics][osp]
+- [Fairness][fairness]
+- [Code For France][cff]
+- [Vraiment Vraiment][vraiment_vraiment]
+- [la 27ème région][27e_region]
+- [Data For Good][dataforgood]
+- [Scop It][scop_it]
+- [Startin' Blox][startin_blox]
+- [Codeurs en liberté][codeurs_en_liberte]
+
+[mednum]: https://lamednum.coop/
+[odf]: https://www.opendatafrance.net/
+[datactivist]: https://datactivist.coop/fr/
+[datapublica]: https://www.data-publica.eu/
+[latitudes]: https://www.latitudes.cc/
+[fing]: https://fing.org/
+[numericites]: https://numericite.eu/
+[ping]: https://www.pingbase.net/
+[osm_fr]: https://www.openstreetmap.fr/
+[wikimedia]: https://www.wikimedia.org/
+[assemblee_virtuelle]: https://www.virtual-assembly.org/association-virtual-assembly/
+[inno3]: https://inno3.fr/
+[scopyleft]: http://scopyleft.fr/en/
+[code_lutin]: https://www.codelutin.com/
+[osp]: https://opensourcepolitics.eu/en/
+[fairness]: https://fairness.coop/
+[cff]: https://codefor.fr/
+[vraiment_vraiment]: https://vraimentvraiment.com/
+[27e_region]: https://www.la27eregion.fr/
+[dataforgood]: https://dataforgood.fr/
+[scop_it]: http://scop-it.com/
+[startin_blox]: https://startinblox.com/
+[codeurs_en_liberte]: https://www.codeursenliberté.fr/
+
+
 

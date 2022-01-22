@@ -19,12 +19,14 @@ La communauté des coopérateurs de multi se compose de personnes possédant à 
 
 Nous pensons qu'il n'est ni possible ni souhaitable de juger de la qualité des personnes sur leur simple CV ou sur leurs seules compétences techniques. Ce que nous souhaitons avant tout est de **constituer un collectif vivant d'expert·e·s**. Nous partons du principe que si chacun·e partage nos valeurs de fond et nos ambitions, il·elle puisse apporter ses envies, ses marottes, ses projets, ses idées et son savoir-faire. Nous cherchons ainsi à développer une culture d'entreprise mettant en avant :
 
-- une relation entre pairs, l'écoute et l'entraide ;
-- l'esprit d'initiative et la curiosité ;
-- la volonté d'avancer par projets et d'avoir des réalisations concrètes (lier savoir et savoir-faire) ;
-- la menée de projets en commun, le travail en équipe, et l'intelligence collective.
+- **une relation entre pairs, l'écoute et l'entraide** ;
+- **l'esprit d'initiative et la curiosité** ;
+- **la volonté d'avancer par projets et d'avoir des réalisations concrètes **(lier savoir et savoir-faire) ;
+- **la menée de projets en commun**, le travail en équipe, et **le pari de l'intelligence collective**.
 
-Etant donné notre modèle économique (la SCOP restant une société de droit privé) et pouvoir nous donner les moyens de financer des projets collectifs, nous avons une préférence pour la contractualisation en CDD au départ, suivie de la proposition de "CDI-sation" et de prise de participation au capital. Cela dit, on peut envisager des formes plus souples menant à cette contractualisation. Ces différents modes d'intégration sont toujours décidés au cas par cas et collectivement. 
+Etant donné notre modèle économique (la SCOP restant une société de droit privé) et pouvoir nous donner les moyens de financer des projets collectifs, nous avons une préférence pour la contractualisation en CDD au départ, suivie de la proposition de "CDI-sation" et de prise de participation au capital. 
+
+Cela dit, on peut envisager des formes plus souples menant à cette contractualisation. Ces différents modes d'intégration sont toujours décidés au cas par cas et collectivement. 
 
 ### Imaginons...
 
