@@ -1,19 +1,22 @@
 # MULTI WEBSITE CONTENTS
 
-This repo contains all contents for multi website, including the site's architecture (website name, locales, navbar, routes, footers)
+This repo contains all contents for multi website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
 
-Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative [multi](https://multi.coop);
+Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative **[multi](https://multi.coop)**.
 
-🚀 &nbsp; [**App source code**](https://github.com/multi-coop/multi-site-app)
+---
 
+## Render those contents as a websitte
 
+🚀 &nbsp; Here you'll find the [**"multi-site-app" source code**](https://github.com/multi-coop/multi-site-app) to deploy the `.md` contents contained in this repo.
 
+---
 
 ## Organisation
 
-This repo is organized in the following order : 
+This repo is organized in the following order :
 
-```
+```shell
 .
 ├── README.md
 ├── LICENCE.md
@@ -27,8 +30,9 @@ This repo is organized in the following order :
 
 ```
 
+---
 
-## Deployment 
+## Deployment
 
 The contents are deployed with Netlify 
 
@@ -36,7 +40,6 @@ The contents are deployed with Netlify
 - Official deploy : [![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
 
 ---
-
 
 ## Contributions
 
