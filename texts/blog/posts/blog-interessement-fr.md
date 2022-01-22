@@ -90,6 +90,10 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
     - salarié·e ;
     - ne possède pas de parts ;
     - travaille à plein-temps ;
+  - **Doug** : 
+    - salarié-associé ;
+    - possède 200 parts ;
+    - travaille aux 1/5emes ;
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 3 500 parts ;
 - La répartition statutaire des bénéfices se décompose ainsi :
@@ -115,11 +119,12 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 | personne | ETP | % des bénéfices en intéressement | montant € |
 | :-: | :-:  | :-: | --: |
-| **Albert** | 100%  | 1/2.8 = **35.7%** | 17 850 € |
-| **Bénédicte** | 80%  | 8/2.8 = **28.6%** | 14 300 €  |
-| **Camille** | 100%  | 1/2.8 = **35.7%**  |  17 850 €  |
+| **Albert** | 100%  | 1/3 = **33.3%** | 16 667 € |
+| **Bénédicte** | 80%  | .8/3 = **26.7%** | 13 333 €  |
+| **Camille** | 100%  | 1/3 = **33.3%**  |  16 667 €  |
+| **Doug** | 20%  | .2/3 = **6.7%**  | 3 333 €  |
 | --- | ---  | --- | --- | --- |
-| totaux | 280%  | 100% | **50 000 €** |
+| totaux | 300%  | 100% | **50 000 €** |
 
 <br>
 
@@ -129,11 +134,12 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 | personne | parts sociales | % des bénéfices en dividendes | montant € |
 | :-: | :-:  | :-: | :-: |
-| **Albert** | **100 parts**  | 100 / 350  = **28.6%** | 2 860 € |
-| **Bénédicte** | **250 parts**  | 250 / 350  = **71.4%** | 7 140 € |
-| **Camille** | **0 parts**  | 0 / 350 = **0%** | 0 € |
+| **Albert** | **100 parts**  | 100 / 550  = **18.2%** | 1 818 € |
+| **Bénédicte** | **250 parts**  | 250 / 550  = **45.5%** | 4 545 € |
+| **Camille** | **0 parts**  | 0 / 550 = **0%** | 0 € |
+| **Doug** | **0 parts**  | 200 / 550 = **36.4%** | 3 636 € |
 | --- | ---  | --- | --- | --- |
-| totaux | **3 500 parts**  | 100% | **10 000 €** |
+| totaux | **550 parts**  | 100% | **10 000 €** |
 
 ---
 
@@ -141,8 +147,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 | personne | intéressement € | dividences € | total € |
 | :-: | --:  | --: | --: |
-| **Albert** | 17 850 € | 2 860 € | **20 710 €** |
-| **Bénédicte** | 14 300 € | 7 140 € | **21 440 €** |
-| **Camille** | 17 850 € | 0 € |  **17 850 €** |
+| **Albert** | 16 667 € | 1 818 € | **18 485 €** |
+| **Bénédicte** | 13 333 € | 4 545 € | **17 879 €** |
+| **Camille** |  16 667 € | 0 € |  **16 667 €** |
+| **Doug** | 3 333 € | 3 636 € |  **6 970 €** |
 | --- | ---  | --- | --- | --- |
 | totaux | **50 000 €**  | **10 000 €** | **60 000 €** |
