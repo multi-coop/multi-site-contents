@@ -80,11 +80,11 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - La coopérative est composée de :
   - **Albert** :
     - salarié-associé ;
-    - possède 1 000 parts ;
+    - possède 100 parts ;
     - travaille à plein-temps ;
   - **Bénédicte** :
     - salariée-associée ;
-    - possède 2 500 parts ;
+    - possède 250 parts ;
     - travaille aux 4/5emes ;
   - **Camille** : 
     - salarié·e ;
@@ -100,7 +100,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 ### Calcul de la répartition
 
 | - | % | montant à répartir | bénéficiaire(s) |
-| --- | ---  | --- | --- | --- |
+| --- | :-:  | --: | :-: |
 | **réserves** | **40%**  | **40 000 €** | la coopérative |
 | **intéressement** | **50%**  | **50 000 €** | les salarié·e·s |
 | **dividendes** | **10%**  | **10 000 €** | les associé·e·s |
@@ -111,8 +111,8 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 - à répartir en intéressement : **50 000 €**
 
-| personne | ETP | % part | montant € |
-| --- | ---  | --- | --- |
+| personne | ETP | % des bénéfices en intéressement | montant € |
+| :-: | :-:  | :-: | --: |
 | **Albert** | 100%  | 1/2.8 = **35.7%** | 17 850 € |
 | **Bénédicte** | 80%  | 8/2.8 = **28.6%** | 14 300 €  |
 | **Camille** | 100%  | 1/2.8 = **35.7%**  |  17 850 €  |
@@ -125,11 +125,11 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 - à répartir en  dividendes : **10 000 €**
 
-| personne | parts sociales | % part | montant € |
-| --- | ---  | --- | --- |
-| **Albert** | **1 000 parts**  | 1 000 / 3 500  = **28.6%** | 2 860 € |
-| **Bénédicte** | **2 500 parts**  | 2 500 / 3 500  = **71.4%** | 7 140 € |
-| **Camille** | **0 parts**  | 0 / 3 500 = **0%** | 0 € |
+| personne | parts sociales | % des bénéfices en dividendes | montant € |
+| :-: | :-:  | :-: | :-: |
+| **Albert** | **100 parts**  | 100 / 350  = **28.6%** | 2 860 € |
+| **Bénédicte** | **250 parts**  | 250 / 350  = **71.4%** | 7 140 € |
+| **Camille** | **0 parts**  | 0 / 350 = **0%** | 0 € |
 | --- | ---  | --- | --- | --- |
 | totaux | **3 500 parts**  | 100% | **10 000 €** |
 
@@ -138,7 +138,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 ### Récapitulatif
 
 | personne | intéressement € | dividences € | total € |
-| --- | ---  | --- | --- |
+| :-: | --:  | --: | --: |
 | **Albert** | 17 850 € | 2 860 € | **20 710 €** |
 | **Bénédicte** | 14 300 € | 7 140 € | **21 440 €** |
 | **Camille** | 17 850 € | 0 € |  **17 850 €** |
