@@ -28,20 +28,18 @@ This repo is organized in the following order :
 ```
 
 
-
 ## Deployment 
 
 The contents are deployed with Netlify 
 
----
-
-Test deploy :
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
+- Test deploy : [![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
+- Official deploy : [![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
 
 ---
-Official deploy : 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
 
----
+## Contributions
+
+If you want to propose somme enhancements to our content please make pull requests against the `main` branch. We will review that with great pleasure :)
+
+You can also add issues directly in the reop, or add notes or issues from our [github "project" page](https://github.com/orgs/multi-coop/projects/3).
