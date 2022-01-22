@@ -119,7 +119,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 #### A. Calcul de l'intéressement des salarié·e·s
 
-- à répartir en intéressement : **50 000 €**
+- à répartir en intéressement : 
+  - 50% des bénéfices
+  - soit : 50% x 100 000 € = **50 000 €**
 
 | personne | ETP | % des bénéfices en intéressement | montant € |
 | :-: | :-:  | :-: | --: |
@@ -134,7 +136,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 #### B. Calcul des dividendes aux associé·e·s
 
-- à répartir en  dividendes : **10 000 €**
+- à répartir en  dividendes :
+  - 10% des bénéfices
+  - soit : 10% x 100 000 € = **10 000 €**
 
 | personne | parts sociales | % des bénéfices en dividendes | montant € |
 | :-: | :-:  | :-: | :-: |
@@ -145,9 +149,11 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | --- | ---  | --- | --- | --- |
 | totaux | **550 parts**  | 100% | **10 000 €** |
 
+<br>
+
 ---
 
-### Récapitulatif
+### Récapitulatif de la  répartition des bénéfices aux salarié·e·s et associé·e·s
 
 | personne | intéressement € | dividences € | total € |
 | :-: | --:  | --: | --: |
