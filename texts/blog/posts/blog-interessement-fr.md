@@ -139,7 +139,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 | **Albert** | **100 parts**  | 100 / 550  = **18.2%** | 1 819 € |
 | **Bénédicte** | **250 parts**  | 250 / 550  = **45.5%** | 4 545 € |
 | **Camille** | **0 parts**  | 0 / 550 = **0%** | 0 € |
-| **Doug** | **0 parts**  | 200 / 550 = **36.4%** | 3 636 € |
+| **Doug** | **200 parts**  | 200 / 550 = **36.4%** | 3 636 € |
 | --- | ---  | --- | --- | --- |
 | totaux | **550 parts**  | 100% | **10 000 €** |
 
