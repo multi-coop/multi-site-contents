@@ -32,6 +32,7 @@ items:
   - file: ./texts/blog/posts/blog-onboarding-fr.md
   - file: ./texts/blog/posts/blog-vie-coop-fr.md
   - file: ./texts/blog/posts/blog-why-multi-fr.md
+  - file: ./texts/who-are-we/statuts-fr.md
 
 dict:
   created:
