@@ -45,15 +45,25 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 ### Nos *settings* chez multi
 
-[var_reserves]: 40
-[var_interessement]: 50
-[var_dividendes]: 10
-[var_part_value]: 25
-[var_max_parts]: 300
+[var_reserves]: "40"
+[var_interessement]: "50"
+[var_dividendes]: "10"
+[var_part_value]: "25"
+[var_max_parts]: "300"
+
+
+<span id="var_part_value">...</span>
+
+<script>
+  const var_part_value = 25
+  var var_part_value_html = document.getElementById('var_part_value')
+  var_part_value_html.innerHTML = var_part_value
+</script>
+
 
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
 
-- **La valeur nominale d'une part sociale est de `[var_part_value] €`** ;
+- **La valeur nominale d'une part sociale est de [var_part_value] € ** ;
 - **`un plafond maximal de [var_max_parts] parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
