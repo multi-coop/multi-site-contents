@@ -14,7 +14,7 @@ Créer une coopérative est une aventure entrepreneuriale, militante, humaine. S
 
 Le numérique est devenu un moyen d'accès habituel et quotidien aux services publics. Au-delà des seuls acteurs publics, les acteurs de la société civile ou du moins les acteurs para-publics (associations, fondations, think tanks...) ont eux aussi plus que jamais **besoin de disposer d'outils et de compétences** leur permettant de proposer des services numériques efficaces afin de remplir leur rôle auprès de leurs publics.
 
-Les services numériques d'intérêt général sont toutefois des projets très particuliers, tant dans leurs aspects techniques que dans la sociologie des acteurs qu'ils impliquent (voir ["Can open source projects succeed when the producers are not users? Lessons from the data processing field"][ref_nicolas_julien_1] de Nicolas Jullien).
+Les services numériques d'intérêt général sont toutefois des projets très particuliers, tant dans leurs aspects techniques que dans la sociologie des acteurs qu'ils impliquent [^ref_N_Julien].
 
 Ajoutons que ces services se basent souvent sur des technologies *open source* (existantes ou originales) et que l’économie de tels projets peut se révéler délicate à pérenniser. Les acteurs publics ont ainsi à la fois **besoin de solutions libres déjà existantes et testées**, mais aussi de **pouvoir solliciter des compétences numériques** pour répondre à des besoins spécifiques.
 
@@ -25,9 +25,10 @@ La coopérative que nous proposons de créer se définit sur deux fronts :
 1. une structure qui **connaît les acteurs publics ou para-publics** et qui comprend leurs besoins, notamment en Ile de France ; 
 2. une structure qui **comprend les attentes et les besoins des professionnel·le·s du numérique** engagé·e·s.
 
+[^ref_N_Julien]: cf. ["Can open source projects succeed when the producers are not users? Lessons from the data processing field"][ref_nicolas_julien_1] de Nicolas Jullien
+
 [ref_nicolas_julien_1]: https://hal.archives-ouvertes.fr/hal-00737173/document
 [societe_a_mission]: https://www.economie.gouv.fr/cedef/societe-mission
-
 ---
 
 ## Comprendre les besoins des acteurs publics ou para-publics
@@ -36,17 +37,20 @@ Aujourd'hui les projets numériques d'intérêt général sont principalement co
 
 1. **La pérennité des projets numériques d'intérêt général est souvent fragile**. Très peu de compétences numériques sont ré-internalisées dans les institutions publiques, les projets sont développés dans des cycles parfois très courts, le turn-over est important au sein des équipes chargées de réaliser les projets, les prestataires sont souvent freelance ou embauchés sur des contrats courts (CDD)...
 
-1. Dans un contexte de réduction des effectifs et des moyens de la fonction publique, le recours à l'externalisation tend à devenir la norme ([voir cette note du collectif Nos Services Publics][externalisation]). Faute d'internalisation des compétences **seules quelques sociétés ont la masse critique suffisante pour répondre dans le cadre de marchés publics** ou de marchés cadre.
+1. Dans un contexte de réduction des effectifs et des moyens de la fonction publique, le recours à l'externalisation tend à devenir la norme [^ref_NSP]. Faute d'internalisation des compétences **seules quelques sociétés ont la masse critique suffisante pour répondre dans le cadre de marchés publics** ou de marchés cadre.
 
 1. Du fait de l’externalisation, il est **difficile de porter des projets de mutualisation et de création de communs**. Cet enjeu est de plus contradictoire avec les objectifs de nombreuses sociétés présentes sur le marché qui proposent des solutions concurrentes fermées et payantes.
 
 1. Cette difficulté à promouvoir la création de communs a pour conséquence que les administrations ont souvent une très forte dépendance à des outils commerciaux privés, dont une part importante repose sur des technologies étrangères. Cela pose la **question de l’autonomie numérique des administrations**.
 
-1. **L'*open source***, qui reste autant la base pour les communs numériques mais aussi [légalement la norme pour les acteurs publics][loi_lemaire], **possède des mécanismes de financement et de développement particuliers** (propriété intellectuelle, méthodologie, sociologie des acteurs... voir [ "Produire du logiciel libre… dans et pour l'administration" de Nicolas Jullien][ref_nicolas_julien_2]).
+1. **L'*open source***, qui reste autant la base pour les communs numériques mais aussi [légalement la norme pour les acteurs publics][loi_lemaire], **possède des mécanismes de financement et de développement particuliers** : propriété intellectuelle, méthodologie, sociologie des acteurs... [^ref_N_Julien_2].
 
 1. Le numérique est un secteur de pointe en constante évolution. **Les administrations ont besoin de compétences spécifiques, parfois sur des temps courts**. Les services de l’Etat ne peuvent que difficilement répondre à ce besoin de réactivité et de flexibilité, dans un contexte où le marché de l’emploi sur ces profils est très tendu et évolue très vite.
 
 1. La place du numérique est telle qu’aujourd’hui il ne s’agit pas seulement de développer des outils mais d’apporter des solutions, du conseil, et de créer de nouveaux services. Ainsi, **les administrations ont besoin d’être accompagnées sur tout le cycle de vie des projets numériques**, de l’idéation des nouveaux services jusqu’au déploiement et au support.
+
+[^ref_NSP]: cf. cette [note du collectif Nos Services Publics][externalisation]
+[^ref_N_Julien_2]: cf. [ "Produire du logiciel libre… dans et pour l'administration" de Nicolas Jullien][ref_nicolas_julien_2]
 
 [externalisation]: https://nosservicespublics.fr/externalisation
 [loi_lemaire]: https://www.economie.gouv.fr/republique-numerique
@@ -86,7 +90,7 @@ Une structure qui ne ferait que du portage salarial - en ne proposant qu'une sim
 
 [rapport_bothorel]: https://www.gouvernement.fr/partage/11979-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources
 
-Il existe aujourd'hui en France différentes [SCOP plus ou moins spécialisées dans le numérique][scop_num] (telles que Codeurs en liberté, Telescop, Coopaname, Happy  Dev...), mais ces SCOP peuvent se révéler parfois inadéquates pour différentes raisons quand il s'agit de répondre à ces projets.
+Il existe aujourd'hui en France différentes [SCOP plus ou moins spécialisées dans le numérique][scop_num] [^ref_actors], mais ces SCOP peuvent se révéler parfois inadéquates pour différentes raisons quand il s'agit de répondre à ces projets.
 
 [scop_num]: https://www.les-scop.coop/l-annuaire-des-scop-en-france
 
@@ -100,7 +104,7 @@ Les acteurs de leur filière numérique sont généralement soit relativement é
 
 **Nous pensons qu'il existe donc une place pour un acteur de type SCOP spécialisé sur le numérique d'intérêt général, capable de réaliser des projets "de bout en bout" (dev, design, data, management de projet), complémentaire des autres CAE et coopératives, dont les missions et la communauté gravitent autour des valeurs clés que sont les communs numériques, le logiciel libre et l’open data.**
 
-De nombreuses structures de l'économie sociale et solidaires ou des *[civic techs][civic_tech]* composent aujourd'hui un réseau dense d'acteurs intéressés par les questions que pose le numérique au service des citoyens (*). Il manque toutefois à ce réseau une pièce importante, celle d'un vivier actif et engagé, de la taille nécessaire pour répondre aux besoins des acteurs publics ou para-publics, et en capacité à produire des outils libres, efficaces et accessibles.
+De nombreuses structures de l'économie sociale et solidaires ou des *[civic techs][civic_tech]* composent aujourd'hui un réseau dense d'acteurs intéressés par les questions que pose le numérique au service des citoyens [^ref_actors]. Il manque toutefois à ce réseau une pièce importante, celle d'un vivier actif et engagé, de la taille nécessaire pour répondre aux besoins des acteurs publics ou para-publics, et en capacité à produire des outils libres, efficaces et accessibles.
 
 [civic_tech]: https://fr.wikipedia.org/wiki/Technologie_civique
 
@@ -116,32 +120,36 @@ Le modèle de la SCOP que nous proposons ici offre de nombreux avantages pour pr
 - **Une structure pérenne, identifiable, dont la taille permet de répondre à des projets complexes et ambitieux et en capacité à créer / produire des outils numériques innovants, sur mesure ou sur étagère** ;
 - **Affirmer une présence et une complémentarité au sein des réseaux d'acteurs historiques du numérique d'intérêt général**.
 
+
+
 ---
 
-_(*) parmi ces acteurs de la société civile, on comptera dans le désordre et sans être exhaustifs :_
-- [la MednNum][mednum]
-- [Open Data France][odf]
-- [Datactivist][datactivist]
-- [Data Publica][datapublica]
-- [Latitudes][latitudes]
-- [la Fing][fing]
-- [Numéricités][numericites]
-- [PiNG][ping]
-- [Open Street Map France][osm_fr]
-- [Wikimedia][wikimedia]
-- [l'Assemblée Virtuelle][assemblee_virtuelle]
-- [Inno3][inno3]
-- [Scopyleft][scopyleft]
-- [Code Lutin][code_lutin]
-- [Open Source Politics][osp]
-- [Fairness][fairness]
-- [Code For France][cff]
-- [Vraiment Vraiment][vraiment_vraiment]
-- [la 27ème région][27e_region]
-- [Data For Good][dataforgood]
-- [Scop It][scop_it]
-- [Startin' Blox][startin_blox]
-- [Codeurs en liberté][codeurs_en_liberte]
+#### Notes de bas de page :  
+
+[^ref_actors]: _Parmi ces acteurs de la société civile, on comptera dans le désordre et sans être exhaustifs :_
+\- [la MednNum][mednum] ;
+\- [Open Data France][odf] ;
+\- [Datactivist][datactivist] ;
+\- [Data Publica][datapublica] ;
+\- [Latitudes][latitudes] ;
+\- [la Fing][fing] ;
+\- [Numéricités][numericites] ;
+\- [PiNG][ping] ;
+\- [Open Street Map France][osm_fr] ;
+\- [Wikimedia][wikimedia] ;
+\- [l'Assemblée Virtuelle][assemblee_virtuelle] ;
+\- [Inno3][inno3] ;
+\- [Scopyleft][scopyleft] ;
+\- [Code Lutin][code_lutin] ;
+\- [Open Source Politics][osp] ;
+\- [Fairness][fairness] ;
+\- [Code For France][cff] ;
+\- [Vraiment Vraiment][vraiment_vraiment] ;
+\- [la 27ème région][27e_region] ;
+\- [Data For Good][dataforgood] ;
+\- [Scop It][scop_it] ;
+\- [Startin' Blox][startin_blox] ;
+\- [Codeurs en liberté][codeurs_en_liberte] ;
 
 [mednum]: https://lamednum.coop/
 [odf]: https://www.opendatafrance.net/
