@@ -62,7 +62,7 @@ Aujourd'hui les projets numériques d'intérêt général sont principalement co
 
 Construire, développer, concevoir, ou « designer » de tels services demande de faire appel à des **compétences techniques spécifiques** (*design*, informatique, gestion de projet...), mais aussi à **des pratiques et une éthique particulières** : connaissance des réseaux d'acteurs publics ou para-publics ; connaissance et respect du RGPD ; promotion de l'open data ; capacité à mener des projets de logiciels libres…
 
-Des expériences telles que le [programme EIG][eig] (Entrepreneur d'Intérêt Général), [DIG][dig] (Designers d'Intérêt Général), ou encore les associations [Data for good][dataforgood] et [Latitudes][latitudes] ont démontré qu'il existait un **réel [vivier de développeur·euse·s et designers][vivier] mus par la volonté de travailler pour l'intérêt général**. Ces expériences ont aussi démontré leur valeur en produisant [quantité de services][startups_d_etat] innovants, accessibles.
+Des expériences telles que le [programme EIG][eig] (Entrepreneur d'Intérêt Général), [DIG][dig] (Designers d'Intérêt Général), ou encore les associations [Data for good] et [Latitudes] ont démontré qu'il existait un **réel [vivier de développeur·euse·s et designers][vivier] mus par la volonté de travailler pour l'intérêt général**. Ces expériences ont aussi démontré leur valeur en produisant [quantité de services][startups_d_etat] innovants, accessibles.
 
 Les efforts du secteur public pour inciter les professionnels du numériques à s’engager pour l’intérêt général se trouvent diminués par l’impossibilité dans de nombreux cas de conserver les compétences (à la fin des programmes EIG par exemple). Faute de structure d’accueil adaptée, **les compétences spécifiques développées (connaissance du secteur public, engagement…) se retrouvent disséminées dans le secteur privé classique et ne sont plus valorisées par les administrations**.
 
@@ -127,53 +127,55 @@ Le modèle de la SCOP que nous proposons ici offre de nombreux avantages pour pr
 #### Notes de bas de page :  
 
 [^ref_actors]: _Parmi ces acteurs de la société civile, on comptera dans le désordre et sans être exhaustifs :_
-\- [la MednNum][mednum] ;
-\- [Open Data France][odf] ;
-\- [Datactivist][datactivist] ;
-\- [Data Publica][datapublica] ;
-\- [Latitudes][latitudes] ;
-\- [la Fing][fing] ;
-\- [Numéricités][numericites] ;
-\- [PiNG][ping] ;
-\- [Open Street Map France][osm_fr] ;
-\- [Wikimedia][wikimedia] ;
-\- [l'Assemblée Virtuelle][assemblee_virtuelle] ;
-\- [Inno3][inno3] ;
-\- [Scopyleft][scopyleft] ;
-\- [Code Lutin][code_lutin] ;
-\- [Open Source Politics][osp] ;
-\- [Fairness][fairness] ;
-\- [Code For France][cff] ;
-\- [Vraiment Vraiment][vraiment_vraiment] ;
-\- [la 27ème région][27e_region] ;
-\- [Data For Good][dataforgood] ;
-\- [Scop It][scop_it] ;
-\- [Startin' Blox][startin_blox] ;
-\- [Codeurs en liberté][codeurs_en_liberte] ;
+\- [la MedNum] ;
+\- [Open Data France] ;
+\- [Datactivist] ;
+\- [Data Publica] ;
+\- [Latitudes] ;
+\- [la Fing] ;
+\- [Data for good] ;
+\- [Numéricités] ;
+\- [PiNG] ;
+\- [Open Street Map France] ;
+\- [Wikimedia] ;
+\- [l'Assemblée Virtuelle] ;
+\- [Inno3] ;
+\- [Scopyleft] ;
+\- [Code Lutin] ;
+\- [Open Source Politics] ;
+\- [Fairness] ;
+\- [Code For France] ;
+\- [Vraiment Vraiment] ;
+\- [la 27ème région] ;
+\- [Scop It] ;
+\- [Startin' Blox] ;
+\- [Codeurs en liberté] ;
+\ ...
 
-[mednum]: https://lamednum.coop/
-[odf]: https://www.opendatafrance.net/
-[datactivist]: https://datactivist.coop/fr/
-[datapublica]: https://www.data-publica.eu/
-[latitudes]: https://www.latitudes.cc/
-[fing]: https://fing.org/
-[numericites]: https://numericite.eu/
-[ping]: https://www.pingbase.net/
-[osm_fr]: https://www.openstreetmap.fr/
-[wikimedia]: https://www.wikimedia.org/
-[assemblee_virtuelle]: https://www.virtual-assembly.org/association-virtual-assembly/
-[inno3]: https://inno3.fr/
-[scopyleft]: http://scopyleft.fr/en/
-[code_lutin]: https://www.codelutin.com/
-[osp]: https://opensourcepolitics.eu/en/
-[fairness]: https://fairness.coop/
-[cff]: https://codefor.fr/
-[vraiment_vraiment]: https://vraimentvraiment.com/
-[27e_region]: https://www.la27eregion.fr/
-[dataforgood]: https://dataforgood.fr/
-[scop_it]: http://scop-it.com/
-[startin_blox]: https://startinblox.com/
-[codeurs_en_liberte]: https://www.codeursenliberté.fr/
+
+[la MedNum]: https://lamednum.coop/
+[Open Data France]: https://www.opendatafrance.net/
+[Datactivist]: https://datactivist.coop/fr/
+[Data Publica]: https://www.data-publica.eu/
+[Latitudes]: https://www.latitudes.cc/
+[la Fing]: https://fing.org/
+[Numéricités]: https://numericite.eu/
+[PiNG]: https://www.pingbase.net/
+[Open Street Map France]: https://www.openstreetmap.fr/
+[Wikimedia]: https://www.wikimedia.org/
+[l'Assemblée Virtuelle]: https://www.virtual-assembly.org/association-virtual-assembly/
+[Inno3]: https://inno3.fr/
+[Scopyleft]: http://scopyleft.fr/en/
+[Code Lutin]: https://www.codelutin.com/
+[Open Source Politics]: https://opensourcepolitics.eu/en/
+[Fairness]: https://fairness.coop/
+[Code For France]: https://codefor.fr/
+[Vraiment Vraiment]: https://vraimentvraiment.com/
+[la 27ème région]: https://www.la27eregion.fr/
+[Data for good]: https://dataforgood.fr/
+[Scop It]: http://scop-it.com/
+[Startin' Blox]: https://startinblox.com/
+[Codeurs en liberté]: https://www.codeursenliberté.fr/
 
 
 
