@@ -1,5 +1,5 @@
 ---
-title: Intéressement des salarié·e·s et des associé·e·s
+title: Sociétariat et intéressement chez multi
 tags: [ multi, intéressement, dividendes ]
 created: 22/01/2021
 updated: 22/01/2021
@@ -67,13 +67,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### A. Réserves pour l'entreprise
 
-**Règles & méthode de calcul**
-
 - **40% des bénéfices vont en réserves pour la coopérative** ;
 
 ### B. Intéressement pour les salarié·e·s
-
-**Règles & méthode de calcul**
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
 - Indexé sur le temps de travail ;
@@ -81,8 +77,6 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - la somme est placée sur un compte individuel d´épargne salariale ;
 
 ### C. Dividendes pour les associé·e·s
-
-**Règles & méthode de calcul**
 
 - Ouvert à tous les associé·e·s ;
 - Indexé sur le nombre de parts sociales détenues ;
