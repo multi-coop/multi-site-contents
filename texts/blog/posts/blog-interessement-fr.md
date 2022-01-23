@@ -13,7 +13,9 @@ author: multi
 > Les **points sur lesquels nous devons nous accorder en vue du dépôt des statuts** sont essentiellement **les points encadrés de `backquotes` ( \` )**.
 >
 > Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futurs (genre les personnes qu'on voudrait recruter et qui viendraient voir notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie blog de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
-> <br>
+> &nbsp;
+
+<br>
 
 [multi]: https://multi.coop/blog
 
