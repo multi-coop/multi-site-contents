@@ -43,7 +43,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 ---
 
-**Note** Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
+**Note :** 
+
+Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
 ### Réserves pour l'entreprise
 
