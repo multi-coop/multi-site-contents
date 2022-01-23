@@ -60,7 +60,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
   - une fois atteint le plafond de 300 parts, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête.
 - **Les associé·e·s doivent être salarié·e·s**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
 - le mécanisme d'intéressement ne se déclenche **que si la personne est salariée depuis au moins 1 an** dans la coopérative ;
-- les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €** ;
+- les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
 
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
@@ -115,7 +115,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### Calcul de la répartition
 
-Les statuts de la coopérative concernant la répartition des bénéfices donnent en premier lieu les sommes suivantes, partant d´un bénéfice global de 100 000 € en fin d´exercice :
+Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant donc 40 000 €, les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s. Cela donne en premier lieu les masses suivantes à répartir.
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
