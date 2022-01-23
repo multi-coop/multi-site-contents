@@ -52,25 +52,26 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 ### Réserves pour l'entreprise
 
-##### Règles & méthode de calcul
+**Règles & méthode de calcul**
 
-- **40% des bénéfices vont en réserves pour la coopérative**
+- **40% des bénéfices vont en réserves pour la coopérative** ;
 
 ### Intéressement pour les salarié·e·s
 
-##### Règles & méthode de calcul
+**Règles & méthode de calcul**
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
 - Indexé sur le temps de travail ;
-- **50% des bénéfices sont répartis en intéressement aux salarié·e·s**
+- **50% des bénéfices sont répartis en intéressement aux salarié·e·s** ;
+- la somme est placée sur un compte d´épargne salariale ;
 
 ### Dividendes pour les associé·e·s
 
-##### Règles & méthode de calcul
+**Règles & méthode de calcul**
 
 - Ouvert à tous les associé·e·s ;
 - Indexé sur le nombre de parts sociales détenues ;
-- **10% des bénéfices sont répartis en dividendes aux associé·e·s**
+- **10% des bénéfices sont répartis en dividendes aux associé·e·s** ; 
 
 ---
 
