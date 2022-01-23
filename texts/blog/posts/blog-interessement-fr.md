@@ -188,12 +188,9 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 | --- | ---  | --- | --- | --- |
 | totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
 
+<br>
 
-
-
-
-
-
+---
 
 *[SCOP]: Société coopérative et participative
 
@@ -214,6 +211,8 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 *[réserves]: Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices. Source : les-scop.coop/foire-aux-questions
 
 *[associé]: Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé. Source : les-scop.coop/foire-aux-questions
+
+
 
 [^scops]: voir aussi la [FAQ][scop] de la CGSCOP
 [^interessement]: voir [les infos sur l'intéressement sur service-public.fr][interessement]
