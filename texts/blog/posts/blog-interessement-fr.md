@@ -17,8 +17,8 @@ Notre credo est d'être complètement **transparent sur la répartition des bén
 
 La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
 
-- lien vers les statuts : ...
-- lien vers l´accord d´intéressement : ...
+- lien vers les statuts : `à écrire et publier dans un fichier .md `;
+- lien vers l´accord d´intéressement : `à écrire et publier dans un fichier .md ` ;
 
 ---
 
