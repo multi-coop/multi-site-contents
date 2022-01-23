@@ -66,7 +66,7 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
 
-- **La valeur nominale d'une part sociale est de `25 €` ** ;
+- **La valeur nominale d'une part sociale est de `25 €`** ;
 - **`un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
