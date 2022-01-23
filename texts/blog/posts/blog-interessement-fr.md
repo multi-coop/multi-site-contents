@@ -130,6 +130,7 @@ Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant don
 
 #### 1. Calcul de l'intéressement des salarié·e·s
 
+- toutes les personnes sont en mesure de bénéficier de l´intéressement car étant salariées depuis 1 an ;
 - à répartir en intéressement : 
   - 50% des bénéfices
   - soit : 50% x 100 000 € = **50 000 €**
@@ -147,6 +148,7 @@ Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant don
 
 #### 2. Calcul des dividendes aux associé·e·s
 
+- toutes les personnes possédant des parts sociales sont en mesure de bénéficier des dividendes car étant salariées depuis 1 an ;
 - à répartir en  dividendes :
   - 10% des bénéfices
   - soit : 10% x 100 000 € = **10 000 €**
