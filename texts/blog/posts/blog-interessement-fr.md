@@ -6,11 +6,14 @@ updated: 22/01/2021
 author: multi
 ---
 
-Les SCOP offrent un cadre juridique et légal permettant de donner un cadre et une mécanique clairs à l'intéressement et/ou à la répartition des dividendes auprès des salarié·e·s et des associé·e·s.
+Les SCOP offrent un cadre juridique et légal permettant de donner **un cadre et une mécanique clairs à l'intéressement et/ou à la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
 
-Notre credo est d'être complètement transparent sur la répartition des bénéfices, de trouver un équilibre juste entre associé·e·s et salarié·e·s, rendre la coopérative attractive, et de pérenniser la coopérative dans son modèle économique.
+Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un équilibre juste entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
 
-Comme cela est mentionné dans nos statuts, les bénéfices en fin d'exercice sont répartis de la manière suivante :
+La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
+
+- lien vers les statuts : ...
+- lien vers l´accord d´intéressement : ...
 
 ---
 
