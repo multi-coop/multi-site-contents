@@ -20,27 +20,6 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 - lien vers les statuts : ...
 - lien vers l´accord d´intéressement : ...
 
-*[SCOP]: Société coopérative et participative
-*[AG]: Assemblée Générale
-*[parts sociales]: une part sociale = une action
-*[part sociale]: une part sociale = une action
-*[valeur nominale]: valeur en euros d'une ou plusieurs parts sociales
-*[intéressement]: L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps. Source : service public.fr
-*[participation]: Synonyme de l'intéressement (au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non. Source : les-scop.coop/foire-aux-questions
-*[dividendes]: Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %). Source : les-scop.coop/foire-aux-questions
-*[réserves]: Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices. Source : les-scop.coop/foire-aux-questions
-*[associé]: Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé. Source : les-scop.coop/foire-aux-questions
-
-[^scops]: voir aussi la [FAQ][scop] de la CGSCOP
-[^interessement]: voir [les infos sur l'intéressement sur service-public.fr][interessement]
-[^demission]: Les salariés associés sont libres de quitter la Scop pour différentes raisons (retraite, démission, licenciement…).
-En cas de départ d'un salarié ayant le statut d'associé, le capital qu’il a investi lui est remboursé sans plus-value.
-La Scop a au maximum 5 ans pour rembourser le salarié associé. Source : [FAQ][scop] de la CGSCOP
-
-[scop]: https://www.les-scop.coop/foire-aux-questions
-[interessement]: https://www.service-public.fr/particuliers/vosdroits/F2140
-
-
 ---
 
 ## Encadrement légal
@@ -208,3 +187,30 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 | **coopérative** | - €  | - € | 40 000 € | **40 000 €** |
 | --- | ---  | --- | --- | --- |
 | totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
+
+
+
+
+
+
+
+
+*[SCOP]: Société coopérative et participative
+*[AG]: Assemblée Générale
+*[parts sociales]: une part sociale = une action
+*[part sociale]: une part sociale = une action
+*[valeur nominale]: valeur en euros d'une ou plusieurs parts sociales
+*[intéressement]: L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps. Source : service public.fr
+*[participation]: Synonyme de l'intéressement (au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non. Source : les-scop.coop/foire-aux-questions
+*[dividendes]: Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %). Source : les-scop.coop/foire-aux-questions
+*[réserves]: Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices. Source : les-scop.coop/foire-aux-questions
+*[associé]: Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé. Source : les-scop.coop/foire-aux-questions
+
+[^scops]: voir aussi la [FAQ][scop] de la CGSCOP
+[^interessement]: voir [les infos sur l'intéressement sur service-public.fr][interessement]
+[^demission]: Les salariés associés sont libres de quitter la Scop pour différentes raisons (retraite, démission, licenciement…).
+En cas de départ d'un salarié ayant le statut d'associé, le capital qu’il a investi lui est remboursé sans plus-value.
+La Scop a au maximum 5 ans pour rembourser le salarié associé. Source : [FAQ][scop] de la CGSCOP
+
+[scop]: https://www.les-scop.coop/foire-aux-questions
+[interessement]: https://www.service-public.fr/particuliers/vosdroits/F2140
