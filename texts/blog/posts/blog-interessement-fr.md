@@ -44,7 +44,7 @@ De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peu
 
 ### Nos *settings* chez multi
 
-Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tous les associé·e·s en AG :
+Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
 
 - **La valeur nominale d'une part sociale est de 25 €** ;
 - **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale). Ce plafond sert plusieurs objectifs : 
