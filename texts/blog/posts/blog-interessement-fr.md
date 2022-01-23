@@ -41,6 +41,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 - **valeur nominale d'une part sociale : 25 €** ;
 - **plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale) ;
+- **tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
 - **mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
 - **les associé·e·s doivent être salarié·e·s** ;
 - le mécanisme ne se déclenche que si la personne **est salariée depuis au moins 1 an** dans la coopérative ;
