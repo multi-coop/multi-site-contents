@@ -54,7 +54,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - **Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
 - **Un mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
-  - il•elle prend au minimum 1 part au capital (soit 25€), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la cooperative, et dans la limite de 100 parts initiales.
+  - il•elle prend au minimum 1 part au capital (soit 25€), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative, et dans la limite de 100 parts initiales.
   - il•elle choisit du nombre de parts souscrites chaque mois, entre 3 et 16 parts. Exemples : 
     - chaque mois 75 € sont prélevés sur le salaire de la personne salariée et sont converties en 3 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 36 parts sociales supplémentaires.
     - chaque mois 400 € sont prélevés sur le salaire de la personne salariée et sont converties en 16 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 192 parts sociales supplémentaires.
