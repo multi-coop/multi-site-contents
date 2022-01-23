@@ -64,7 +64,7 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 ### Nos *settings* chez multi
 
-Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
+Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votées par tou•te•s les associé·e·s en AG :
 
 - **La valeur nominale d'une part sociale est de `25 €`** ;
 - **`Un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
