@@ -37,52 +37,59 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 ## L'intéressement et les dividendes chez multi
 
-Nous avons opté pour un *mix* entre intéressement et dividendes, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
+Nous avons opté pour `un *mix* entre intéressement et dividendes`, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
 Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme d´intéressement. Cet intéressement est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en intéressement est placée dans un compte individuel d´épargne salariale.
 
-De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer **un plafond de parts sociales par associé•e**, mettre en place **un mécanisme de souscription de parts**, et **limiter la part octroyée aux dividendes dans la répartition des bénéfices**.
+`De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer **un plafond de parts sociales par associé•e**, mettre en place **un mécanisme de souscription de parts**, et **limiter la part octroyée aux dividendes dans la répartition des bénéfices**.`
 
 ### Nos *settings* chez multi
 
+[var_reserves]: 40
+[var_interessement]: 50
+[var_dividendes]: 10
+[var_part_value]: 25
+[var_max_parts]: 300
+
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
 
-- **La valeur nominale d'une part sociale est de 25 €** ;
-- **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale). Ce plafond sert plusieurs objectifs : 
+- **La valeur nominale d'une part sociale est de `[var_part_value] €`** ;
+- **`un plafond maximal de [var_max_parts] parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
   - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé.
-- **Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **Un mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
+- **`Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e`**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
+- **`Un mécanisme de souscription progreessif de parts sociales`**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
   - il•elle prend au minimum 1 part au capital (soit 25€), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative, et dans la limite de 100 parts initiales.
   - il•elle choisit du nombre de parts souscrites chaque mois, entre 3 et 16 parts. Exemples : 
     - chaque mois 75 € sont prélevés sur le salaire de la personne salariée et sont converties en 3 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 36 parts sociales supplémentaires.
     - chaque mois 400 € sont prélevés sur le salaire de la personne salariée et sont converties en 16 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 192 parts sociales supplémentaires.
   - une fois atteint le plafond de 300 parts, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête.
-- **Les associé·e·s doivent être salarié·e·s**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
-- le mécanisme d'intéressement ne se déclenche **que si la personne est salariée depuis au moins 1 an** dans la coopérative ;
-- les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+- **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
+- le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
+- les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+
 
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
 ### A. Réserves pour l'entreprise
 
-- **40% des bénéfices vont en réserves pour la coopérative** ;
+- **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
 ### B. Intéressement pour les salarié·e·s
 
-- Ouvert à tous les salarié·e·s (associé·e·s ou non), si la personne est salariée depuis au moins 1 an ;
+- Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
-- **50% des bénéfices sont répartis en intéressement aux salarié·e·s** ;
+- **`50%` des bénéfices sont répartis en intéressement aux salarié·e·s** ;
 - la somme est placée sur un compte individuel d´épargne salariale ;
 
 ### C. Dividendes pour les associé·e·s
 
-- Ouvert à tous les associé·e·s, si la personne est associée depuis au moins 1 an ;
+- Ouvert à tous les associé·e·s, `si la personne est associée depuis au moins 1 an` ;
 - Indexé sur le nombre de parts sociales détenues ;
-- **10% des bénéfices sont répartis en dividendes aux associé·e·s** ; 
+- **`10%` des bénéfices sont répartis en dividendes aux associé·e·s** ; 
 
 ---
 
@@ -109,9 +116,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 550 parts ;
 - La répartition statutaire des bénéfices votée en AG se décompose ainsi :
-  - **réserves** : 40% des bénéfices ;
-  - **intéressement** : 50% des bénéfices ;
-  - **dividendes** : 10% des bénéfices ;
+  - **réserves** : `40%` des bénéfices ;
+  - **intéressement** : `50%` des bénéfices ;
+  - **dividendes** : `10%` des bénéfices ;
 
 <br>
 
@@ -122,9 +129,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
-| **réserves** | **40%**  | **40 000 €** | la coopérative |
-| **intéressement** | **50%**  | **50 000 €** | les salarié·e·s |
-| **dividendes** | **10%**  | **10 000 €** | les associé·e·s |
+| **réserves** | **`40%`**  | **40 000 €** | la coopérative |
+| **intéressement** | **`50%`**  | **50 000 €** | les salarié·e·s |
+| **dividendes** | **`10%`**  | **10 000 €** | les associé·e·s |
 | --- | ---  | --- | --- | --- |
 | totaux | **100%**  | **100 000 €** |  |
 
@@ -134,8 +141,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - toutes les personnes sont en mesure de bénéficier de l´intéressement car étant salariées depuis 1 an ;
 - à répartir en intéressement : 
-  - 50% des bénéfices
-  - soit : 50% x 100 000 € = **50 000 €**
+  - **`50%`** des bénéfices
+  - soit : `50%` x 100 000 € = **50 000 €**
 
 | personne | ETP | % des bénéfices en intéressement | montant € |
 | :-: | :-:  | :-: | --: |
@@ -152,8 +159,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - toutes les personnes possédant des parts sociales sont en mesure de bénéficier des dividendes car étant salariées depuis 1 an ;
 - à répartir en  dividendes :
-  - 10% des bénéfices
-  - soit : 10% x 100 000 € = **10 000 €**
+  - **`10%`** des bénéfices
+  - soit : `10%` x 100 000 € = **10 000 €**
 
 | personne | parts sociales | % des bénéfices en dividendes | montant € |
 | :-: | :-:  | :-: | :-: |
