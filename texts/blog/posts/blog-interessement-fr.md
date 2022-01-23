@@ -154,7 +154,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-### 3. Récapitulatif de la  répartition des bénéfices
+#### 3. Récapitulatif de la  répartition des bénéfices
 
 En fin d´exercice et étant donnés les variables de cette simulation, la répartition des bénéfices se décompose ainsi :
 
