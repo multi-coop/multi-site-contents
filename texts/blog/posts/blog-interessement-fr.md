@@ -104,7 +104,7 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 ### Calcul de la répartition
 
-| - | % | montant à répartir | bénéficiaire(s) |
+| - | % des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
 | **réserves** | **40%**  | **40 000 €** | la coopérative |
 | **intéressement** | **50%**  | **50 000 €** | les salarié·e·s |
