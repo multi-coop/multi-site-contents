@@ -29,8 +29,8 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 - **Le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
   - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales**
-  - **aucun associé•e ne peut être majoritaire et détenir plus de 49% des parts sociales** ;
-- La valeur nominale d´une part sociale ne peut pas être inférieure à 16 € ;
+  - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
+- La valeur nominale d´une part sociale doit être comprise entre 16 € et 75 € ;
 
 ---
 
