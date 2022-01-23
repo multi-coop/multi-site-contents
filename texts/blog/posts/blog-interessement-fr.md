@@ -157,4 +157,4 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 | --- | ---  | --- | --- | --- |
 | **coopérative** | 0 €  | 0 € | 40 000 € | **40 000 €** |
 | --- | ---  | --- | --- | --- |
-| totaux | **50 000 €**  | **10 000 €** | **40 000 € | **100 000 €** |
+| totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
