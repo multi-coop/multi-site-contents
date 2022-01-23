@@ -49,4 +49,4 @@ Notre intuition profonde est que le numérique aura toute sa place dans toutes l
 
 - Comment **organiser la transmission des savoirs et des savoir-faires entre générations**, en prenant en compte à la fois l’urgence climatique et le fait que les communautés innovantes sur la question des communs sont aujourd’hui encore très morcelées et minoritaires ?
 
-- Sur le modèle de l'enseignement des écoles d'architecture (pluridisciplinaire et orienté projet), comment **imaginer une école du numérique libre et commun* ?
+- Sur le modèle de l'enseignement des écoles d'architecture (pluridisciplinaire et orienté projet), comment **imaginer une école du numérique libre et commun** ?
