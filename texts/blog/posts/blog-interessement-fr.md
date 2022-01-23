@@ -37,7 +37,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 Nous avons opté pour un *mix* entre intéressement et dividendes, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
-Le principe général que nous tentons de concrétiser est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme d´intéressement. Cet intéressement est donc indexé sur le temps de travail de chacun•e.
+Le principe général que nous tentons de concrétiser est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme d´intéressement. Cet intéressement est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en intéressement est placée dans un compte individuel d´épargne salariale.
 
 De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer un plafond de parts par associé•e, mettre en place un mécanisme de souscription, et limiter enfin la part octroyée aux dividendes dans la répartition des bénéfices.
 
