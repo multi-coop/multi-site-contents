@@ -54,23 +54,21 @@ Au bout d'un an de CDD (maximum) depuis le démarrage en tant que salarié·e, l
 - Un·e associé·e = une voix (ne dépend  pas du montant de capital apporté) ; 
 - Prise de participation au capital ;
 - Salaire égal pour tou.te.s les salarié·e.s, montant décidé collectivement annuellement (ex. 3 000€ nets/mois) ;
-- Pas de dividendes pour les sociétaires, mais une répartition égalitaire des bénéfices parmi les salarié·e·s associé·e·s;
+- Répartition égalitaire des bénéfices parmi les salarié·e·s (accord d´intéressement) ; 
+- Dividendes (limités) pour les associé·e·s;
 - Primes complémentaires selon les besoins de chacun·e, et votées collectivement : par exemple dans le cas d'une naissance, d'un achat immobilier ou exceptionnel, d'une incapacitation, du mode de transport…
 - Possibilité de consacrer 20 jours par an à des projets collectifs ou communs (être minimum 2 pour proposer un projet libre commun) : R&D, communication, administratif, etc.... - Ces projets seront discutés / approuvés / refusés par le collectif ;
-Chacun·e peut apporter des nouveaux projets facturables (développement, conseil, design…) ;
-- Sociétariat :
-  - minimum 65% des voix
-  - minimum 51% des parts 
+- Chacun·e peut apporter des nouveaux projets facturables (développement, conseil, design…) ;
 
 
 #### Salarié·e Non Associé·e / Coopérateur·rice
 
-- CDD, fléché sur un ou des projets de multi ;
-- Durée minimale de 3 mois, maximale de 1 an ; 
+- CDD, fléché sur un ou des projets de multi, puis CDI ;
 - Salaire égal pour tou.te.s les salarié·e.s, montant décidé collectivement annuellement (ex. 3 000€ nets/mois) ;
+- Répartition égalitaire des bénéfices parmi les salarié·e·s (accord d´intéressement) ; 
 - La période de CDD permet de s'immerger dans le quotidien du collectif : présence lors des AG, des points hebdo, points mensuels, points trimestriels, travail en équipe… ; 
-- Au terme du CDD et si à la fois les associé·e·s salarié·e·s et le salarié·e  non associé·e en émettent le souhait, passage au statut d'associé·e salarié·e (prise de participation au capital + CDI);
-- Le droit / devoir à consacrer 20 jours par an à des projets collectifs ou communs (être minimum 2 pour proposer un projet libre commun) : R&D, communication, administratif, etc.... - Ces projets seront discutés / approuvés / refusés par le collectif ;
+- Au terme du CDD et si à la fois les associé·e·s salarié·e·s et le salarié·e non associé·e en émettent le souhait, passage au statut d'associé·e salarié·e (prise de participation au capital + CDI);
+- Le droit à consacrer 20 jours par an à des projets collectifs ou communs (être minimum 2 pour proposer un projet libre commun) : R&D, communication, administratif, etc.... - Ces projets seront discutés / approuvés / refusés par le collectif ;
 - Donne pas droit de vote lors des AG
 - Droit à une part minorée du partage égalitaire des bénéfices ;  
 - Système de parrainage ?
@@ -78,7 +76,7 @@ Chacun·e peut apporter des nouveaux projets facturables (développement, consei
 
 ### Sympathisant·e 
 
-- Non associé·e, non salarié·e, membre du collège des parties prenantes ;
+- Non associé·e, non salarié·e, membre d´une communauté informelle des parties prenantes ;
 - Pas de participation au capital / sociétariat ;
 - Système de don / cagnottes / association extérieure ?
 - Participation aux discussions lors des AG, mais pas de droit de vote ;
