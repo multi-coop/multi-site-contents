@@ -21,9 +21,9 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
 
-- la part travail : participation (ou intéressement) ;
-- la part entreprise : ce sont les réserves.
-- la part capital, ou dividendes.
+- la **part travail** : participation (ou intéressement) ;
+- la **part entreprise** : ce sont les réserves.
+- la **part capital**, ou dividendes.
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
