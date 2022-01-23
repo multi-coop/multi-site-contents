@@ -6,7 +6,12 @@ updated: 22/01/2021
 author: multi
 ---
 
-Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
+Les SCOP [^scops] offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement  [^interessement] et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
+
+Les bénéfices de la Scop sont obligatoirement répartis en trois parts : 
+- la part travail : participation (ou intéressement) ;
+- la part entreprise : ce sont les réserves. 
+- la part capital, ou dividendes. 
 
 Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un juste équilibre entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
 
@@ -15,7 +20,26 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 - lien vers les statuts : ...
 - lien vers l´accord d´intéressement : ...
 
+*[SCOP]: Société coopérative et participative
 *[AG]: Assemblée Générale
+*[parts sociales]: une part sociale = une action
+*[part sociale]: une part sociale = une action
+*[valeur nominale]: valeur en euros d'une ou plusieurs parts sociales
+*[intéressement]: L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps. Source : service public.fr
+*[participation]: Synonyme de l'intéressement (au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non. Source : les-scop.coop/foire-aux-questions
+*[dividendes]: Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %). Source : les-scop.coop/foire-aux-questions
+*[réserves]: Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices. Source : les-scop.coop/foire-aux-questions
+*[associé]: Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé. Source : les-scop.coop/foire-aux-questions
+
+[^scops]: voir aussi la [FAQ][scop] de la CGSCOP
+[^interessement]: voir [les infos sur l'intéressement sur service-public.fr][interessement]
+[^demission]: Les salariés associés sont libres de quitter la Scop pour différentes raisons (retraite, démission, licenciement…).
+En cas de départ d'un salarié ayant le statut d'associé, le capital qu’il a investi lui est remboursé sans plus-value.
+La Scop a au maximum 5 ans pour rembourser le salarié associé. Source : [FAQ][scop] de la CGSCOP
+
+[scop]: https://www.les-scop.coop/foire-aux-questions
+[interessement]: https://www.service-public.fr/particuliers/vosdroits/F2140
+
 
 ---
 
@@ -26,9 +50,9 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 - Répartition des bénéfices en fin d´exercice : 
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
   - **intéressement** des salarié•e•s : minimum 25% des bénéfices ;
-  - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement ;
-- **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
-- **Le sociétariat doit respecter les règles suivantes** : 
+  - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement, au maximum 33% [^scops] ;
+- **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) [^demission];
+- **Le sociétariat doit respecter les règles suivantes** [^scops] : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
   - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales** ;
   - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
@@ -47,17 +71,10 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 ### Nos *settings* chez multi
 
-[var_reserves]:  "40"
-[var_interessement]: "50"
-[var_dividendes]: "10"
-[var_part_value]: "25"
-[var_max_parts]: "300"
-
-
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tou•te•s les associé·e·s en AG :
 
 - **La valeur nominale d'une part sociale est de `25 €` ** ;
-- **`un plafond maximal de [var_max_parts] parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
+- **`un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
   - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé.
@@ -128,7 +145,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### Calcul de la répartition
 
-- Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant donc 40 000 €, les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
+- Partant d´un bénéfice global de 100 000 € en fin d´exercice - excédant donc la limite de 40 000 € - les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
 - Cela donne en premier lieu les masses suivantes à répartir : 
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
