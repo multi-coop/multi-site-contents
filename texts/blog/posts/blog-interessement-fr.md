@@ -63,7 +63,7 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 - Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
 - Indexé sur le temps de travail ;
 - **50% des bénéfices sont répartis en intéressement aux salarié·e·s** ;
-- la somme est placée sur un compte d´épargne salariale ;
+- la somme est placée sur un compte individuel d´épargne salariale ;
 
 ### Dividendes pour les associé·e·s
 
