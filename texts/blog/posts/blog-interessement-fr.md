@@ -119,9 +119,9 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 | personne | ETP | % des bénéfices en intéressement | montant € |
 | :-: | :-:  | :-: | --: |
 | **Albert** | 100%  | 1/3 = **33.3%** | 16 667 € |
-| **Bénédicte** | 80%  | .8/3 = **26.7%** | 13 333 €  |
+| **Bénédicte** | 80%  | 0.8/3 = **26.7%** | 13 333 €  |
 | **Camille** | 100%  | 1/3 = **33.3%**  |  16 667 €  |
-| **Dave** | 20%  | .2/3 = **6.7%**  | 3 333 €  |
+| **Dave** | 20%  | 0.2/3 = **6.7%**  | 3 333 €  |
 | --- | ---  | --- | --- | --- |
 | totaux | 300%  | 100% | **50 000 €** |
 
