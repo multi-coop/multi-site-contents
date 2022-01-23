@@ -74,11 +74,11 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - **`Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e`**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
 - **`Un mécanisme de souscription progreessif de parts sociales`**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
-  - il•elle prend au minimum 1 part au capital (soit 25€), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative, et dans la limite de 100 parts initiales.
-  - il•elle choisit du nombre de parts souscrites chaque mois, entre 3 et 16 parts. Exemples : 
+  - il•elle prend au minimum 1 part au capital (soit `25€`), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative, et dans la `limite de 100 parts initiales`.
+  - il•elle choisit du nombre de parts souscrites chaque mois, `entre 3 et 16 parts`. Exemples : 
     - chaque mois 75 € sont prélevés sur le salaire de la personne salariée et sont converties en 3 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 36 parts sociales supplémentaires.
     - chaque mois 400 € sont prélevés sur le salaire de la personne salariée et sont converties en 16 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 192 parts sociales supplémentaires.
-  - une fois atteint le plafond de 300 parts, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête.
+  - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête.
 - **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
 - le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
 - les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
@@ -138,7 +138,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### Calcul de la répartition
 
-- Partant d´un bénéfice global de 100 000 € en fin d´exercice - excédant donc la limite de 40 000 € - les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
+- Partant d´un bénéfice global de 100 000 € en fin d´exercice - excédant donc la limite de `40 000 €` - les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
 - Cela donne en premier lieu les masses suivantes à répartir : 
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
