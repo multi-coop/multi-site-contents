@@ -68,8 +68,8 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 ##### Règles & méthode de calcul
 
-- Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
-- Indexé sur le nombre de parts sociales ;
+- Ouvert à tous les associé·e·s ;
+- Indexé sur le nombre de parts sociales détenues ;
 - **10% des bénéfices sont répartis en dividendes aux associé·e·s**
 
 ---
