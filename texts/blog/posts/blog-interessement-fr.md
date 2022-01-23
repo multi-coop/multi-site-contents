@@ -51,7 +51,7 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 ##### Règles & méthode de calcul
 
-- **40% des bénéfices salarié·e·s vont en réserve de la coopérative**
+- **40% des bénéfices vont en réserves pour la coopérative**
 
 ### Intéressement pour les salarié·e·s
 
