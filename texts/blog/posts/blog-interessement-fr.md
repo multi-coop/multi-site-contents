@@ -22,9 +22,9 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
 - répartition des bénéfices en fin d´exercice : 
-  - **réserves** : minimum 16% des bénéfices ;
-  - **intéressement** : minimum 25% des bénéfices ;
-  - **dividendes** : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement ;
+  - **réserves** pour la coopérative : minimum 16% des bénéfices ;
+  - **intéressement** des salarié•e•s : minimum 25% des bénéfices ;
+  - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement ;
 - **le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
 - **le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
