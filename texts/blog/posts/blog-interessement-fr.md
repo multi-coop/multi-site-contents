@@ -117,7 +117,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### Calcul de la répartition
 
-Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant donc 40 000 €, les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s. Cela donne en premier lieu les masses suivantes à répartir.
+- Partant d´un bénéfice global de 100 000 € en fin d´exercice, excédant donc 40 000 €, les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
+- Cela donne en premier lieu les masses suivantes à répartir : 
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
