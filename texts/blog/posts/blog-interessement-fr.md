@@ -112,6 +112,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### Calcul de la répartition
 
+Les statuts de la coopérative concernant la répartition des bénéfices donnent en premier lieu les sommes suivantes, partant d´un bénéfice global de 100 000 € en fin d´exercice :
+
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
 | **réserves** | **40%**  | **40 000 €** | la coopérative |
