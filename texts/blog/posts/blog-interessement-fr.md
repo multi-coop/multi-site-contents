@@ -6,6 +6,17 @@ updated: 22/01/2021
 author: multi
 ---
 
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
+>
+> **Julien** le 23/01/2022 => 
+>
+> Les **points sur lesquels nous devons nous accorder en vue du dépôt des statuts** sont essentiellement **les points encadrés de `backquotes` ( \` )**.
+>
+> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futurs (genre les personnes qu'on voudrait recruter et qui viendraient voir notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie blog de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
+> <br>
+
+[multi]: https://multi.coop/blog
+
 Les SCOP [^scops] offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement  [^interessement] et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
 
 Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un juste équilibre entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
