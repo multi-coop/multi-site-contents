@@ -120,7 +120,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-#### A. Calcul de l'intéressement des salarié·e·s
+#### 1. Calcul de l'intéressement des salarié·e·s
 
 - à répartir en intéressement : 
   - 50% des bénéfices
@@ -137,7 +137,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-#### B. Calcul des dividendes aux associé·e·s
+#### 2. Calcul des dividendes aux associé·e·s
 
 - à répartir en  dividendes :
   - 10% des bénéfices
@@ -154,7 +154,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-### Récapitulatif de la  répartition des bénéfices
+### 3. Récapitulatif de la  répartition des bénéfices
 
 En fin d´exercice et étant donnés les variables de cette simulation, la répartition des bénéfices se décompose ainsi :
 
