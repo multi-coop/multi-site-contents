@@ -148,13 +148,13 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 ### Récapitulatif de la  répartition des bénéfices
 
-| personne | intéressement € | dividences € | total € |
-| :-: | --:  | --: | --: |
-| **Albert** | 16 667 € | 1 819 € | **18 486 €** |
-| **Bénédicte** | 13 333 € | 4 545 € | **17 879 €** |
-| **Camille** |  16 667 € | 0 € |  **16 667 €** |
-| **Dave** | 3 333 € | 3 636 € |  **6 970 €** |
-| --- | ---  | --- | --- |
-| **réserves coopérative** | ---  | --- | **40 000 €** |
-| --- | ---  | --- | --- |
-| totaux | **50 000 €**  | **10 000 €** | **100 000 €** |
+| personne | intéressement € | dividences € | réserves € | total € |
+| :-: | --:  | --: | --: | --: |
+| **Albert** | 16 667 € | 1 819 € |  0 € | **18 486 €** |
+| **Bénédicte** | 13 333 € | 4 545 € | 0 €  | **17 879 €** |
+| **Camille** |  16 667 € | 0 € | 0 € | **16 667 €** |
+| **Dave** | 3 333 € | 3 636 € | 0 € | **6 970 €** |
+| --- | ---  | --- | --- | --- |
+| **coopérative** | ---  | --- | 40 000 € | **40 000 €** |
+| --- | ---  | --- | --- | --- |
+| totaux | **50 000 €**  | **10 000 €** | **40 000 € | **100 000 €** |
