@@ -93,7 +93,7 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
     - travaille aux 1/5emes ;
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 550 parts ;
-- La répartition statutaire des bénéfices se décompose ainsi :
+- La répartition statutaire des bénéfices votée en AG se décompose ainsi :
   - **réserves** : 40% des bénéfices ;
   - **intéressement** : 50% des bénéfices ;
   - **dividendes** : 10% des bénéfices ;
