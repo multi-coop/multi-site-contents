@@ -72,14 +72,14 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ### B. Intéressement pour les salarié·e·s
 
-- Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
+- Ouvert à tous les salarié·e·s (associé·e·s ou non), si la personne est salariée depuis au moins 1 an ;
 - Indexé sur le temps de travail ;
 - **50% des bénéfices sont répartis en intéressement aux salarié·e·s** ;
 - la somme est placée sur un compte individuel d´épargne salariale ;
 
 ### C. Dividendes pour les associé·e·s
 
-- Ouvert à tous les associé·e·s ;
+- Ouvert à tous les associé·e·s, si la personne est associée depuis au moins 1 an ;
 - Indexé sur le nombre de parts sociales détenues ;
 - **10% des bénéfices sont répartis en dividendes aux associé·e·s** ; 
 
