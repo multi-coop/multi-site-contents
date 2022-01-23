@@ -42,7 +42,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 - Répartition des bénéfices en fin d´exercice [^scops] : 
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
-  - **intéressement** des salarié•e•s : minimum 25% des bénéfices [^interessement] ;
+  - **intéressement** des salarié•e•s [^interessement] : minimum 25% des bénéfices ;
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement, au maximum 33% ;
 - **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) [^demission];
 - **Le sociétariat doit respecter les règles suivantes** [^scops] : 
