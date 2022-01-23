@@ -28,7 +28,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 - **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
 - **Le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
-  - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales**
+  - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales** ;
   - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
 - La valeur nominale d´une part sociale doit être comprise entre 16 € et 75 € ;
 - La SAS SCOP peut avoir un capital variable ;
