@@ -8,7 +8,7 @@ routes:
       - name: logo
         component: LogoAnimated
         options:
-          columns-size: half
+          columns-size: two-thirds
           no-translation: true
         files:
           fr: ./texts/landing/landing-head-fr.md
