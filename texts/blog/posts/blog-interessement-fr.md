@@ -135,7 +135,7 @@ Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a
 
 | personne | parts sociales | % des bénéfices en dividendes | montant € |
 | :-: | :-:  | :-: | :-: |
-| **Albert** | **100 parts**  | 100 / 550  = **18.2%** | 1 819 € |
+| **Albert** | **100 parts**  | 100 / 550  = **18.1%** | 1 819 € |
 | **Bénédicte** | **250 parts**  | 250 / 550  = **45.5%** | 4 545 € |
 | **Camille** | **0 parts**  | 0 / 550 = **0%** | 0 € |
 | **Dave** | **200 parts**  | 200 / 550 = **36.4%** | 3 636 € |
