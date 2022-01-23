@@ -108,6 +108,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
   - **intéressement** : 50% des bénéfices ;
   - **dividendes** : 10% des bénéfices ;
 
+<br>
+
 ### Calcul de la répartition
 
 | - | % des bénéfices | montant à répartir | bénéficiaire(s) |
