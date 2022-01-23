@@ -8,11 +8,6 @@ author: multi
 
 Les SCOP [^scops] offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement  [^interessement] et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
 
-Les bénéfices de la Scop sont obligatoirement répartis en trois parts : 
-- la part travail : participation (ou intéressement) ;
-- la part entreprise : ce sont les réserves. 
-- la part capital, ou dividendes. 
-
 Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un juste équilibre entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
 
 La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
@@ -23,6 +18,12 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 ---
 
 ## Encadrement légal
+
+Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
+
+- la part travail : participation (ou intéressement) ;
+- la part entreprise : ce sont les réserves.
+- la part capital, ou dividendes.
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
