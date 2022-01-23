@@ -21,12 +21,12 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
-- répartition des bénéfices en fin d´exercice : 
+- Répartition des bénéfices en fin d´exercice : 
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
   - **intéressement** des salarié•e•s : minimum 25% des bénéfices ;
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement ;
-- **le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
-- **le sociétariat doit respecter les règles suivantes** : 
+- **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) ;
+- **Le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
   - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales**
   - **aucun associé•e ne peut être majoritaire et détenir plus de 49% des parts sociales** ;
@@ -43,19 +43,18 @@ De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peu
 
 Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et qui sont votés par tous les associé·e·s en AG :
 
-- **la valeur nominale d'une part sociale est de 25 €** ;
-- **plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale) ;
-- **tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
-- **les associé·e·s doivent être salarié·e·s**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter une associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
+- **La valeur nominale d'une part sociale est de 25 €** ;
+- **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale) ;
+- **Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
+- **Un mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
+- **Les associé·e·s doivent être salarié·e·s**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter une associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
 - le mécanisme d'intéressement ne se déclenche **que si la personne est salariée depuis au moins 1 an** dans la coopérative ;
 - les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €** ;
 
 ---
 
-**Note :** 
-
-Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
+> **Note :** 
+> Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
 ### Réserves pour l'entreprise
 
