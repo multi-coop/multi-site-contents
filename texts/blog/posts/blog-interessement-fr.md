@@ -40,11 +40,9 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 ---
 
+**Note** Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
+
 ### Réserves pour l'entreprise
-
-##### Conditions
-
-- Avoir réalisé des bénéfices :)
 
 ##### Règles & méthode de calcul
 
@@ -52,36 +50,26 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 
 ### Intéressement pour les salarié·e·s
 
-##### Conditions
+##### Règles & méthode de calcul
 
-- Avoir réalisé des bénéfices :)
 - Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
 - Indexé sur le temps de travail ;
-
-#### Règles & méthode de calcul
-
 - **50% des bénéfices sont répartis en intéressement aux salarié·e·s**
 
 ### Dividendes pour les associé·e·s
 
-##### Conditions
-
-- Avoir réalisé des bénéfices :)
-- Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
-- Indexé sur le nombre de parts sociales ;
-
 ##### Règles & méthode de calcul
 
+- Ouvert à tous les salarié·e·s (associé·e·s ou non) ;
+- Indexé sur le nombre de parts sociales ;
 - **10% des bénéfices sont répartis en dividendes aux associé·e·s**
 
 ---
 
 ## Un exemple pour piger le calcul ...
 
-### Données de base
-
-- En fin d'exercice la coopérative a réalisé **100 000 € de bénéfices** ;
-- La coopérative est composée de :
+- Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
+- Disons que la coopérative est composée de :
   - **Albert** :
     - salarié-associé ;
     - possède 100 parts sociales ;
