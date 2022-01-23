@@ -41,7 +41,9 @@ Le principe général que nous tentons de concrétiser est de **valoriser en pri
 
 De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter à terme, mais qui ne fait pas de cette question : en instaurant un plafond de parts par associé•e, en mettant en place un mécanisme de souscription, et en limitant enfin la part octroyée aux dividendes dans la répartition des bénéfices.
 
-Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et qui sont votés par tous les associé·e·s en AG :
+### Nos *settings* chez multi
+
+Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tous les associé·e·s en AG :
 
 - **La valeur nominale d'une part sociale est de 25 €** ;
 - **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale) ;
@@ -51,18 +53,16 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - le mécanisme d'intéressement ne se déclenche **que si la personne est salariée depuis au moins 1 an** dans la coopérative ;
 - les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €** ;
 
----
-
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
-### Réserves pour l'entreprise
+### A. Réserves pour l'entreprise
 
 **Règles & méthode de calcul**
 
 - **40% des bénéfices vont en réserves pour la coopérative** ;
 
-### Intéressement pour les salarié·e·s
+### B. Intéressement pour les salarié·e·s
 
 **Règles & méthode de calcul**
 
@@ -71,7 +71,7 @@ Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et 
 - **50% des bénéfices sont répartis en intéressement aux salarié·e·s** ;
 - la somme est placée sur un compte individuel d´épargne salariale ;
 
-### Dividendes pour les associé·e·s
+### C. Dividendes pour les associé·e·s
 
 **Règles & méthode de calcul**
 
