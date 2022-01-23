@@ -49,7 +49,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - **La valeur nominale d'une part sociale est de 25 €** ;
 - **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale). Ce plafond sert plusieurs objectifs : 
-  - permettre à chacun de devenir associé•e avec un apport limité, et donc de posséder le même pouvoir en AG avec le principe de "1 personne = 1 voix" des SCOP et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
+  - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
   - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé.
 - **Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
