@@ -35,7 +35,11 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 ## L'intéressement et les dividendes chez multi
 
-Nous avons opté pour un *mix* entre intéressement et dividendes. 
+Nous avons opté pour un *mix* entre intéressement et dividendes, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
+
+Le principe général que nous tentons de concrétiser est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme d´intéressement. Cet intéressement est donc indexé sur le temps de travail de chacun•e.
+
+De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter à terme, mais qui ne fait pas de cette question : en instaurant un plafond de parts par associé•e, en mettant en place un mécanisme de souscription, et en limitant enfin la part octroyée aux dividendes dans la répartition des bénéfices.
 
 Nous avons posé dans nos statuts quelques éléments qui nous sont propres, et qui sont votés par tous les associé·e·s en AG :
 
