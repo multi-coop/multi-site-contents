@@ -8,7 +8,7 @@ author: multi
 
 Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
 
-Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un équilibre juste entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
+Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un juste équilibre entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
 
 La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
 
