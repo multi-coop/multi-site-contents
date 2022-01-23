@@ -47,9 +47,17 @@ De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peu
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votés par tous les associé·e·s en AG :
 
 - **La valeur nominale d'une part sociale est de 25 €** ;
-- **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale) ;
+- **un plafond maximal de 300 parts sociales par associé·e** (soit 7 500 € en valeur nominale). Ce plafond sert plusieurs objectifs : 
+  - viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
+  - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé.
 - **Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **Un mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois ;
+- **Un mécanisme de souscription de parts sociales**, déduit sur salaire pour les nouveaux salarié·e·s associé·e·s, permettant d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
+  - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
+  - il•elle prend au minimum 1 part au capital (soit 25€), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la cooperative, et dans la limite de 100 parts initiales.
+  - il•elle choisit du nombre de parts souscrites chaque mois, entre 3 et 16 parts. Exemples : 
+    - chaque mois 75 € sont prélevés sur le salaire de la personne salariée et sont converties en 3 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 36 parts sociales supplémentaires.
+    - chaque mois 400 € sont prélevés sur le salaire de la personne salariée et sont converties en 16 parts sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de 192 parts sociales supplémentaires.
+  - une fois atteint le plafond de 300 parts, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête.
 - **Les associé·e·s doivent être salarié·e·s**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter une associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
 - le mécanisme d'intéressement ne se déclenche **que si la personne est salariée depuis au moins 1 an** dans la coopérative ;
 - les mécanismes d´intéressement et de dividendes ne se déclenchent **que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €** ;
