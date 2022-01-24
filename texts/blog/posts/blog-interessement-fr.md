@@ -79,7 +79,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
     - chaque mois `3 x 25 € = 75 €` sont prélevés sur le salaire de la personne salariée et sont converties en `3 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `36 parts` sociales supplémentaires.
     - chaque mois `16 x 25 € = 400 €` sont prélevés sur le salaire de la personne salariée et sont converties en `16 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `192 parts` sociales supplémentaires.
   - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `300 parts sociales`.
-- **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
+- **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
 - le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
 - les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
 
