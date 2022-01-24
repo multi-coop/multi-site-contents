@@ -66,6 +66,8 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votées par tou•te•s les associé·e·s en AG :
 
+#### A. Sociétariat
+
 - **La valeur nominale d'une part sociale est de `25 €`** ;
 - **`Un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
@@ -88,18 +90,18 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
-### A.Réserves pour l'entreprise
+### B.Réserves pour l'entreprise
 
 - **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
-### B. Intéressement pour les salarié·e·s
+### C. Intéressement pour les salarié·e·s
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
 - **`50%` des bénéfices sont répartis en intéressement aux salarié·e·s** ;
 - la somme est placée sur un compte individuel d´épargne salariale [^interessement];
 
-### C. Dividendes pour les associé·e·s
+### D. Dividendes pour les associé·e·s
 
 - Ouvert à tous les associé·e·s, `si la personne est associée depuis au moins 1 an` ;
 - Indexé sur le nombre de parts sociales détenues ;
@@ -107,7 +109,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ---
 
-## Un exemple pour piger le calcul ...
+## Un exemple pour illustrer le calcul ...
 
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :
