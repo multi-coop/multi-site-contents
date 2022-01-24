@@ -236,3 +236,4 @@ La Scop a au maximum 5 ans pour rembourser le salarié associé. Source : [FAQ][
 
 [scop]: https://www.les-scop.coop/foire-aux-questions
 [interessement]: https://www.service-public.fr/particuliers/vosdroits/F2140
+[participation]: https://www.legalplace.fr/guides/fiscalite-participation/
