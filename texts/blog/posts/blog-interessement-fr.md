@@ -111,6 +111,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ## Un exemple pour illustrer le calcul ...
 
+> Julien : 
+> Je pourrai faire un petit web component de simulateur à l´occasion, qu´on pourra intégrer au post...
+
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :
   - **Albert** :
