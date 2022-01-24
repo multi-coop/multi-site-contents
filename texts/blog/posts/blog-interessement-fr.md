@@ -12,7 +12,7 @@ author: multi
 >
 > Les **points sur lesquels nous devons nous accorder en vue du dépôt des statuts** sont essentiellement **les points encadrés de `backquotes` ( \` )**.
 >
-> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futurs (genre les personnes qu'on voudrait recruter et qui viendraient voir notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie blog de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
+> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie blog de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
 > &nbsp;
 
 <br>
@@ -44,7 +44,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
   - **intéressement** des salarié•e•s [^interessement] : minimum 25% des bénéfices ;
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement, au maximum 33% ;
-- **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui racheter ses parts sociales (sans augmentation de leur valeur nominale) [^demission];
+- **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale) [^demission];
 - **Le sociétariat doit respecter les règles suivantes** [^scops] : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
   - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales** ;
@@ -66,6 +66,8 @@ Le principe général que nous tentons de concrétiser - en toute transparence -
 
 Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votées par tou•te•s les associé·e·s en AG :
 
+#### A. Sociétariat
+
 - **La valeur nominale d'une part sociale est de `25 €`** ;
 - **`Un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
@@ -79,27 +81,27 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
     - chaque mois `3 x 25 € = 75 €` sont prélevés sur le salaire de la personne salariée et sont converties en `3 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `36 parts` sociales supplémentaires.
     - chaque mois `16 x 25 € = 400 €` sont prélevés sur le salaire de la personne salariée et sont converties en `16 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `192 parts` sociales supplémentaires.
   - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `300 parts sociales`.
-- **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP ;
-- le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
-- les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+- **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
+- Le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
+- Les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
 
 <br>
 
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
-### A.Réserves pour l'entreprise
+#### B. Réserves pour l'entreprise
 
 - **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
-### B. Intéressement pour les salarié·e·s
+#### C. Intéressement pour les salarié·e·s
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
 - **`50%` des bénéfices sont répartis en intéressement aux salarié·e·s** ;
 - la somme est placée sur un compte individuel d´épargne salariale [^interessement];
 
-### C. Dividendes pour les associé·e·s
+#### D. Dividendes pour les associé·e·s
 
 - Ouvert à tous les associé·e·s, `si la personne est associée depuis au moins 1 an` ;
 - Indexé sur le nombre de parts sociales détenues ;
@@ -107,7 +109,10 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ---
 
-## Un exemple pour piger le calcul ...
+## Un exemple pour illustrer le calcul ...
+
+> Julien : 
+> Je pourrai faire un petit web component de simulateur à l´occasion, en vue.js, qu´on pourra intégrer au post...
 
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :
@@ -216,23 +221,23 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 
 *[valeur nominale]: valeur en euros d'une ou plusieurs parts sociales
 
-*[intéressement]: L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps. Source : service public.fr
+*[intéressement]: "L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps". Source : service public.fr
 
-*[participation]: Synonyme de l'intéressement (au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non. Source : les-scop.coop/foire-aux-questions
+*[participation]: Synonyme de l'intéressement "(au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non". Source : les-scop.coop/foire-aux-questions
 
-*[dividendes]: Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %). Source : les-scop.coop/foire-aux-questions
+*[dividendes]: "Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %)". Source : les-scop.coop/foire-aux-questions
 
-*[réserves]: Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices. Source : les-scop.coop/foire-aux-questions
+*[réserves]: "Celles-ci sont impartageables. Elles permettent d’augmenter la capacité d’autofinancement de l’entreprise et de financer son développement. Elles constituent le patrimoine de l’entreprise et contribuent à sa pérennité. 16 % des excédents au minimum doivent être attribués aux réserves. Dans la pratique, les Scop leur allouent en moyenne 45 % des bénéfices". Source : les-scop.coop/foire-aux-questions
 
-*[associé]: Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé. Source : les-scop.coop/foire-aux-questions
+*[associé]: "Dans une Scop, les salariés ont la double casquette de salariés et d'associés. La renonciation de la qualité d'associé entraîne la rupture du contrat de travail et, inversement, la rupture du contrat de travail (sauf retraite, licenciement économique et invalidité) conduit à la perte du statut d'associé". Source : les-scop.coop/foire-aux-questions
 
 
 
 [^scops]: voir aussi la [FAQ][scop] de la CGSCOP
 [^interessement]: voir [les infos sur l'intéressement sur service-public.fr][interessement]
-[^demission]: Les salariés associés sont libres de quitter la Scop pour différentes raisons (retraite, démission, licenciement…).
+[^demission]: "Les salariés associés sont libres de quitter la Scop pour différentes raisons (retraite, démission, licenciement…).
 En cas de départ d'un salarié ayant le statut d'associé, le capital qu’il a investi lui est remboursé sans plus-value.
-La Scop a au maximum 5 ans pour rembourser le salarié associé. Source : [FAQ][scop] de la CGSCOP
+La Scop a au maximum 5 ans pour rembourser le salarié associé". Source : [FAQ][scop] de la CGSCOP
 
 [scop]: https://www.les-scop.coop/foire-aux-questions
 [interessement]: https://www.service-public.fr/particuliers/vosdroits/F2140
