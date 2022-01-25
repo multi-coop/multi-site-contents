@@ -154,6 +154,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | ... | ...  | ... | ... | ... |
 | totaux | **100%**  | **100 000 €** | ... |
 
+<br>
+
 #### 1. Calcul de l'intéressement des salarié·e·s
 
 - toutes les personnes sont en mesure de bénéficier de l´intéressement car étant salariées depuis 1 an ;
@@ -169,6 +171,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | **Dave** | 20%  | 0.2/3 = **6.7%**  | 3 333 €  |
 | ... | ...  | ... | ... | ... |
 | totaux | 300%  | 100% | **50 000 €** |
+
+<br>
 
 #### 2. Calcul des dividendes aux associé·e·s
 
@@ -186,6 +190,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | ... | ...  | ... | ... |
 | totaux | **550 parts**  | 100% | **10 000 €** |
 
+<br>
+
 #### 3. Récapitulatif de la  répartition des bénéfices
 
 En fin d´exercice et étant donné les variables de cette simulation, la répartition des bénéfices se décompose ainsi :
@@ -200,6 +206,8 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 | **coopérative** | - €  | - € | 40 000 € | **40 000 €** |
 | ... | ...  | ... | ... | ... |
 | totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
+
+<br>
 
 ---
 
