@@ -146,15 +146,13 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - Partant d´un bénéfice global de 100 000 € en fin d´exercice - excédant donc la limite de `40 000 €` - les statuts de la coopérative permettent la répartition des bénéfices auprès des salarié•e•s et/ou associé•e•s.
 - Cela donne en premier lieu les masses suivantes à répartir : 
 
-| - | % des bénéfices | montant à répartir | bénéficiaire(s) |
+| - | part des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | :-:  | --: | :-: |
 | **réserves** | **`40%`**  | **40 000 €** | la coopérative |
 | **intéressement** | **`50%`**  | **50 000 €** | les salarié·e·s |
 | **dividendes** | **`10%`**  | **10 000 €** | les associé·e·s |
 | --- | ---  | --- | --- | --- |
-| totaux | **100%**  | **100 000 €** |  |
-
-<br>
+| totaux | **100%**  | **100 000 €** | ... |
 
 #### 1. Calcul de l'intéressement des salarié·e·s
 
@@ -163,7 +161,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
   - **`50%`** des bénéfices
   - soit : `50%` x 100 000 € = **50 000 €**
 
-| personne | ETP | % des bénéfices en intéressement | montant € |
+| personne | ETP | part des bénéfices en intéressement | montant |
 | :-: | :-:  | :-: | --: |
 | **Albert** | 100%  | 1/3 = **33.3%** | 16 667 € |
 | **Bénédicte** | 80%  | 0.8/3 = **26.7%** | 13 333 €  |
@@ -172,8 +170,6 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | --- | ---  | --- | --- | --- |
 | totaux | 300%  | 100% | **50 000 €** |
 
-<br>
-
 #### 2. Calcul des dividendes aux associé·e·s
 
 - toutes les personnes possédant des parts sociales sont en mesure de bénéficier des dividendes car étant salariées depuis 1 an ;
@@ -181,7 +177,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
   - **`10%`** des bénéfices
   - soit : `10%` x 100 000 € = **10 000 €**
 
-| personne | parts sociales | % des bénéfices en dividendes | montant € |
+| personne | parts sociales | part des bénéfices en dividendes | montant |
 | :-: | :-:  | :-: | :-: |
 | **Albert** | **100 parts**  | 100 / 550  = **18.1%** | 1 819 € |
 | **Bénédicte** | **250 parts**  | 250 / 550  = **45.5%** | 4 545 € |
@@ -190,13 +186,11 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | --- | ---  | --- | --- | --- |
 | totaux | **550 parts**  | 100% | **10 000 €** |
 
-<br>
-
 #### 3. Récapitulatif de la  répartition des bénéfices
 
 En fin d´exercice et étant donné les variables de cette simulation, la répartition des bénéfices se décompose ainsi :
 
-| personne | intéressement € | dividences € | réserves € | total € |
+| personne | intéressement | dividences | réserves | total |
 | :-: | --:  | --: | --: | --: |
 | **Albert** | 16 667 € | 1 819 € |   - € | **18 486 €** |
 | **Bénédicte** | 13 333 € | 4 545 € |  - €  | **17 879 €** |
@@ -206,8 +200,6 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 | **coopérative** | - €  | - € | 40 000 € | **40 000 €** |
 | --- | ---  | --- | --- | --- |
 | totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
-
-<br>
 
 ---
 
