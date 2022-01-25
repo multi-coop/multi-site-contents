@@ -3,7 +3,7 @@ type: blog-posts
 
 options:
   title-key: title
-  columns-size: one-third
+  columns-size: half
   has-readmore: true
 
   card-modal: true
