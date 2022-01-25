@@ -12,12 +12,12 @@ author: multi
 >
 > Les **points sur lesquels nous devons nous accorder en vue du dépôt des statuts** sont essentiellement **les points encadrés de `backquotes` ( \` )**.
 >
-> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie blog de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
+> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie 'Autour de la coopérative > fonctionnement de la coopérative' de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
 > &nbsp;
 
 <br>
 
-[multi]: https://multi.coop/blog
+[multi]: https://multi.coop/our-cooperative
 
 Les SCOP [^scops] offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de l'intéressement  [^interessement] et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
 
