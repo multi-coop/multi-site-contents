@@ -34,16 +34,16 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
 
-- la **part travail** : intéressement ;
-- la **part entreprise** : ce sont les réserves.
+- la **part travail** : participation des salariés aux benefices de l´entreprise;
+- la **part entreprise** : ce sont les réserves impartageables de l'entreprise.
 - la **part capital**, ou dividendes.
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
 - Répartition des bénéfices en fin d´exercice [^scops] : 
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
-  - **interessement** des salarié•e•s [^interessement] : minimum 25% des bénéfices ;
-  - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à l'intéressement, au maximum 33% ;
+  - **participation** des salarié•e•s [^participation] : minimum 25% des bénéfices ;
+  - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à la participation, au maximum 33% ;
 - **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale) [^demission];
 - **Le sociétariat doit respecter les règles suivantes** [^scops] : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
@@ -58,7 +58,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 Nous avons opté pour `un *mix*`, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
-Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme d´intéressement et/ou de participation. Cet intéressement est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en intéressement est placée dans un compte individuel d´épargne salariale [^interessement].
+Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme de participation. La participation est definie dans un accord e participation salariale, et est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en participation salariale est placée dans un compte individuel d´épargne salariale [^interessement].
 
 `De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer **un plafond de parts sociales par associé•e**, mettre en place **un mécanisme de souscription de parts**, et **limiter la part octroyée aux dividendes dans la répartition des bénéfices**.`
 
@@ -82,8 +82,8 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
     - chaque mois `16 x 25 € = 400 €` sont prélevés sur le salaire de la personne salariée et sont converties en `16 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `192 parts` sociales supplémentaires.
   - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `300 parts sociales`.
 - **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
-- Le mécanisme d'intéressement ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
-- Les mécanismes d´intéressement et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
+- Les mécanismes de participation et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
 
 <br>
 
@@ -94,12 +94,12 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
-#### C. Intéressement pour les salarié·e·s
+#### C. Participation pour les salarié·e·s
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
-- **`50%` des bénéfices sont répartis en intéressement aux salarié·e·s** ;
-- la somme est placée sur un compte individuel d´épargne salariale [^interessement];
+- **`50%` des bénéfices sont répartis en participation aux salarié·e·s** ;
+- la somme est placée sur un compte individuel d´épargne salariale ;
 
 #### D. Dividendes pour les associé·e·s
 
@@ -136,7 +136,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - Le nombre de parts sociales de la coopérative est donc au total de 550 parts ;
 - La répartition statutaire des bénéfices votée en AG se décompose ainsi :
   - **réserves** : `40%` des bénéfices ;
-  - **intéressement** : `50%` des bénéfices ;
+  - **participation salariale** : `50%` des bénéfices ;
   - **dividendes** : `10%` des bénéfices ;
 
 <br>
@@ -149,21 +149,21 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 | | part des bénéfices | montant à répartir | bénéficiaire(s) |
 | --- | ---  | --- | --- |
 | **réserves** | **`40%`**  | **40 000 €** | la coopérative |
-| **intéressement** | **`50%`**  | **50 000 €** | les salarié·e·s |
+| **participation** | **`50%`**  | **50 000 €** | les salarié·e·s |
 | **dividendes** | **`10%`**  | **10 000 €** | les associé·e·s |
 | ... | ...  | ... | ... | ... |
 | totaux | **100%**  | **100 000 €** | ... |
 
 <br>
 
-#### 1. Calcul de l'intéressement des salarié·e·s
+#### 1. Calcul de participation des salarié·e·s
 
-- toutes les personnes sont en mesure de bénéficier de l´intéressement car étant salariées depuis 1 an ;
-- à répartir en intéressement : 
+- toutes les personnes sont en mesure de bénéficier de la participation car étant salariées depuis 1 an ;
+- à répartir en participation : 
   - **`50%`** des bénéfices
   - soit : `50%` x 100 000 € = **50 000 €**
 
-| personne | ETP | part des bénéfices en intéressement | montant |
+| personne | ETP | part des bénéfices en participation | montant |
 | --- | ---  | --- | --- |
 | **Albert** | 100%  | 1/3 = **33.3%** | 16 667 € |
 | **Bénédicte** | 80%  | 0.8/3 = **26.7%** | 13 333 €  |
@@ -192,11 +192,11 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-#### 3. Récapitulatif de la  répartition des bénéfices
+#### 3. Récapitulatif de la répartition des bénéfices
 
 En fin d´exercice et étant donné les variables de cette simulation, la répartition des bénéfices se décompose ainsi :
 
-| personne | intéressement | dividences | réserves | total |
+| personne | participation | dividences | réserves | total |
 | --- | ---  | --- | --- | --- |
 | **Albert** | 16 667 € | 1 819 € |   - € | **18 486 €** |
 | **Bénédicte** | 13 333 € | 4 545 € |  - €  | **17 879 €** |
@@ -223,7 +223,7 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 
 *[intéressement]: "L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps". Source : service public.fr
 
-*[participation]: Synonyme de l'intéressement "(au minimum 25 %, plus de 40 % en pratique). Elle est répartie entre tous les salariés, qu’ils soient associés ou non". Source : les-scop.coop/foire-aux-questions
+*[participation]: au minimum 25 %, plus de 40 % en pratique. Elle est répartie entre tous les salariés, qu’ils soient associés ou non". Source : les-scop.coop/foire-aux-questions
 
 *[dividendes]: "Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %)". Source : les-scop.coop/foire-aux-questions
 
