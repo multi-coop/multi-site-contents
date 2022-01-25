@@ -25,6 +25,12 @@ options:
       color: info
 
 items:
+  # - file: ./texts/our-cooperative/posts/ambitions-fr.md
+  # - file: ./texts/our-cooperative/posts/model-eco-fr.md
+  # - file: ./texts/our-cooperative/posts/onboarding-fr.md
+  # - file: ./texts/our-cooperative/posts/vie-coop-fr.md
+  # - file: ./texts/our-cooperative/posts/why-multi-fr.md
+  # - file: ./texts/our-cooperative/posts/statuts-fr.md
   - file: ./texts/our-cooperative/posts/participation-fr.md
 
 dict:
