@@ -277,6 +277,20 @@ routes:
         files:
           fr: ./texts/podcasts/podcasts-data.md
 
+  - name: our-cooperative
+    url: /our-cooperative
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/our-cooperative/our-cooperative-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/our-cooperative/our-cooperative-data.md
+
   - name: blog
     url: /blog
     sections: 
