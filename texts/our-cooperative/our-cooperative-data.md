@@ -12,11 +12,11 @@ options:
     column-left: false
     column-right: true
     infos-texts: 
-      - author
+      # - author
       - created
 
   miniature-keys: 
-    - author
+    # - author
     - created
     - tags
 
@@ -25,15 +25,15 @@ options:
       color: info
 
 items:
-  - file: ./texts/our-cooperative/posts/articipation-fr.md
+  - file: ./texts/our-cooperative/posts/participation-fr.md
 
 dict:
   created:
     fr: Date de publication
     en: Publication date
-  author:
-    fr: Auteur
-    en: Author
+  # author:
+  #   fr: Auteur
+  #   en: Author
   tags:
     fr: tags
     en: tags
