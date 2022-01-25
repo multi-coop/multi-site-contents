@@ -148,8 +148,8 @@ buttons-right:
         link: /blog
         component: simpleLink
         label: 
-          fr: Blog
-          en: Blog
+          fr: Notre blog
+          en: Our blog
 
   - name: switch-locale
     component: switchLocaleDropdown
