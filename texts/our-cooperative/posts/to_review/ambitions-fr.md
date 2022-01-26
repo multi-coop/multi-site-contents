@@ -6,9 +6,9 @@ updated: 22/01/2021
 author: multi
 ---
 
-Nos ambitions à long terme vont au-delà de la création d'une SCOP dédiée à l'expertise autour de solutions numériques libres d'intérêt général. 
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
 
-À l’instar de nombreux acteurs réfléchissant aux évolutions des sociétés qui s’annoncent, nous pensons que **les dix prochaines années seront déterminantes pour poser les bases de nouveaux modèles d’entreprise plus vertueux**. D’ici 2030 les effets physiques, politiques, sociaux et économiques du réchauffement climatique auront profondément modifié notre quotidien ; des changements systémiques profonds s’annoncent, nombreux sont déjà à l’œuvre, et les perspectives sont vertigineuses. 
+Nos ambitions à long terme vont au-delà de la création d'une SCOP dédiée à l'expertise autour de solutions numériques libres d'intérêt général. À l’instar de nombreux acteurs réfléchissant aux évolutions des sociétés qui s’annoncent, nous pensons que **les dix prochaines années seront déterminantes pour poser les bases de nouveaux modèles d’entreprise plus vertueux**. D’ici 2030 les effets physiques, politiques, sociaux et économiques du réchauffement climatique auront profondément modifié notre quotidien ; des changements systémiques profonds s’annoncent, nombreux sont déjà à l’œuvre, et les perspectives sont vertigineuses. 
 
 Pour **tenter de faire partie de la solution plutôt que du problème**, nous nous posons la question de savoir comment une SCOP dédiée au numérique libre pourrait apporter sa propre pierre à l’édifice. Cette optique nous pousse à questionner le rôle du numérique dans des sociétés en transition, le mode de gouvernance de l’entreprise, ses missions, ses objets, son modèle économique, ou encore ses modes de coopération avec d’autres acteurs (publics, privés, société civile). 
 

@@ -8,7 +8,7 @@ author: multi
 
 > **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
 >
-> **Julien** le 23/01/2022 => 
+> **Note** : Julien, le 23/01/2022 => 
 >
 > Les **points sur lesquels nous devons nous accorder en vue du dépôt des statuts** sont essentiellement **les points encadrés de `backquotes` ( \` )**.
 >
@@ -25,8 +25,8 @@ Notre credo est d'être complètement **transparent sur la répartition des bén
 
 La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
 
-- lien vers les statuts : `à écrire et publier dans un fichier .md et publier sur le site multi.coop`;
-- lien vers l´accord de participation : `à écrire dans un fichier .md et publier sur le site multi.coop` ;
+- Lien vers les statuts : `texte à écrire et publier dans un fichier .md puis publier sur le site multi.coop`;
+- Lien vers l´accord de participation : `texte à écrire dans un fichier .md puis publier sur le site multi.coop` ;
 
 ---
 
@@ -34,9 +34,9 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
 
-- la **part travail** : participation des salariés aux bénéfices de l´entreprise;
-- la **part entreprise** : ce sont les réserves impartageables de l'entreprise.
-- la **part capital**, ou dividendes.
+- la **part travail** : participation des salariés aux bénéfices de l´entreprise ;
+- la **part entreprise** : ce sont les réserves impartageables de l'entreprise ;
+- la **part capital**, ou ce qui est redistribué en dividendes aux associé·e·s.
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
@@ -54,7 +54,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 ---
 
-## L'intéressement, la participation, et les dividendes chez multi
+## La participation salariale et les dividendes chez multi
 
 Nous avons opté pour `un *mix*`, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
@@ -82,26 +82,40 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
     - chaque mois `16 x 25 € = 400 €` sont prélevés sur le salaire de la personne salariée et sont converties en `16 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `192 parts` sociales supplémentaires.
   - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `300 parts sociales`.
 - **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
-- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
-- Les mécanismes de participation et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
 
 <br>
 
 > **Note :** 
 > Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
 
-#### B. Réserves pour l'entreprise
+<br>
+
+#### B. Répartition des bénéfices (excédents nets de gestion)
+
+- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
+- Les mécanismes de participation et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+
+> **Note :** 
+> Nous avons le choix du type de clé de répartition, soit :
+
+- [ ] Une clé souple (à définir tous les ans, avant l’Assemblée Générale de clôture des comptes)
+- [ ] Une clé fixe (arrêtée dans les statuts)
+
+> **Note :** 
+> Quelle que soit la clé on peut à titre d'exemple imaginer une répartition dans ces ordres de grandeur =>
+
+##### 1. Réserves pour l'entreprise
 
 - **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
-#### C. Participation pour les salarié·e·s
+##### 2. Participation pour les salarié·e·s
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
 - **`50%` des bénéfices sont répartis en participation aux salarié·e·s** ;
 - la somme pour chaque personne est placée sur un compte individuel d´épargne salariale ;
 
-#### D. Dividendes pour les associé·e·s
+##### 3. Dividendes pour les associé·e·s
 
 - Ouvert à tous les associé·e·s, `si la personne est associée depuis au moins 1 an` ;
 - Indexé sur le nombre de parts sociales détenues ;
@@ -111,8 +125,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 ## Un exemple pour illustrer le calcul ...
 
-> Julien : 
+> **Note :** Julien
 > Je pourrai faire un petit web component de simulateur à l´occasion, en vue.js, qu´on pourra intégrer au post...
+> voir : [multi-sitte-simulator](https://github.com/multi-coop/multi-site-simulator)
 
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :

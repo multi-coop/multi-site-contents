@@ -6,9 +6,11 @@ updated: 22/01/2021
 author: multi
 ---
 
-Créer une coopérative est une aventure entrepreneuriale, militante, humaine. Si l'envie de créer la coopérative multi est au départ une impulsion profonde partagée par chacun des sociétaires, nous avons tenté ici de poser sur le papier le constat initial - la problématique - qui nous rassemble.
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
 
-# Pourquoi nous créons la coopérative multi
+Créer une coopérative est une aventure entrepreneuriale, militante, humaine. Si l'envie de créer la coopérative multi est au départ une impulsion profonde partagée par chacun des sociétaires, nous avons tenté ici de **formulasier le constat initial - la problématique - qui nous rassemble**.
+
+---
 
 ## Les défis que nous apercevons
 

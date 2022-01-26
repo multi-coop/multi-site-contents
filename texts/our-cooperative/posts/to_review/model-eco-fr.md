@@ -6,6 +6,8 @@ updated: 22/01/2021
 author: multi
 ---
 
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
+
 Afin de garantir une pérennité de la structure, le modèle économique de notre coopérative vise à **diversifier ses sources de revenus**, le tout de manière équitable, transparente, et en capitalisant sur un savoir-faire autour d'outils et méthodologies libres. 
 
 Nous observons que ces dernières années la demande a augmenté pour des outils libres, accessibles, et pensés pour les acteurs publics et les citoyens. Pourtant si cette demande a augmenté - que ce soit du fait des changements sociétaux ou de la crise sanitaire - l'offre en face a quant à elle peu évolué. Les acteurs publics peinent à industrialiser leurs solutions libres et à innover ; les acteurs privés classiques n’ont eux pas changé de modèle économique et bien peu proposent des solutions libres. 

@@ -6,11 +6,13 @@ updated: 22/01/2021
 author: multi
 ---
 
-Il semble important d'identifier les différentes temporalités qui rythment la vie de la coopérative et rendent possible la menée d'un projet collectif.
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
 
-Ces différents temps doivent être "sacralisés", fléchés sur des sujets différents, mais menés en parallèle.
+Il semble important d'identifier les différentes temporalités qui rythment la vie de la coopérative et rendent possible la menée d'un projet collectif. Ces différents temps sont importants, fléchés sur des sujets différents, mais menés en parallèle. Cet effort de ritualisation a pour but d'éviter le parasitage du temps de chacun (digressions, hors-sujet...), d'avoir une gestion efficace du temps de chacun, et de permettre d'avoir des espaces de discussions dédiés / démocratiques / variés afin d'avoir de réels moments de partage et de couvrir tous les sujets posés par la vie d'un collectif. 
 
-Cet effort de ritualisation a pour but d'éviter le parasitage du temps de chacun (digressions, hors-sujet...), d'avoir une gestion efficace du temps de chacun, et de permettre d'avoir des espaces de discussions dédiés / démocratiques / variés afin d'avoir de réels moments de partage et de couvrir tous les sujets posés par la vie d'un collectif. 
+---
+
+## Les bases
 
 Quelques règles de base sont à observer pour rendre ces moments de discussion utiles et inclusifs : 
 
@@ -21,12 +23,9 @@ Quelques règles de base sont à observer pour rendre ces moments de discussion 
 - ne pas couper la parole ;
 - avoir des moments prévus pour pouvoir disgresser et d’autres non…
 
-
-
-
 ---
 
-## Repères temporels récurrents 
+## Repères temporels récurrents
 
 > (propositions à discuter)
 

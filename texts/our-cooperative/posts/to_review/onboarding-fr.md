@@ -6,6 +6,8 @@ updated: 22/01/2021
 author: multi
 ---
 
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
+
 Le principe fondateur de la SCOP (Société Coopérative et Participative) est « 1 personne = 1 voix », et la répartition des richesses sert d’abord à solidifier l’entreprise – le collectif – avant de profiter à ses sociétaires.
 
 C’est une entreprise partagée qui place ses parties prenantes (les salarié·e·s et les associé·e·s de la SCOP) au cœur de son fonctionnement. **C’est donc bien la vocation de notre SCOP que de demander à ses salarié·e·s de devenir à terme associé·e·s de l’entreprise.**

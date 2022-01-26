@@ -6,8 +6,7 @@ updated: 22/01/2021
 author: multi
 ---
 
-
-# Nos statuts
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
 
 <div class="has-text-centered">
   🚧 &nbsp; ... en cours de rédaction ... &nbsp; 🚧  
