@@ -6,7 +6,6 @@ updated: 22/01/2021
 author: multi
 ---
 
-
 Il semble important d'identifier les différentes temporalités qui rythment la vie de la coopérative et rendent possible la menée d'un projet collectif.
 
 Ces différents temps doivent être "sacralisés", fléchés sur des sujets différents, mais menés en parallèle.
