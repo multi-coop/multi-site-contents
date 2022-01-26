@@ -134,22 +134,15 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :
-  - **Albert** :
-    - salarié-associé ;
-    - possède 100 parts sociales ;
-    - travaille à plein-temps ;
-  - **Bénédicte** :
-    - salariée-associée ;
-    - possède 250 parts sociales ;
-    - travaille aux 4/5emes ;
-  - **Camille** : 
-    - salarié·e ;
-    - ne possède pas de parts sociales ;
-    - travaille à plein-temps ;
-  - **Dave** : 
-    - salarié·e-associé·e ;
-    - possède 200 parts sociales ;
-    - travaille aux 1/5emes ;
+
+| coopérateur·rice·s | statut | nombre de parts sociales | ETP |
+| --- | --- | --- | --- |
+| Albert | salarié-associé | 100 parts | temps plein (100%) |
+| Bénédicte | salariée-associée | 250 parts | 4/5èmes (80%%) |
+| Camille | salarié·e | 0 parts | temps plein (100%) |
+| Dave | salarié·e-associé·e | 200 parts | 1/5èmes (20%) |
+
+
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 550 parts ;
 - La répartition statutaire des bénéfices votée en AG se décompose ainsi :
