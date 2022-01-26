@@ -19,14 +19,14 @@ author: multi
 
 [multi]: https://multi.coop/our-cooperative
 
-Les SCOP [^scops] offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de la participation  [^interessement] et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**.
+Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de la participation et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**. (Voir aussi [la différence entre participation et intéressement](https://www.ag2rlamondiale.fr/particulier/epargne/conseil-interessement-et-participation-d-entreprise-quelle-difference)).
 
 Notre credo est d'être complètement **transparent sur la répartition des bénéfices**, de trouver **un juste équilibre entre associé·e·s et salarié·e·s**, rendre la **coopérative attractive**, et de **pérenniser le modèle économique** de la coopérative.
 
 La méthode de répartition des bénéfices est votée en Assemblée Générale et est mentionnée dans nos statuts.
 
 - lien vers les statuts : `à écrire et publier dans un fichier .md et publier sur le site multi.coop`;
-- lien vers l´accord d´intéressement : `à écrire dans un fichier .md et publier sur le site multi.coop` ;
+- lien vers l´accord de participation : `à écrire dans un fichier .md et publier sur le site multi.coop` ;
 
 ---
 
@@ -34,18 +34,18 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
 
-- la **part travail** : participation des salariés aux benefices de l´entreprise;
+- la **part travail** : participation des salariés aux bénéfices de l´entreprise;
 - la **part entreprise** : ce sont les réserves impartageables de l'entreprise.
 - la **part capital**, ou dividendes.
 
 Les textes législatifs sur les SCOP imposent une répartition des bénéfices respectant des *minima* et *maxima*, ainsi que des conditions particulières liées au sociétariat :
 
-- Répartition des bénéfices en fin d´exercice [^scops] : 
+- Répartition des bénéfices en fin d´exercice: 
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
-  - **participation** des salarié•e•s [^participation] : minimum 25% des bénéfices ;
+  - **participation** des salarié•e•s : minimum 25% des bénéfices ;
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à la participation, au maximum 33% ;
-- **Le statut d'associé·e est lié au statut de salarié·e** [^scops] : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale) [^demission];
-- **Le sociétariat doit respecter les règles suivantes** [^scops] : 
+- **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale);
+- **Le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
   - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales** ;
   - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
@@ -58,7 +58,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 Nous avons opté pour `un *mix*`, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
-Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme de participation. La participation est definie dans un accord e participation salariale, et est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en participation salariale est placée dans un compte individuel d´épargne salariale [^interessement].
+Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme de participation. La participation est definie dans un accord e participation salariale, et est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en participation salariale est placée dans un compte individuel d´épargne salariale.
 
 `De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer **un plafond de parts sociales par associé•e**, mettre en place **un mécanisme de souscription de parts**, et **limiter la part octroyée aux dividendes dans la répartition des bénéfices**.`
 
@@ -99,7 +99,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
 - **`50%` des bénéfices sont répartis en participation aux salarié·e·s** ;
-- la somme est placée sur un compte individuel d´épargne salariale ;
+- la somme pour chaque personne est placée sur un compte individuel d´épargne salariale ;
 
 #### D. Dividendes pour les associé·e·s
 
@@ -211,6 +211,8 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 
 ---
 
+## Définitions et notes :
+
 *[SCOP]: Société coopérative et participative
 
 *[AG]: Assemblée Générale
@@ -223,7 +225,7 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 
 *[intéressement]: "L'intéressement est un dispositif d'épargne salariale lié aux résultats ou aux performances de l'entreprise. Toutes les entreprises peuvent le mettre en place, par voie d'accord avec les salariés. Le salarié bénéficiaire de l'intéressement perçoit une prime dont le montant et les conditions de versement sont fixés par l'accord d'entreprise. Les sommes sont immédiatement disponibles, mais le salarié peut choisir de les placer sur un plan d'épargne salariale ou un compte épargne-temps". Source : service public.fr
 
-*[participation]: au minimum 25 %, plus de 40 % en pratique. Elle est répartie entre tous les salariés, qu’ils soient associés ou non". Source : les-scop.coop/foire-aux-questions
+*[participation]: au minimum 25 %, plus de 40 % en pratique dans les scop. Elle est répartie entre tous les salariés, qu’ils soient associés ou non". Source : les-scop.coop/foire-aux-questions
 
 *[dividendes]: "Les dividendes rémunèrent le capital apporté par les associés (au maximum 33 %)". Source : les-scop.coop/foire-aux-questions
 
