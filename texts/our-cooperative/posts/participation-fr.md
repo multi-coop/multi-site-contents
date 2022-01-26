@@ -137,10 +137,10 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 | coopérateur·rice·s | statut | nombre de parts sociales | ETP |
 | --- | --- | --- | --- |
-| Albert | salarié-associé | 100 parts | temps plein (100%) |
-| Bénédicte | salariée-associée | 250 parts | 4/5èmes (80%%) |
-| Camille | salarié·e | 0 parts | temps plein (100%) |
-| Dave | salarié·e-associé·e | 200 parts | 1/5èmes (20%) |
+| **Albert** | salarié-associé | 100 parts | temps plein (100%) |
+| **Bénédicte** | salariée-associée | 250 parts | 4/5èmes (80%%) |
+| **Camille** | salarié·e | 0 parts | temps plein (100%) |
+| **Dave** | salarié·e-associé·e | 200 parts | 1/5èmes (20%) |
 
 
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
