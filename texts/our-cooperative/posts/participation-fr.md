@@ -1,6 +1,6 @@
 ---
-title: Sociétariat et intéressement chez multi
-tags: [ multi, intéressement, dividendes ]
+title: Le sociétariat chez multi
+tags: [ multi, participation, dividendes ]
 created: 22/01/2021
 updated: 22/01/2021
 author: multi
