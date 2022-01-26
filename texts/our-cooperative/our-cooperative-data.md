@@ -31,7 +31,7 @@ items:
   - file: ./texts/our-cooperative/posts/to_review/onboarding-fr.md
   - file: ./texts/our-cooperative/posts/to_review/vie-coop-fr.md
   - file: ./texts/our-cooperative/posts/to_review/why-multi-fr.md
-  - file: ./texts/our-cooperative/posts/statuts-fr.md
+  - file: ./texts/our-cooperative/posts/to_review/statuts-fr.md
 
 
 dict:
