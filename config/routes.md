@@ -291,6 +291,36 @@ routes:
         files:
           fr: ./texts/our-cooperative/our-cooperative-data.md
 
+  - name: shares-simulator
+    url: /shares-simulator
+    sections: 
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js: https://multi-site-simulator-test.netlify.app/js/app.js
+          css: https://multi-site-simulator-test.netlify.app/css/app.css
+          html: |
+            <multi-shares-simulator 
+              locale="fr"
+              partvalue="25"
+              minbenefs="0"
+              benefs="100000"
+              repart='{
+                "reserves":0.4,
+                "participation":0.5,
+                "dividendes":0.1
+              }'
+              team='[
+                { "name":"Johan Richer", "parts":100, "workTime":100 }, 
+                { "name":"Julien Paris", "parts":100, "workTime":100 }, 
+                { "name":"Thomas Brosset", "parts":40, "workTime":40 }, 
+                { "name":"Pierre Camilleri", "parts":100, "workTime":60 }, 
+                { "name":"Quentin Loridant", "parts": 100, "workTime":80 }
+              ]'
+            />
+
+
   - name: blog
     url: /blog
     sections: 
