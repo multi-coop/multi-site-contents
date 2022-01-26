@@ -132,6 +132,12 @@ buttons-right:
         label: 
           fr: Fonctionnement de multi
           en: Settings at multi
+      - name: shares-simulator
+        link: /shares-simulator
+        component: simpleLink
+        label: 
+          fr: Simulateur de participation
+          en: Participation simulator
       # - name: network
       #   link: /network
       #   component: simpleLink
