@@ -5,8 +5,6 @@ Les contenus de cette partie de notre site nous permettent d'expliquer en détai
 
 N'hésitez pas à nous faire des retours ou à poser des questions sur notre [repo][repo-multi] si certaines choses vous semblent manquer ou vous semblent améliorables.  
 
-<br>
-
 _(*) Le travail de transparence de [Codeurs en liberté] nous a d'ailleurs beaucoup inspiré dans la mise en place de cette partie du site._
 
 [Codeurs en liberté]: https://www.xn--codeursenlibert-pnb.fr/
