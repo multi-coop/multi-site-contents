@@ -303,6 +303,7 @@ routes:
           html: |
             <multi-shares-simulator 
               locale="fr"
+              cooperative="multi"
               partvalue="25"
               minbenefs="0"
               benefs="100000"
