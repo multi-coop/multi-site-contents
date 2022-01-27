@@ -78,7 +78,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
   - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé. -->
 - **`Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e`**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **`Un mécanisme de souscription progreessif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'obtenir `48` parts sociales au bout de 12 mois. Le mécanisme de souscription fonctionne de la manière suivante :
+- **`Un mécanisme de souscription progressif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'obtenir `48` parts sociales au bout de 12 mois. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
   - il•elle prend au minimum 1 part au capital (soit `25€`), mais peut choisir d'en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative.
   - le nombre de parts souscrites chaque mois est de `4 parts`. 
