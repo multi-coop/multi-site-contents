@@ -1,19 +1,22 @@
 # MULTI WEBSITE CONTENTS
 
-This repo contains all contents for multi website, including the site's architecture (website name, locales, navbar, routes, footers)
+This repo contains all contents for multi website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
 
-Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative [multi](https://multi.coop);
+Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative **[multi](https://multi.coop)**.
 
-🚀 &nbsp; [**App source code**](https://github.com/multi-coop/multi-site-app)
+---
 
+## Render those contents as a websitte
 
+🚀 &nbsp; Here you'll find the [**"multi-site-app" source code**](https://github.com/multi-coop/multi-site-app) to deploy the `.md` contents contained in this repo.
 
+---
 
 ## Organisation
 
-This repo is organized in the following order : 
+This repo is organized in the following order :
 
-```
+```env
 .
 ├── README.md
 ├── LICENCE.md
@@ -27,14 +30,19 @@ This repo is organized in the following order :
 
 ```
 
+---
 
-
-## Deployment 
+## Deployment
 
 The contents are deployed with Netlify 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
+- Test deploy : [![Netlify Status](https://api.netlify.com/api/v1/badges/5a774814-2a6a-4da7-a8b5-1cc3d654df2a/deploy-status)](https://app.netlify.com/sites/multi-site-app-test/deploys)
+- Official deploy : [![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5be5abcb-7667-4b96-b1d1-952839f70c2f/deploy-status)](https://app.netlify.com/sites/multi-website/deploys)
+---
 
+## Contributions
 
+If you want to propose somme enhancements to our content please make pull requests against the `main` branch. We will review that with great pleasure :)
+
+You can also add issues directly in the reop, or add notes or issues from our [github "project" page](https://github.com/orgs/multi-coop/projects/3).
