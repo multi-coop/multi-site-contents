@@ -4,7 +4,7 @@
 En nous rejoignant vous trouverez : 
 
 - **Une communauté de projets** : des projets numériques d'intérêt général / des projets de communs numériques / une culture de l'*open source* ;
-- **Un cadre de travail stable et  encapacitant** : CDI / cotisations chômage et formation / cotisations retraite / complémentaire santté 100% / possibilité télétravail / possibilité de temps partiel ;
+- **Un cadre de travail stable et  encapacitant** : CDI / cotisations chômage et formation / cotisations retraite / complémentaire santé 100% / possibilité télétravail / possibilité de temps partiel ;
 - **Des projets en équipe** : mener des projets en équipe / ne plus se sentir isolé / inclure des compétences diverses lors de chaque mission ;
 - **Une gouvernance collective** : 1 personne = 1 voix / une culture du dialogue / un droit de vote au sein de la coopérative en tant qu'associé·e-salarié·e ne dépendant pas du nombre de parts sociales ;
 - **Une simplification des tâches administratives et mise à disposition d'outils administratifs** : cotisations, bulletins de paie, facturation, expertise et aide juridique … ;
