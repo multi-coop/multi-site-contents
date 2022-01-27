@@ -72,18 +72,19 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 #### A. Sociétariat
 
 - **La valeur nominale d'une part sociale est de `25 €`** ;
-- **`Un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
+- il est décidé à chaque fin d'e
+<!-- - **`Un plafond maximal de 300 parts sociales par associé·e`** (soit `7 500 €` en valeur nominale). Ce plafond sert plusieurs objectifs : 
   - permettre à chacun de devenir associé•e avec un apport limité, donc de posséder le même pouvoir que les autres associé•e•s en AG avec le principe de "1 personne = 1 voix" des SCOP, et de bénéficier de dividendes (même si ceux-ci sont limités statutairement) ;
   - avec le mécanisme de souscription, viser l´égalité progressive entre les salarié•e•s associé•e•s en termes de répartition des dividendes ;
-  - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé.
+  - avec le mécanisme de souscription, et au cas où la personne décide de quitter la coopérative, que la personne puisse repartir avec un pécule qu´elle aura elle-même accumulé. -->
 - **`Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e`**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **`Un mécanisme de souscription progreessif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'atteindre le plafond de parts sociales au bout de x mois selon les souhaits de la personne. Le mécanisme de souscription fonctionne de la manière suivante :
+- **`Un mécanisme de souscription progreessif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'obtenir `48` parts sociales au bout de 12 mois. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
-  - il•elle prend au minimum 1 part au capital (soit `25€`), mais peut en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative, et dans la `limite de 100 parts initiales`.
-  - il•elle choisit du nombre de parts souscrites chaque mois, `entre 3 et 16 parts`. Exemples : 
-    - chaque mois `3 x 25 € = 75 €` sont prélevés sur le salaire de la personne salariée et sont converties en `3 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `36 parts` sociales supplémentaires.
-    - chaque mois `16 x 25 € = 400 €` sont prélevés sur le salaire de la personne salariée et sont converties en `16 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `192 parts` sociales supplémentaires.
-  - une fois atteint le plafond de `300 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `300 parts sociales`.
+  - il•elle prend au minimum 1 part au capital (soit `25€`), mais peut choisir d'en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative.
+  - le nombre de parts souscrites chaque mois est de `4 parts`. 
+  - Exemple : 
+    - chaque mois `4 x 25 € = 100 €` sont prélevés sur le salaire de la personne salariée et sont converties en `4 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `48 parts` sociales supplémentaires.
+  - une fois atteint le plafond de `100 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `100 parts sociales`.
 - **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
 
 <br>
@@ -93,32 +94,34 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-#### B. Répartition des bénéfices (excédents nets de gestion)
+#### B. Répartition des excédents nets de gestion
 
-- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 1 an`** dans la coopérative ;
-- Les mécanismes de participation et de dividendes ne se déclenchent **`que si les bénéfices en fin d´exercice sont supérieurs à 40 000 €`**. Dans le cas contraire les éventuels bénéfices sont injectés dans les réserves de la coopérative.
+- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 6 mois`** dans la coopérative ;
+- Les mécanismes de participation et de dividendes ne se déclenchent que si les bénéfices en fin d´exercice sont positifs.
 
 > **Note :** 
 > Nous avons le choix du type de clé de répartition, soit :
 
-- [ ] Une clé souple (à définir tous les ans, avant l’Assemblée Générale de clôture des comptes)
-- [ ] Une clé fixe (arrêtée dans les statuts)
+- [x] **Une clé souple**, à définir tous les ans avant l’Assemblée Générale de clôture des comptes ;
+- [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts)
 
 > **Note :** 
-> Quelle que soit la clé on peut à titre d'exemple imaginer une répartition dans ces ordres de grandeur =>
+> 0n peut à titre d'exemple imaginer une répartition dans ces ordres de grandeur =>
 
-##### 1. Réserves pour l'entreprise
+##### La clé fixe par défaut
+
+###### 1. Réserves pour l'entreprise
 
 - **`40%` des bénéfices vont en réserves pour la coopérative** ;
 
-##### 2. Participation pour les salarié·e·s
+###### 2. Participation pour les salarié·e·s
 
 - Ouvert à tous les salarié·e·s (associé·e·s ou non), `si la personne est salariée depuis au moins 1 an` ;
 - Indexé sur le temps de travail ;
 - **`50%` des bénéfices sont répartis en participation aux salarié·e·s** ;
 - la somme pour chaque personne est placée sur un compte individuel d´épargne salariale ;
 
-##### 3. Dividendes pour les associé·e·s
+###### 3. Dividendes pour les associé·e·s
 
 - Ouvert à tous les associé·e·s, `si la personne est associée depuis au moins 1 an` ;
 - Indexé sur le nombre de parts sociales détenues ;
@@ -129,8 +132,9 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 ## Un exemple pour illustrer le calcul ...
 
 > **Note :** Julien
-> Je pourrai faire un petit web component de simulateur à l´occasion, en vue.js, qu´on pourra intégrer au post...
-> voir : [multi-sitte-simulator](https://github.com/multi-coop/multi-site-simulator)
+> J'ai fait un petit _web component_ de simulateur, en vue.js, qu´on pourra intégrer au site...
+> voir le code du widget : [multi-sitte-simulator](https://github.com/multi-coop/multi-site-simulator)
+> voir en live et intégré : [multi.coop/shares-simulator](https://multi-site-preprod-core-texts.netlify.app/shares-simulator)
 
 - Disons qu´en fin d'exercice la coopérative réalise **100 000 € de bénéfices** ;
 - Disons que la coopérative est composée de :
