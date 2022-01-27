@@ -130,7 +130,7 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 - Tou·te·s les salarié·e·s ont travaillé toute l'année ;
 - Le nombre de parts sociales de la coopérative est donc au total de 550 parts ;
-- La répartition statutaire des bénéfices votée en AG se décompose ainsi :
+- La clé souple répartition des bénéfices - votée en AG en fin d'année - se décompose ainsi :
   - **réserves** : `40%` des bénéfices ;
   - **participation salariale** : `50%` des bénéfices ;
   - **dividendes** : `10%` des bénéfices ;
