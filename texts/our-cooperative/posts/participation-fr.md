@@ -54,6 +54,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
   - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
 - La valeur nominale d´une part sociale doit être comprise entre 16 € et 75 € ;
 - La SAS SCOP peut avoir un capital variable ;
+- Les mécanismes de participation et de dividendes ne se déclenchent que si les bénéfices en fin d´exercice sont positifs.
 
 ---
 
@@ -84,24 +85,11 @@ Nous avons posé dans nos statuts quelques précisions et conditions qui nous so
 
 <br>
 
-> **Note :** 
-> Tout ce qui est indiqué ici n´est évidemment valable que si la coopérative a réalisé des bénéfices :)
-
-<br>
-
 #### B. Répartition des excédents nets de gestion
 
 - Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 6 mois`** dans la coopérative ;
-- Les mécanismes de participation et de dividendes ne se déclenchent que si les bénéfices en fin d´exercice sont positifs.
-
-> **Note :** 
-> Nous avons le choix du type de clé de répartition, soit :
-
 - [x] **Une clé souple**, à définir tous les ans avant l’Assemblée Générale de clôture des comptes ;
-- [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts)
-
-> **Note :** 
-> 0n peut à titre d'exemple imaginer une répartition dans ces ordres de grandeur =>
+- [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts).
 
 ##### La clé fixe par défaut
 
