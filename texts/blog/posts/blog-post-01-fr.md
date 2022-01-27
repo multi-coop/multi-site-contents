@@ -5,31 +5,29 @@ created: 10/01/2021
 author: Julien Paris
 ---
 
-En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser les bases d'une stratégie/méthodo lors de chaque nouveau projet ? Quel type de checklist / canevas d'analyse utiliser pour avoir une cohérence de projet en projet ? Comment s'assurer un peu contre le *bus factor* ? 
-
-
-# Vers une stratégie de R&D globale
-
-**Note** : Ceci est un **draft**, une sorte d'endroit où on peut commencer à réfléchir sur l'offre de service de la coopérative. C'est pas parfait donc n'hésitez pas à ajouter vos réactions / doutes / commentaires... 
-
+En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser les bases d'une stratégie ou  d'une méthodologie lors de chaque nouveau projet ? Quel type de _checklist_ ou canevas d'analyse utiliser pour avoir une cohérence de projet en projet ? Comment s'assurer un peu contre le *bus factor* ? Je livre ici une vision personnelle, un début de réflexion, de ce que j'espère pouvoir développer au sein de la coopérative au fil des projets...
 
 ## Pourquoi cette réflexion ?
 
-> Julien : le 09/11/2021
->
->  Mon souci au départ est qu'on va se retrouver à suivre et développer plein de projets différents, dans plein de temporalités différentes, avec des équipes elles aussi différentes... si on part ainsi sans y réfléchir on va se retrouver avec plein de développements qui n'ont rien à voir les uns avec les autres, et surtout on aura rapidement rien à apprendre les uns des autres au sein de la coopérative... 
+Dès les premiers jours où nous avons commencé à réfléchir à créer une coopérative pour un numérique d'intérêt général, une des idées qui me tenait à coeur et qui est **une des raisons centrales de mon engagement** est l'idée de réussir à **mutualiser des développements menés pour des clients différents**, tout en inventant notre modèle économique autour de ces solutions libres.
 
-La problématique que je cherche à poser se décompose ainsi : 
+A l'inverse de beaucoup de personnes rencontrées dans ce milieu je pense qu'il est possible de faire des projets numériques en pensant très en amont à leur réusabilité, à leur degré de généricité, et enfin à leur potentiel pour aboutir à de réels produits libres et à produire de l'esprit d'équipe au sein de la coopérative. Cela demande surtout un peu de recul et d'huile de doigts (pour coder on se sert moins de ses coudes).
+
+Mon souci premier est qu'on va se retrouver à suivre et développer plein de projets différents, dans des temporalités différentes, avec des équipes elles aussi différentes... si on part ainsi sans y réfléchir on va se retrouver avec des développements qui n'ont rien à voir les uns avec les autres, et surtout on aura rapidement rien à apprendre les uns des autres au sein de la coopérative...
+
+---
+
+La problématique que je cherche à poser se décompose ainsi :
 
 - Comment rendre notre **offre de service claire et cohérente** ?
 - Quelle(s) ligne(s) suivre pour garder **une cohérence dans les développements** ?
-- Comment **capitaliser sur les développements** afin d'avoir des propositions de plus en plus convaincantes pour les clients,  perdre moins de temps à chaque fois qu'on a un nouveau projet facturé ou à facturer, et permettre à d'autres membres de la coopérative de pouvoir contribuer et s'entraider ?
+- Comment **capitaliser sur les développements** afin d'avoir des propositions de plus en plus convaincantes pour les clients, perdre moins de temps à chaque fois qu'on a un nouveau projet facturé ou à facturer, et permettre à d'autres membres de la coopérative de pouvoir contribuer et s'entraider ?
 
-En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser les bases d'une stratégie/méthodo lors de chaque nouveau projet ? Quel type de *checklist* / canevas d'analyse utiliser pour avoir une cohérence de projet en projet ? Comment s'assurer un peu contre le *bus factor* ? 
+En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser les bases d'une stratégie/méthodo lors de chaque nouveau projet ? Quel type de *checklist* / canevas d'analyse utiliser pour avoir une cohérence de projet en projet ? Comment s'assurer un peu contre le *bus factor* ?
 
------
+---
 
-_Proposition à *challenger*_ : 
+Voici posés de façon la plus synthétique possible les différentes choses qui me semblent aujourd'hui être importantes à garder en tête si on cherche à cheminer petit à petit vers une coopérative "éditrice de logiciels libres" et moins vers la prestation de services (type ESN ou SII).
 
 ## Une "ligne éditoriale" pour des briques logicielles (ou méthodo design) libres
 
@@ -45,8 +43,6 @@ _Proposition à *challenger*_ :
 - on investit dans **la documentation** ;
 
 
-
-
 ## Des "collections" de méso/micro-produits interopérables
 
 - collection "**basics**" : gestion d'utilisateurs et de mots de passe, gestion ds groupes, proxies pour mailing, ...
@@ -58,16 +54,14 @@ _Proposition à *challenger*_ :
 - collection "**socials**" : outils de chat / de commentaires / de temps réel / ...
 - collection "**sécurité**" : authentification / pseudonimisatiion...
 
+---
 
-----
-## "Produits" déjà développés (dont on possède un bon savoir-faire)
+## Quelques exemples de nos outils libres qui pourraient tendre vers des "produits"
 
-- slides [ici](https://nextcloud.jailbreak.paris/s/AErLTbensMCFLoc)
+Produits phares :
 
-Produits phares : 
 - [Apiviz](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fapiviz.md)
 - [Validata](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fvalidata.md)
 - [Data patch](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fdata-patch.md)
 - Vitrine
 - [Odamap](https://www.multi.coop/references?item=.%2Ftexts%2Freferences%2Fprojects%2Faides-entreprises.md)
-- ...
