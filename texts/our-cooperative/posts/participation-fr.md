@@ -58,15 +58,17 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
 
 ## La participation salariale et les dividendes chez multi
 
-Nous avons opté pour `un *mix*`, avec **une partie importantes pour les réserves afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
+Nous avons opté pour un système le plus souple possible, laissant la possibilité de choisir chaque année en AG le mode de répartition des excédents de gestion (ou bénéfices) de la coopérative.
 
-Le principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme de participation. La participation est definie dans un accord e participation salariale, et est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en participation salariale est placée dans un compte individuel d´épargne salariale.
+**Une partie des bénéfices sera allouée aux réserves impartageables de la coopérative, afin de consolider la coopérative et d´allouer des moyens pour son fonctionnement interne** : R&D, animation, frais de comptabilité, etc... 
 
-`De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : instaurer **un plafond de parts sociales par associé•e**, mettre en place **un mécanisme de souscription de parts**, et **limiter la part octroyée aux dividendes dans la répartition des bénéfices**.`
+L'autre principe général que nous tentons de concrétiser - en toute transparence - est de **valoriser en priorité le travail de chacun•e**, c´est-à-dire de considérer que la valeur est générée avant tout par les salarié•e•s, et doit à ce titre leur revenir en priorité sous forme de participation. La participation est definie dans un accord e participation salariale, et est donc indexé sur le temps de travail de chacun•e. La somme revenant à chaque salarié•e en participation salariale est placée dans un compte individuel d´épargne salariale.
+
+`De même nous considérons qu´il faut **limiter les dividendes mais qu´ils peuvent être utiles dans l´attractivité de la coopérative auprès des professionnel•le•s du numérique**. A cette fin nous avons pensé un cadre pour les dividendes permettant à chacun•e d´accéder au sociétariat, d´en profiter numérairement à chaque fin d´exercice, mais qui ne fait pas de cette question le principal vecteur d'attraction de la coopérative. Ce cadre se résume ainsi : mettre en place **un mécanisme de souscription de parts**, et **voter chaque annéee la part octroyée aux dividendes dans la répartition des excédents**.`
 
 ### Nos *settings* chez multi
 
-Nous avons posé dans nos statuts quelques précisions et conditions qui nous sont propres, décisions qui sont votées par tou•te•s les associé·e·s en AG :
+Nous avons inclus dans nos statuts quelques précisions et conditions qui nous sont propres. Ces décisions ont été votées par tou•te•s les associé·e·s en AG lors de la création de la coopérative :
 
 #### A. Sociétariat
 
