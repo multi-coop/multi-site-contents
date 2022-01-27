@@ -110,7 +110,7 @@ Nous avons inclus dans nos statuts quelques précisions et conditions qui nous s
 - Indexé sur le nombre de parts sociales détenues ;
 - **`10%` des bénéfices sont répartis en dividendes aux associé·e·s** ; 
 
----
+<!-- ---
 
 ## Un exemple pour illustrer le calcul ...
 
@@ -205,7 +205,7 @@ En fin d´exercice et étant donné les variables de cette simulation, la répar
 | ... | ...  | ... | ... | ... |
 | totaux | **50 000 €**  | **10 000 €** | **40 000 €** | **100 000 €** |
 
-<br>
+<br> -->
 
 ---
 
