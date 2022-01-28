@@ -8,7 +8,8 @@ author: multi
 
 Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/legislation) permettant de préciser clairement **le cadre de la participation et/ou la répartition des dividendes auprès des salarié·e·s et des associé·e·s**. (Voir aussi [la différence entre participation et intéressement](https://www.ag2rlamondiale.fr/particulier/epargne/conseil-interessement-et-participation-d-entreprise-quelle-difference)).
 
-> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL**
+> **ATTENTION !** >>> **CECI EST UNE VERSION DE TRAVAIL** 
+> cet encart sera supprimé avant publication
 >
 > **Note** : Julien, le 23/01/2022 => 
 >
@@ -16,7 +17,7 @@ Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/
 >
 > Les points mentionnés dans ce fichier correspondent à ceux qu'il faut compléter / choisir dans le "[guide de réflexion]" de l'URSCOP.
 >
-> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie 'Autour de la coopérative > fonctionnement de la coopérative' de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
+> Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie 'Univers coopératif > Fonctionnement de multi' de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
 > &nbsp;
 >
 
