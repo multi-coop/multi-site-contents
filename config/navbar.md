@@ -117,15 +117,27 @@ buttons-right:
           fr: On recrute
           en: We recruit
 
-  - name: we-like
+  - name: around-the-cooperative
     disabled: false
     # link: /we-like
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
-      fr: On aime
-      en: We like
+      fr: Autour de la coopérative
+      en: Around the cooperative
     submenu: 
+      - name: our-cooperative
+        link: /our-cooperative
+        component: simpleLink
+        label: 
+          fr: Fonctionnement de multi
+          en: Settings at multi
+      - name: shares-simulator
+        link: /shares-simulator
+        component: simpleLink
+        label: 
+          fr: Simulateur de participation
+          en: Participation simulator
       # - name: network
       #   link: /network
       #   component: simpleLink
@@ -142,8 +154,8 @@ buttons-right:
         link: /blog
         component: simpleLink
         label: 
-          fr: Blog
-          en: Blog
+          fr: Notre blog
+          en: Our blog
 
   - name: switch-locale
     component: switchLocaleDropdown
