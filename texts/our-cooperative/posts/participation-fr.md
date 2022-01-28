@@ -1,8 +1,8 @@
 ---
 title: Le sociétariat chez multi
 tags: [ coopérative, participation, dividendes ]
-created: 22/01/2021
-updated: 22/01/2021
+created: 15/03/2021
+updated: 15/03/2021
 author: multi
 ---
 
