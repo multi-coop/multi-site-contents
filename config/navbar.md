@@ -123,8 +123,8 @@ buttons-right:
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
-      fr: Autour de la coopérative
-      en: Around the cooperative
+      fr: Univers coopératif
+      en: Around cooperation
     submenu: 
       - name: our-cooperative
         link: /our-cooperative
