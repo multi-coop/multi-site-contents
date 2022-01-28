@@ -18,6 +18,8 @@ Les SCOP offrent un [corpus juridique et législatif](https://www.les-scop.coop/
 >
 > Une fois que nous aurons décidé de tous ces points - et dans un souci de transparence auprès de tou·te·s les associé·e·s actuel·le·s ou futur•e•s (genre les personnes qu'on voudrait recruter et qui viendraient sur notre site pour voir qui on est) - je propose qu'on publie ce texte dans [la partie 'Autour de la coopérative > fonctionnement de la coopérative' de notre site][multi]. On pourra ainsi avoir un lien fixe pour pointer dessus, et même ajouter des boutons vers ce texte où on veut dans notre site.
 > &nbsp;
+>
+
 [guide de réflexion]: https://docs.google.com/document/d/1ODFIi2hI5LNrPNCGkPFnf29wvkuPLOBr/edit
 [multi]: https://multi.coop/our-cooperative
 
