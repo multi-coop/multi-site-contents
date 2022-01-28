@@ -18,6 +18,7 @@ En s'inspirant de la posture d' "éditeur" de logiciel, de quelle manière poser
 > Julien : le 09/11/2021
 >
 >  Mon souci au départ est qu'on va se retrouver à suivre et développer plein de projets différents, dans plein de temporalités différentes, avec des équipes elles aussi différentes... si on part ainsi sans y réfléchir on va se retrouver avec plein de développements qui n'ont rien à voir les uns avec les autres, et surtout on aura rapidement rien à apprendre les uns des autres au sein de la coopérative... 
+
 La problématique que je cherche à poser se décompose ainsi : 
 
 - Comment rendre notre **offre de service claire et cohérente** ?
