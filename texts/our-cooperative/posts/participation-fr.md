@@ -35,6 +35,8 @@ La méthode de répartition des bénéfices est votée en Assemblée Générale 
 
 ## Encadrement légal
 
+Juridiquement, une Scop (Société coopérative et participative) est une société coopérative de forme SA, SARL ou SAS dont les salarié•e•s sont les associé•e•s majoritaires et le pouvoir y est exercé démocratiquement.
+
 Les bénéfices de la Scop sont obligatoirement répartis en trois parts :
 
 - la **part travail** : participation des salariés aux bénéfices de l´entreprise ;
@@ -49,8 +51,8 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à la participation, au maximum 33% ;
 - **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale);
 - **Le sociétariat doit respecter les règles suivantes** : 
-  - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des voix en AG** ; 
-  - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% des parts sociales** ;
+  - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des droits de vote** ; 
+  - **les salarié•e•s-associé•e•s doivent détenir au minimum 51% du capital social** ;
   - **aucun associé•e ne peut être majoritaire et détenir plus de 50% des parts sociales** ;
 - La valeur nominale d´une part sociale doit être comprise entre 16 € et 75 € ;
 - La SAS SCOP peut avoir un capital variable ;
@@ -76,20 +78,20 @@ Nous avons inclus dans nos statuts quelques précisions et conditions qui nous s
 
 - **La valeur nominale d'une part sociale est de `25 €`** ;
 - **`Tou•t•e salarié•e peut quand il•elle le souhaite demander à devenir associé•e`**, sa demande est examinée puis acceptée ou refusée par les associé•e•s ;
-- **`Un mécanisme de souscription progressif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'obtenir `48` parts sociales au bout de 12 mois. Le mécanisme de souscription fonctionne de la manière suivante :
+- **`Un mécanisme de souscription progressif de parts sociales`**, déduit sur le salaire des salarié·e·s associé·e·s, permettant à chacun·e d'obtenir `36` parts sociales au bout de 12 mois. Le mécanisme de souscription fonctionne de la manière suivante :
   - le•la salarié•e a fait la demande de devenir associé•e et cela est accepté en AG ;
   - il•elle prend au minimum 1 part au capital (soit `25€`), mais peut choisir d'en prendre davantage, dans la limite de ne pas avoir plus de 50% du capital total de la coopérative.
-  - le nombre de parts souscrites chaque mois est de `4 parts`. 
+  - le nombre de parts souscrites chaque mois est de `3 parts`. 
   - Exemple : 
-    - chaque mois `4 x 25 € = 100 €` sont prélevés sur le salaire de la personne salariée et sont converties en `4 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `48 parts` sociales supplémentaires.
-  - une fois atteint le plafond de `100 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `100 parts sociales`.
+    - chaque mois `3 x 25 € = 75 €` sont prélevés sur le salaire de la personne salariée et sont converties en `3 parts` sociales supplémentaires au nom de la personne. Au bout de 12 mois la personne sera donc détentrice de `36 parts` sociales supplémentaires.
+  - une fois atteint le plafond de `40 parts`, et dans la mesure où la personne ne peut avoir plus de 50% des parts, le mécanisme s´arrête et la personne dispose de ses `40 parts sociales`.
 - **`Les associé·e·s doivent être salarié·e·s`**. De manière exceptionnelle - et sous condition d´un vote favorable en AG - il peut être envisagé d´accepter un•e associé•e non salarié•e au sociétariat, dans le respect du cadre légal s'imposant aux SCOP (les associé•e•s extérieur•e•s ne pouvant représenter plus de 35% des voix) ;
 
 <br>
 
 #### B. Répartition des excédents nets de gestion
 
-- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 6 mois`** dans la coopérative ;
+- Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 3 mois`** dans la coopérative ;
 - [x] **Une clé souple**, à définir tous les ans avant l’Assemblée Générale de clôture des comptes ;
 - [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts).
 
