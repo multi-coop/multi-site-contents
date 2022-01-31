@@ -49,6 +49,7 @@ Les textes législatifs sur les SCOP imposent une répartition des bénéfices r
   - **réserves** pour la coopérative : minimum 16% des bénéfices ;
   - **participation** des salarié•e•s : minimum 25% des bénéfices ;
   - **dividendes** aux associé•e•s : doit être inférieur à la fois à la part dévolue aux réserves et à la part dévolue à la participation, au maximum 33% ;
+  - Attention toutefois, le montant de la prime de participation est plafonné et ne doit donc pas dépasser un certain plafond. En 2021, le montant maximum de la prime de participation est de 30 852€
 - **Le statut d'associé·e est lié au statut de salarié·e** : si un·e associé·e-salarié·e démissionne il·elle perd son statut d'associé·e, et la coopérative doit lui rembourser ses parts sociales (sans plus-value par rapport à leur valeur initiale);
 - **Le sociétariat doit respecter les règles suivantes** : 
   - **les salarié•e•s-associé•e•s doivent représenter au minimum 65% des droits de vote** ; 
