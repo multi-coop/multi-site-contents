@@ -93,8 +93,9 @@ Nous avons inclus dans nos statuts quelques précisions et conditions qui nous s
 #### B. Répartition des excédents nets de gestion
 
 - Le mécanisme de participation salariale ne se déclenche **`que si la personne est salariée depuis au moins 3 mois`** dans la coopérative ;
-- [x] **Une clé souple**, à définir tous les ans avant l’Assemblée Générale de clôture des comptes ;
-- [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts).
+- La répartition des excédents de gestion se calcule selon une clé de répartition permettant de ventiler les sommes revenant aux parts réserves, travail, et capital. Nous avons opté pour une clé souple, et pour une fixe par défaut : 
+  - [x] **Une clé souple**, à définir tous les ans avant l’Assemblée Générale de clôture des comptes ;
+  - [x] **`Une clé fixe par défaut`**, au cas où il n'ait pas pu être possible de convenir en amont du montant des clés de répartition. Cette clé fixe par défaut est arrêtée dans les statuts.
 
 ##### La clé fixe par défaut
 
