@@ -315,11 +315,11 @@ routes:
                 "dividendes":10
               }'
               team='[
-                { "name":"Johan Richer", "parts":100, "workTime":100 }, 
-                { "name":"Julien Paris", "parts":100, "workTime":100 }, 
-                { "name":"Thomas Brosset", "parts":40, "workTime":40 }, 
-                { "name":"Pierre Camilleri", "parts":100, "workTime":60 }, 
-                { "name":"Quentin Loridant", "parts": 100, "workTime":80 }
+                { "name":"Johan Richer", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Thomas Brosset", "parts":40, "workTime":40, "yearTime": 12 },
+                { "name":"Pierre Camilleri", "parts":100, "workTime":60, "yearTime": 12 },
+                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 }
               ]'
             />
 
