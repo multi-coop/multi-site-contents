@@ -1,32 +1,38 @@
 
-<div class="has-text-centered">
+**De la conception du produit à la mise en production** nous apportons l'expertise, l'agilité et l'engagement d'une équipe multidisciplinaire, pour construire avec vous des projets numériques d'intérêt général. Nous assurons également des missions de **conseil** et d'**audit** en **conception de produit** et **data-science**.
+
+---
+
+## Conception & développement de services numériques
+
+Nous avons développé une expérience solide dans le **développement d'outils numériques d'intérêt général**, nous permettant de transformer vos idées en services pleinement opérationnels.
+
+Nous proposons des **investigations** en amont des projets afin de bien **cerner les besoins** initiaux, **connaître les usagers**, et **identifier les fonctionnalités** qui importent le plus.
+
+Nous conduisons également les phases de **développement** et de **déploiement** d'applications en maintenant un dialogue régulier avec vous.
+
+Nous cherchons à **faciliter la prise en main** et **la réutilisation** de nos outils, notamment en soignant leur documentation.
+
+---
+
+## Open Source & Open Data
+
+**Nous accompagnons vos projets *open source* et d'ouverture de données**, par exemple pour la production de code, pour la mise en qualité des données, ou encore pour fédérer et animer une communauté de contributeurs.
+
+Notre choix de produire des outils numériques essentiellement en *open source* vous garantit une plus grande **transparence**, **indépendance** et **durabilité** avec des codes sources accessibles et auditables. 
+
+L'*open source* permet de **consolider les liens entre utilisateurs et développeurs**, chacun étant en capacité de participer à l'évolution des outils ou à l'enrichissement des données ouvertes.
+
+---
+
+## *Data science* auditable
+
+Avoir un modèle de *machine learning* avec une bonne capacité de prédiction est indispensable, mais êtes-vous prêts à confier des décisions importantes à une machine, sans capacité d'audit ?
+
+Nous vous proposons plutôt de construire des **modèles transparents**, **performants**, qui viennent démultiplier la valeur de vos données en garantissant que l'**humain reste au centre de la prise de décisions**.
+
+Nous auditons ou enrichissons également vos modèles existants.
+
+<!-- <div class="has-text-centered">
   🚧 &nbsp; ... en construction ... &nbsp; 🚧  
-</div>
-
-<!--# Mise en situation
-
-##### Vous êtes un·e agent d'une structure publique (ministère, collectivité) ou parapublique (association, fondation, think tank). 
-
-Vous voulez réaliser un service numérique d'intérêt général : un site grand public de "data visualisation" valorisant des données publiques, un site de contribution citoyenne, un service connecté aux API publiques... 
-
-Vous avez besoin de compétences pointues et d'une équipe dédiée, efficace, agile, et qui connaît les spécificités de la commande publique : accompagnement de projet, AMO, marchés publics, accessibilité, RGPD, loi Lemaire, open source, open data, acteurs clés...
-
-
-##### Vous êtes un·e professionnel·le du numérique - designer, data-scientist, développeur·euse...
-
-Vous portez les valeurs et les pratiques du logiciel libre, de l'open data et des communs numériques. 
-
-Vous vous définissez comme un·e professionnel.le engagé·e. 
-
-Vous désirez pouvoir vous concentrer sur votre métier plutôt que sur les tâches administratives, de travailler sur des projets d'intérêt général, d'échanger avec vos pairs, de stabiliser votre carrière, qu'on vous propose des projets qui ont du sens, et de prendre part à un projet collectif qui partage ces mêmes valeurs.
-
-
-# Notre positionnement
-
-multi, coopérative de production numérique, est au carrefour de ces deux envies : 
-
-- d'une part, en créant et en animant un collectif de professionnel·le.s du numérique, libre-penseurs, aux profils et compétences multiples, et qui portent ensemble une éthique et des pratiques communes : CDI, égalité de traitement, une personne = une voix, égalité à l'intéressement ... ; 
-- d'autre part, en offrant aux institutions un acteur spécialisé dans le numérique d’intérêt général, agile, unique, capable de produire et mettre en place des services numériques innovants, de répondre à des marchés publics, et qui possède une expertise et des références dans le champ du numérique d'intérêt général.
-
-multi c'est une structure coopérative pour donner plus de poids aux multiples acteurs du numérique libre à travers les multiples usages des communs numériques. 
--->
+</div> -->
