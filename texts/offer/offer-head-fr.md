@@ -1,5 +1,5 @@
 
-**De la conception du produit à la mise en production** nous apportons l'expertise, l'agilité et l'engagement d'une équipe multidisciplinaire, pour construire avec vous des projets numériques d'intérêt général. Nous assurons également des missions de **conseil** et d'**audit** en **conception de produit** et **data-science**.
+**De la conception du produit à la mise en production** nous apportons l'expertise, l'agilité et l'engagement d'une équipe multidisciplinaire, pour construire avec vous des projets numériques d'intérêt général. Nous assurons également des missions de **conseil** et d'**audit** en **conception de produit** et **data science**.
 
 ---
 
@@ -15,7 +15,7 @@ Nous cherchons à **faciliter la prise en main** et **la réutilisation** de nos
 
 ---
 
-## Open Source & Open Data
+## Open source & Open data
 
 **Nous accompagnons vos projets *open source* et d'ouverture de données**, par exemple pour la production de code, pour la mise en qualité des données, ou encore pour fédérer et animer une communauté de contributeurs.
 
@@ -25,7 +25,7 @@ L'*open source* permet de **consolider les liens entre utilisateurs et développ
 
 ---
 
-## *Data science* auditable
+## Data science interprétable & auditable
 
 Avoir un modèle de *machine learning* avec une bonne capacité de prédiction est indispensable, mais êtes-vous prêts à confier des décisions importantes à une machine, sans capacité d'audit ?
 
