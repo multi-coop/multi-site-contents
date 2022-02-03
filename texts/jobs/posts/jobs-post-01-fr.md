@@ -90,9 +90,6 @@ Envoyez-nous un CV, mais parlez-nous surtout de vos codes publiés en *open sour
 - **Télétravail total possible** 
 -->
 
-
-<br/>
-
 <!-- 🔗 &nbsp; **N'hésitez pas à diffuser l'offre en partageant [ce lien](https://hackmd.io/@jailbreak/multi-offre-emploi) sur vos réseaux.** -->
 
 <a href="https://multi.welcomekit.co/jobs/directrice-directeur-technique_paris" class="button is-primary is-rounded is-fullwidth">
