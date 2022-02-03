@@ -9,13 +9,14 @@ Vous avez envie de rejoindre une coopérative du numérique d'intérêt généra
 
 🦄 &nbsp; Nous cherchons une personne qui aura envie de **co-construire avec nous la coopérative**, notamment la stratégie de mutualisation et R&D de ses outils et de ses différents projets.
 
+<!-- 
 # À propos de nous
 
 🚀 &nbsp; **multi** c'est une coopérative de type [SCOP](https://www.les-scop.coop/foire-aux-questions) qui développe des logiciels libres et qui a pour ambition de donner plus de poids aux multiples acteurs du numérique d'intérêt général grâce aux [communs numériques](https://labo.societenumerique.gouv.fr/2019/10/16/les-communs-numeriques-un-modele-innovant-de-developpement-des-ressources-numeriques/). 
 - D'une part, **en créant et en animant un collectif inclusif de professionnel‧le‧s** du numérique, libre-penseurs·euses, aux profils et compétences multiples, et qui portent ensemble une vision, une éthique, et des pratiques communes ; 
 - D'autre part, **en offrant aux institutions un acteur spécialisé**, agile, unique, capable de produire et mettre en place des services numériques innovants, de répondre à des marchés publics, et qui possède une expertise et des références dans le champ du numérique d'intérêt général.
 
-📖 &nbsp; Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et des logiciels libres. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil...
+📖 &nbsp; Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et des logiciels libres. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil... 
 
 
 # Descriptif du poste
@@ -36,6 +37,7 @@ et au contact de clients tels que :
 - L'École d'économie de Paris
 - L'OCDE
 - ... [et d'autres encore](https://nextcloud.jailbreak.paris/s/cq8beCFkL5krdJS).
+-->
 
 
 # Profil recherché
@@ -48,13 +50,16 @@ et au contact de clients tels que :
 - Milieu coopératif et entrepreneuriat.
 
 🧠 &nbsp; **Vos activités principales** :
+
 - Accompagner les équipes projets dans leurs développements&nbsp;;
 - Proposer des stratégies de rationnalisation des développements &nbsp;;
 - Co-construire ensemble une vision sur les développements futurs de logiciels libres&nbsp;;
 - Proposer des outils mutualisés pour les différentes équipes projet&nbsp;;
 - Participer aux discussions et  décisions collectives concernant la coopérative, sur des sujets techniques ou autres.
 
+<!-- 
 💻 &nbsp; **Conditions de travail** :
+
 - Contrat en CDI&nbsp;;
 - Statut cadre (convention Syntec)&nbsp;;
 - Salaire égal aux autres salarié·e·s&nbsp;;
@@ -62,9 +67,11 @@ et au contact de clients tels que :
 - Complémentaire santé : [Alan Green](https://alan.com/garanties-et-remboursements-sante) (prise en charge employeur à 100 %) ;
 - Tickets restaurants : 9,25 € (prise en charge employeur à 60 %)&nbsp;;
 - Travail essentiellement en télétravail, mais comme nous organisons régulièrement des réunions d'équipe en présentiel nous aurons une préférence pour une personne résidant en région parisienne&nbsp;;
-- Vous pourrez devenir associé•e (et c'est ce qu'on souhaite ! :slightly_smiling_face:).
+- Vous pourrez devenir associé•e (et c'est ce qu'on souhaite ! :slightly_smiling_face:). 
+-->
 
 
+<!-- 
 # Informations complémentaires
 
 👀 &nbsp; Vous n’avez pas à remplir absolument tous les critères pour postuler. Sachez que nous valorisons avant tout les **compétences** et les **réalisations**, l'esprit **DIY**, l'**initiative**, l'**écoute**, le **dialogue**, et l'**imagination**, et non juste votre formation initiale. Si vous vous retrouvez dans notre proposition, oubliez donc tout éventuel syndrôme de l'imposteur et n'hésitez pas à nous contacter.
@@ -80,9 +87,14 @@ Envoyez-nous un CV, mais parlez-nous surtout de vos codes publiés en *open sour
 - **Lieu** : Paris, France (75011)
 - **Niveau d'études** : Bac +5 / Master
 - **Expérience** : > 3 ans
-- **Télétravail total possible**
+- **Télétravail total possible** 
+-->
 
 
 <br/>
 
-🔗 &nbsp; **N'hésitez pas à diffuser l'offre en partageant [ce lien](https://hackmd.io/@jailbreak/multi-offre-emploi) sur vos réseaux.**
+<!-- 🔗 &nbsp; **N'hésitez pas à diffuser l'offre en partageant [ce lien](https://hackmd.io/@jailbreak/multi-offre-emploi) sur vos réseaux.** -->
+
+<a href="https://multi.welcomekit.co/jobs/directrice-directeur-technique_paris" class="button is-primary is-large is-rounded is-fullwidth">
+  Consultez l'annonce !
+</a>

@@ -9,11 +9,13 @@ post_date: 05 janvier 2022
 
 # multi recrute un‧e développeur‧se Full Stack pour construire catalogue.data.gouv.fr
 
+<!--
 ## La coopérative numérique multi 
 
 🚀 &nbsp; **multi** c'est une structure coopérative de type [SCOP](https://www.les-scop.coop/foire-aux-questions) qui développe des outils numériques libres d'intérêt général, et a pour ambition de donner plus de poids aux multiples acteurs du numérique libre grâce aux [communs numériques](https://labo.societenumerique.gouv.fr/2019/10/16/les-communs-numeriques-un-modele-innovant-de-developpement-des-ressources-numeriques/). 
 
-📖 &nbsp; Nous travaillons sur différents projets pour des acteurs publics ou para-publics. Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et de l'*open source*. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil...
+📖 &nbsp; Nous travaillons sur différents projets pour des acteurs publics ou para-publics. Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et de l'*open source*. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil... 
+-->
 
 ## Le projet catalogue.data.gouv.fr
 
@@ -29,22 +31,25 @@ Vous serez intégré·e dans une équipe comprenant :
 - Frontend : Javascript
 - Backend : Python (FastAPI) 
 
+<!--
 ## Compétences attendues
 
 - Savoir-faire : 
-    - Bonne expérience en Python (FastAPI, Flask, Django...)
-    - Bonne expérience en Javascript (Vue.js, Svelte, React...) ou Typescript
-    - Git
-    - Intégration continue
-    - Tests unitaires
-    - Peer-review
-    - Développement open source
+  - Bonne expérience en Python (FastAPI, Flask, Django...)
+  - Bonne expérience en Javascript (Vue.js, Svelte, React...) ou Typescript
+  - Git
+  - Intégration continue
+  - Tests unitaires
+  - Peer-review
+  - Développement open source
 - Aptitudes : 
-    - Travail en équipe 
-    - Rigueur 
-    - Initiative
-    - Documentation
+  - Travail en équipe 
+  - Rigueur 
+  - Initiative
+  - Documentation 
+  -->
 
+<!-- 
 ## Environnement de travail
 
 - Rémunération : salaire + [participation salariale](https://www.service-public.fr/particuliers/vosdroits/F2141) + primes
@@ -61,6 +66,12 @@ Vous serez intégré·e dans une équipe comprenant :
 1. Envoyez-nous un CV, un lien vers vos repos, mais parlez-nous surtout de vos réalisations ou contributions publiées en open source, des projets que vous avez dirigés et dont vous êtes le·la plus fier·ère !
 2. Pré-sélection et entretien avec le product owner 
 3. Entretien avec les associés de la coopérative
-4. Embarquement avec l'équipe projet
+4. Embarquement avec l'équipe projet 
+-->
 
-📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop)
+<!-- 📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop) -->
+
+
+<a href="https://multi.welcomekit.co/jobs/developpeur-euse-full-stack_paris" class="button is-primary is-large is-rounded is-fullwidth">
+  Consultez l'annonce !
+</a>
