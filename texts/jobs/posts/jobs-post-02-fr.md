@@ -7,7 +7,7 @@ post_date: 05 janvier 2022
 
 🚧 &nbsp; Nous cherchons une personne pour travailler au développement du **catalogage de données produites par l'Etat**. Il s'agit d'un projet **open source**.
 
-# multi recrute un‧e développeur‧se Full Stack pour construire catalogue.data.gouv.fr
+<!-- # multi recrute un‧e développeur‧se Full Stack pour construire catalogue.data.gouv.fr -->
 
 <!--
 ## La coopérative numérique multi 
@@ -17,7 +17,7 @@ post_date: 05 janvier 2022
 📖 &nbsp; Nous travaillons sur différents projets pour des acteurs publics ou para-publics. Nos projets et nos activités ont en commun une spécialisation autour de l'*open data* et de l'*open source*. Nos chantiers recouvrent différents sujets, allant de la datavisualisation à la gestion de bases de données en ligne, en passant par les schémas de données et la validation, le design de services, le design UX/UI, ou le conseil... 
 -->
 
-## Le projet catalogue.data.gouv.fr
+<!-- ## Le projet catalogue.data.gouv.fr
 
 L'équipe de developpement a été constituée en décembre 2021, le projet ayant débuté sur la base d'une [investigation](https://jailbreak.gitlab.io/investigation-catalogue/synthese.html) ayant permis de délimiter un premier  périmètre fonctionnel et d'identifier un cercle de premiers utilisateurs. 
 
@@ -29,7 +29,7 @@ Vous serez intégré·e dans une équipe comprenant :
 ## Stack technique du projet
 
 - Frontend : Javascript
-- Backend : Python (FastAPI) 
+- Backend : Python (FastAPI)  -->
 
 <!--
 ## Compétences attendues
@@ -73,5 +73,5 @@ Vous serez intégré·e dans une équipe comprenant :
 
 
 <a href="https://multi.welcomekit.co/jobs/developpeur-euse-full-stack_paris" class="button is-primary is-large is-rounded is-fullwidth">
-  Consultez l'annonce !
+  Découvrez notre offre !
 </a>

@@ -40,7 +40,7 @@ et au contact de clients tels que :
 -->
 
 
-# Profil recherché
+<!-- # Profil recherché
 
 💪 &nbsp; Pour co-construire cette stratégie, nous cherchons **une personne capable de proposer une vision transversale sur les questions techniques**. Nous cherchons donc une personne avec autant de compétences techniques que de curiosité et d'imagination, notamment dans les domaines suivants :
 - Python (Flask, FastAPI, ...), Javascript (Vue.js, Svelte...), bases de données et backends (PostgreSQL, MongoDB, GraphQL...), Git, ops & intégration continue (Docker, Docker Compose, Ansible, Gitlab CI...)&nbsp;;
@@ -55,7 +55,7 @@ et au contact de clients tels que :
 - Proposer des stratégies de rationnalisation des développements &nbsp;;
 - Co-construire ensemble une vision sur les développements futurs de logiciels libres&nbsp;;
 - Proposer des outils mutualisés pour les différentes équipes projet&nbsp;;
-- Participer aux discussions et  décisions collectives concernant la coopérative, sur des sujets techniques ou autres.
+- Participer aux discussions et  décisions collectives concernant la coopérative, sur des sujets techniques ou autres. -->
 
 <!-- 
 💻 &nbsp; **Conditions de travail** :
@@ -96,5 +96,5 @@ Envoyez-nous un CV, mais parlez-nous surtout de vos codes publiés en *open sour
 <!-- 🔗 &nbsp; **N'hésitez pas à diffuser l'offre en partageant [ce lien](https://hackmd.io/@jailbreak/multi-offre-emploi) sur vos réseaux.** -->
 
 <a href="https://multi.welcomekit.co/jobs/directrice-directeur-technique_paris" class="button is-primary is-large is-rounded is-fullwidth">
-  Consultez l'annonce !
+  Découvrez notre offre !
 </a>

@@ -4,16 +4,16 @@ type: jobs
 options:
   title-key: title
   columns-size: one-third
-  has-readmore: true
-  readmore-divider: h1
+  has-readmore: false
+  # readmore-divider: h1
   
-  card-modal: true
-  card-modal-config:
-    full-screen: true
-    column-left: false
-    column-right: true
-    infos-texts: 
-      - post_date
+  # card-modal: true
+  # card-modal-config:
+  #   full-screen: true
+  #   column-left: false
+  #   column-right: true
+  #   infos-texts: 
+  #     - post_date
 
   miniature-keys: 
     - post_date
