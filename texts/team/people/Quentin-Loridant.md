@@ -5,7 +5,7 @@ start: début 2022
 image: ./images/team/quentin-loridant.png
 linkedin: https://www.linkedin.com/in/quentin-loridant-8b5719a5/
 github: https://github.com/qloridant
-email: team@multi.coop
+email: quentin.loridant@multi.coop
 skills: [ data, data science, python ]
 ---
 
