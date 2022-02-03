@@ -72,6 +72,6 @@ Vous serez intégré·e dans une équipe comprenant :
 <!-- 📥 &nbsp; [**contact@multi.coop**](mailto:contact@multi.coop) -->
 
 
-<a href="https://multi.welcomekit.co/jobs/developpeur-euse-full-stack_paris" class="button is-primary is-large is-rounded is-fullwidth">
-  Découvrez notre offre !
+<a href="https://multi.welcomekit.co/jobs/developpeur-euse-full-stack_paris" class="button is-primary is-rounded is-fullwidth">
+  Découvrez cette offre !
 </a>

@@ -16,7 +16,7 @@ options:
   #     - post_date
 
   miniature-keys: 
-    - post_date
+    # - post_date
     - job_status
     - tags
 
