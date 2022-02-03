@@ -33,6 +33,3 @@ Nous vous proposons plutôt de construire des **modèles transparents**, **perfo
 
 Nous auditons ou enrichissons également vos modèles existants.
 
-<!-- <div class="has-text-centered">
-  🚧 &nbsp; ... en construction ... &nbsp; 🚧  
-</div> -->
