@@ -69,6 +69,7 @@ items:
   - file: ./texts/references/projects/synapse.md
   - file: ./texts/references/projects/hydroviz.md
   - file: ./texts/references/projects/libviz.md
+  - file: ./texts/references/projects/cibnav.md
 
 
 dict:
