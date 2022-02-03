@@ -438,8 +438,27 @@ routes:
         component: TextComponent
         files:
           fr: ./texts/jobs/jobs-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/jobs/jobs-data.md
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js: false
+          css: false
+          html: |
+            <script src='https://www.welcomekit.co/assets/embed.js' type='text/javascript'></script>
+            <script type='text/javascript'>
+              welcomeKitReady(function() {
+                var wk = new WelcomeKitEmbed('J78KpaG')
+                wk.group('job')
+                wk.display(["department","officeCity","contractType","createdAt","startDate"])
+                wk.locale('fr')
+                wk.website('multi')
+                wk.render()
+              })
+            </script>
+            <div id='welcomekit-embed'></div>
+      # - name: data
+      #   component: DataGrid
+      #   files:
+      #     fr: ./texts/jobs/jobs-data.md
 --- 
