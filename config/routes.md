@@ -300,8 +300,10 @@ routes:
         component: WidgetComponent
         options:
           columns-size: two-thirds
-          js: https://multi-site-simulator-test.netlify.app/js/app.js
-          css: https://multi-site-simulator-test.netlify.app/css/app.css
+          js: 
+            - href: https://multi-site-simulator-test.netlify.app/js/app.js
+          css: 
+            - href: https://multi-site-simulator-test.netlify.app/css/app.css
           html: |
             <multi-shares-simulator 
               locale="fr"
@@ -442,7 +444,20 @@ routes:
         component: WidgetComponent
         options:
           columns-size: two-thirds
-          js: false
+          js:
+            - href: https://www.welcomekit.co/assets/embed.js
+            - href: null
+              script: |
+                welcomeKitReady(function() {
+                  var wk = new WelcomeKitEmbed('J78KpaG')
+                  wk.group('job')
+                  wk.display(["department","officeCity","contractType","createdAt","startDate"])
+                  wk.locale('fr')
+                  wk.website('multi')
+                  wk.render()
+                })
+          html: |
+            <div id='welcomekit-embed'></div>
           css: |
             .welcomekit-jobs-list-item {
               margin: 0;
@@ -552,19 +567,6 @@ routes:
               padding: 50px 0;
               text-align: center;
             }
-          html: |
-            <script src='https://www.welcomekit.co/assets/embed.js' type='text/javascript'></script>
-            <script type='text/javascript'>
-              welcomeKitReady(function() {
-                var wk = new WelcomeKitEmbed('J78KpaG')
-                wk.group('job')
-                wk.display(["department","officeCity","contractType","createdAt","startDate"])
-                wk.locale('fr')
-                wk.website('multi')
-                wk.render()
-              })
-            </script>
-            <div id='welcomekit-embed'></div>
       # - name: data
       #   component: DataGrid
       #   files:
