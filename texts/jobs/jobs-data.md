@@ -33,6 +33,7 @@ options:
       - name: tags
     
 items:
+  - file: ./texts/jobs/posts/jobs-post-spontaneous-fr.md
   - file: ./texts/jobs/posts/jobs-post-02-fr.md
   - file: ./texts/jobs/posts/jobs-post-01-fr.md
 
