@@ -163,7 +163,7 @@ routes:
       - name: offer-head
         component: TextComponent
         options:
-          columns-size: half
+          columns-size: two-thirds
           # columns-divider: h1
         files:
           fr: ./texts/offer/offer-head-fr.md
