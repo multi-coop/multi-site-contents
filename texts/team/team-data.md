@@ -9,6 +9,8 @@ options:
   has-readmore: true
   has-socials: true
 
+  shuffle: true
+
   card-modal: true
   card-modal-config:
     full-screen: false
