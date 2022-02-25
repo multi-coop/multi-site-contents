@@ -1,28 +1,27 @@
 # Jailbreak devient multi !
 
-Jailbreak a été créé en 2017 sur des valeurs d'ouverture au sens large: ouverture des codes sources, des API, des données ; ouverture culturelle ; ouverture sur la vie entrepreunariale. 
+Jailbreak a été créé en 2017 sur des valeurs d'ouverture au sens large : ouverture des codes sources, des API, des données ; ouverture culturelle ; ouverture sur la vie entrepreunariale.
 
-En 2022, sous l'impulsion de Julien Paris, de nouvelles personnes ont rejoint l'équipe (Pierre Camilleri, Quentin Loridant, Thomas Brosset), alors que d'autres partaient vers de nouveaux horizons chez d'anciens clients notamment. 
+En 2022, sous l'impulsion de Julien Paris, de nouvelles personnes ont rejoint l'équipe (Pierre Camilleri, Quentin Loridant, Thomas Brosset), alors que d'autres partaient vers de nouveaux horizons chez d'anciens clients notamment.
 
-Avec l'arrivée de la nouvelle équipe, nous avons souhaité marquer plus fortement nos engagements et nos valeurs. 
+Avec l'arrivée de la nouvelle équipe, nous avons souhaité marquer plus fortement nos engagements et nos valeurs.
 
 # Un nouveau nom pour reflèter nos compétences
-C'est pourquoi Jailbreak devient multi, afin de mieux refléter la diversité des compétences et des missions que nous proposons. 
-En effet, la transformation numérique n'est pas qu'une affaire de développeurs. Il s'agit de mobiliser des compétences diverses de design, gestion de projet, développement, intégration et déploiement continu, maintenance, accompagnement des utilisateurs et construction de communautés.
-Cette ouverture de compétences s'accompagne d'un recrutement de ressources en data science et en data engineering afin d'accompagner des projets d'algorithmes transparents.
 
+C'est pourquoi Jailbreak devient multi, afin de mieux refléter la diversité des compétences et des missions que nous proposons.
+En effet, la transformation numérique n'est pas qu'une affaire de développeurs. Il s'agit de mobiliser des compétences diverses de design, gestion de projet, développement, intégration et déploiement continu, maintenance, accompagnement des utilisateurs et construction de communautés.
+Cette ouverture de compétences s'accompagne d'un recrutement de ressources en _data science_ et en _data engineering_ afin d'accompagner des projets d'algorithmes transparents.
 
 # Un nouveau format coopératif
-A l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. Multi est maintenant une [SCOP](https://www.les-scop.coop/les-scop) et rejoint la confédération générale des [SCOP](https://www.les-scop.coop/). 
-Chez multi, les salarié•e•s sont sociétaires, et un•e salarié•e = une voix. 
+
+A l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. multi est maintenant une Société coopérative et participative et adhère à la Confédération générale des SCOP.
+Chez multi, les salarié•e•s ont donc vocation à devenir sociétaires, et un•e associé•e = une voix.
 
 # Affirmer nos ambitions
 
-Mutli s'engage auprès des acteurs publics et parapublics dans le développement de produits numériques, en proposant une offre de services couvrant l'ensemble de la chaîne de production. 
-Nous promouvons l'utilisation de solutions open source, incitons les contributions sur les projets existants, et proposons également nos propres solutions numériques ouvertes (Apiviz, Data patch).
+Mutli s'engage auprès des acteurs publics et parapublics dans le développement de produits numériques, en proposant une offre de services couvrant l'ensemble de la chaîne de production. Nous promouvons l'utilisation de logiciels libres, incitons les contributions sur les projets existants, et proposons également nos propres solutions numériques ouvertes (Apiviz, Data Patch, Validata, Vitrine...).
 
 En bref, multi est une coopérative numérique engagée auprès des acteurs publics et des citoyens, pour l'intérêt général.
-
 
 # Et toujours à coté de nos clients historiques
 
