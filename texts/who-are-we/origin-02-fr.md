@@ -28,4 +28,6 @@ En bref, multi est une coopérative numérique engagée auprès des acteurs publ
 
 ## Et toujours à coté de nos clients historiques
 
-Nous continuons à accompagner nos clients historiques dans les projets que nous menons avec et pour eux depuis parfois plusieurs années. Nos valeurs essentielles ne changent pas, mais tout le reste évolue !
+Nous continuons à accompagner nos clients historiques dans les projets que nous menons avec et pour eux depuis parfois plusieurs années. 
+
+Nos valeurs essentielles ne changent pas, mais tout le reste évolue !
