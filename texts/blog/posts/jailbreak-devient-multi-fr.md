@@ -11,7 +11,7 @@ En 2022, sous l'impulsion de [Julien Paris](/team?item=.%2Ftexts%2Fteam%2Fpeople
 
 Avec l'arrivée de la nouvelle équipe, nous avons souhaité marquer plus fortement nos engagements et nos valeurs.
 
-## Un nouveau nom pour reflèter nos compétences
+## Un nouveau nom pour refléter nos compétences
 
 C'est pourquoi Jailbreak devient **multi**, afin de mieux refléter la diversité des compétences et des missions que nous proposons.
 
@@ -21,7 +21,7 @@ Cette ouverture de compétences s'accompagne d'un recrutement de ressources en _
 
 ## Un nouveau format coopératif
 
-A l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. 
+À l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. 
 
 Multi est maintenant une [Société coopérative et participative](https://www.les-scop.coop/les-scop) (ou SCOP) et adhère à la [Confédération générale des SCOP](https://www.les-scop.coop/).
 
@@ -33,7 +33,7 @@ Mutli s'engage auprès des acteurs publics et parapublics dans le développement
 
 En bref, multi est une coopérative numérique engagée auprès des acteurs publics et des citoyens, pour l'intérêt général.
 
-## Et toujours à coté de nos clients historiques
+## Et toujours aux cotés de nos clients historiques
 
 Nous continuons à accompagner nos clients historiques dans les projets que nous menons avec et pour eux depuis parfois plusieurs années. 
 
