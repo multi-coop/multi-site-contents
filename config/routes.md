@@ -117,8 +117,7 @@ routes:
         options:
           columns-size: two-thirds
         files:
-#          fr: ./texts/who-are-we/origin-fr.md
-          fr: ./texts/who-are-we/origin-02-fr.md
+          fr: ./texts/who-are-we/origin-fr.md
       - name: head
         component: TextComponent
         options:
