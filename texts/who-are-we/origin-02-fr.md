@@ -16,13 +16,15 @@ Cette ouverture de compétences s'accompagne d'un recrutement de ressources en _
 
 ## Un nouveau format coopératif
 
-A l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. multi est maintenant une Société coopérative et participative et adhère à la Confédération générale des SCOP.
+A l'heure du télétravail et dans un secteur où les compétences personnelles sont au premier plan, il nous semblait nécessaire de repenser notre relation au travail. Le format coopératif nous semble une première étape concrète pour initier des changements dans la gouvernance et la culture d'entreprise. 
 
-Chez multi, les salarié•e•s ont donc vocation à devenir sociétaires, et un•e associé•e = une voix.
+Multi est maintenant une [Société coopérative et participative](https://www.les-scop.coop/les-scop) (ou SCOP) et adhère à la [Confédération générale des SCOP](https://www.les-scop.coop/).
+
+Chez multi, les salarié•e•s ont donc vocation à devenir sociétaires. Ainsi la gouvernance suit ce principe : un•e associé•e = une voix.
 
 ## Affirmer nos ambitions
 
-Mutli s'engage auprès des acteurs publics et parapublics dans le développement de produits numériques, en proposant une offre de services couvrant l'ensemble de la chaîne de production. Nous promouvons l'utilisation de logiciels libres, incitons les contributions sur les projets existants, et proposons également nos propres solutions numériques ouvertes (Apiviz, Data Patch, Validata, Vitrine...).
+Mutli s'engage auprès des acteurs publics et parapublics dans le développement de produits numériques, en proposant une offre de services couvrant l'ensemble de la chaîne de production. Nous promouvons l'utilisation de logiciels libres, nous incitons les contributions sur les projets existants, et nous proposons également nos propres solutions numériques ouvertes : [Apiviz](/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fapiviz.md), [Data Patch](/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fdata-patch.md), [Validata](/references?item=.%2Ftexts%2Freferences%2Fprojects%2Fvalidata.md), Vitrine...
 
 En bref, multi est une coopérative numérique engagée auprès des acteurs publics et des citoyens, pour l'intérêt général.
 
@@ -30,4 +32,4 @@ En bref, multi est une coopérative numérique engagée auprès des acteurs publ
 
 Nous continuons à accompagner nos clients historiques dans les projets que nous menons avec et pour eux depuis parfois plusieurs années. 
 
-Nos valeurs essentielles ne changent pas, mais tout le reste évolue !
+**Nos valeurs essentielles ne changent pas, mais tout le reste évolue !**
