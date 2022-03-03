@@ -33,7 +33,7 @@ Mutli s'engage auprès des acteurs publics et parapublics dans le développement
 
 En bref, multi est une coopérative numérique engagée auprès des acteurs publics et des citoyens, pour l'intérêt général.
 
-## Et toujours aux cotés de nos clients historiques
+## Et toujours aux côtés de nos clients historiques
 
 Nous continuons à accompagner nos clients historiques dans les projets que nous menons avec et pour eux depuis parfois plusieurs années. 
 
