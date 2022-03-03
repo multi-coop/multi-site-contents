@@ -5,7 +5,7 @@ start: début 2022
 image: ./images/team/thomas-brosset.png
 github: https://github.com/thoomasbro
 linkedin: https://www.linkedin.com/in/thomasbrosset/
-email: team@multi.coop
+email: thomas.brosset@multi.coop
 skills: [ dev, urba ]
 ---
 
