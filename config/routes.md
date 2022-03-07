@@ -410,7 +410,7 @@ routes:
         files:
           fr: ./texts/jobs/jobs-data.md
 
- - name: shares-simulator
+  - name: shares-simulator
     url: /shares-simulator
     sections: 
       - name: simulator

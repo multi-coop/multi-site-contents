@@ -131,7 +131,7 @@ buttons-right:
     options: [ arrowless, hoverable ]
     label: 
       fr: Notre univers
-      en: Our univers
+      en: Our universe
     submenu:
       - name: network
         link: /network
