@@ -49,6 +49,7 @@ items:
   - file: ./texts/ressources/items/video-Borrel-La_bataille_du_libre.md
   - file: ./texts/ressources/items/book-ONeil-Weapons_of_math_destruction.md
   - file: ./texts/ressources/items/podcast-Colon-Cerveaux_sous_controle.md
+  - file: ./texts/ressources/items/video-Broca-Transformation_mouvement_communs.md
 
 dict:
   author:
