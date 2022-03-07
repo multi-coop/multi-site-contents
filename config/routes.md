@@ -314,14 +314,14 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: half
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:
-          columns-size: two-thirds
+          columns-size: half
           buttons-size: full
           buttons: 
             - link: /jobs
