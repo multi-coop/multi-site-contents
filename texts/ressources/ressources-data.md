@@ -43,6 +43,7 @@ items:
   - file: ./texts/ressources/items/report-Bothorel-Pour_une_politique_publique_de_la_donnee.md
   - file: ./texts/ressources/items/article-Pilmis-Intemittence_nouvelle_norme_marche_travail.md
   - file: ./texts/ressources/items/article-Amel-OSI_business_models.md
+  - file: ./texts/ressources/items/book-Benyayer-Open_models.md
 
 dict:
   author:
