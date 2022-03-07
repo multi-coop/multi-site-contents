@@ -132,7 +132,25 @@ buttons-right:
     label: 
       fr: Notre univers
       en: Our univers
-    submenu: 
+    submenu:
+      - name: network
+        link: /network
+        component: simpleLink
+        label: 
+          fr: Notre réseau
+          en: Our network
+      - name: ressources
+        link: /ressources
+        component: simpleLink
+        label: 
+          fr: Ressources
+          en: Ressources
+      - name: shares-simulator
+        link: /shares-simulator
+        component: simpleLink
+        label: 
+          fr: Simulateur de participation
+          en: Participation simulator
       # - name: network
       #   link: /network
       #   component: simpleLink
