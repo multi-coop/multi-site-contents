@@ -4,6 +4,7 @@ type: network
 options:
   title-key: title
   illustration-key: logo
+  illustration-height: 50px
   columns-size: full
   has-readmore: false
 
@@ -38,6 +39,7 @@ items:
   - file: ./texts/network/items/latitudes.md
   - file: ./texts/network/items/mednum.md
   - file: ./texts/network/items/urscop.md
+  - file: ./texts/network/items/scopyleft.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
