@@ -55,7 +55,6 @@ items:
   - file: ./texts/ressources/items/video-Hoback-Terms_and_conditions_may_apply.md
   - file: ./texts/ressources/items/video-Poitras-Citizen_four.md
   - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
-  - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
   - file: ./texts/ressources/items/video-Meillassoux-Gladovic-Nothing_to_hide.md
 dict:
   author:
