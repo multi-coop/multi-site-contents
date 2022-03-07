@@ -23,16 +23,16 @@ options:
     - tags
 
   tags-keys: 
-    - key: type
+    - key: medium
       color: primary
-    - key: tags
+    - key: topics
       color: info
 
   filters: 
     activate: true
     items: 
-      - name: type
-      - name: tags
+      - name: medium
+      - name: topics
 
 items:
   - file: ./texts/ressources/items/book-PM-Menger-Le_travail_createur.md
@@ -41,10 +41,10 @@ dict:
   author:
     fr: Auteur
     en: Author
-  type:
+  medium:
     fr: Type de ressource
     en: Ressource type
-  tags:
+  topics:
     fr: tags
     en: tags
 ---
