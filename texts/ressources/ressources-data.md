@@ -23,7 +23,7 @@ options:
 
   tags-keys: 
     - key: medium
-      color: light
+      color: dark
     - key: topics
       color: info
 
