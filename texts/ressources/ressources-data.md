@@ -48,6 +48,7 @@ items:
   - file: ./texts/ressources/items/podcast-FrCulture-Histoire_de_l_internet.md
   - file: ./texts/ressources/items/video-Borrel-La_bataille_du_libre.md
   - file: ./texts/ressources/items/book-ONeil-Weapons_of_math_destruction.md
+  - file: ./texts/ressources/items/podcast-Colon-Cerveaux_sous_controle.md
 
 dict:
   author:
