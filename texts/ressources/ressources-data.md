@@ -31,7 +31,8 @@ options:
       - name: topics
 
 items:
-  - file: ./texts/ressources/items/book-PM-Menger-Le_travail_createur.md
+  - file: ./texts/ressources/items/book-Menger-Le_travail_createur.md
+  - file: ./texts/ressources/items/book-Dardot-Laval-Commun.md
 
 dict:
   author:
