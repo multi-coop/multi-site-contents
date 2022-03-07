@@ -4,7 +4,7 @@ type: network
 options:
   title-key: title
   illustration-key: logo
-  columns-size: one-third
+  columns-size: full
   has-readmore: false
 
   list: true
