@@ -38,6 +38,7 @@ items:
   - file: ./texts/ressources/items/book-Dardot-Laval-Commun.md
   - file: ./texts/ressources/items/book-Cornut-Orsi-Rochfeld-Dictionnaire_des_biens_communs.md
   - file: ./texts/ressources/items/article-Shulz-Histoire_sociologique_mouvement_ambigu.md
+  - file: ./texts/ressources/items/book-Bauwens-Kostakis-Pazaitis-Peer_to_peer.md
 
 dict:
   author:
