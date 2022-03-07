@@ -1,11 +1,11 @@
 ---
-title: L’Open Source Innovation et les Business Models dédiés
+title: Les business models de l’édition open source
 subtitle: Le cas des logiciels open source
-author: Charles Amel
+author: Charleux Amel, Anne Mionne
 medium: [ article ]
 topics: [ open source, modèles économiques ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/aims-logo.png
-link: https://www.strategie-aims.com/events/conferences/25-xxiveme-conference-de-l-aims/communications/3609-lopen-source-innovation-et-les-business-models-dedies-le-cas-des-logiciels-open-source/download
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/open_editions.png
+link: https://journals.openedition.org/fcs/2088
 ---
 
-L’article analyse les représentations et pratiques qui président au projet d’État plateforme, en vogue en France entre 2014 et 2019. Ce projet recouvre plusieurs composantes : le rééquilibrage de l’open data de la transparence vers l’innovation, le rêve – déçu – de voir des startups spontanément proposer des services administratifs et, surtout, une pratique alternative pour l’informatique autour de microprojets portés par les « startups d’État » et autour de dispositifs légers d’échange de données (API). La mise à l’écart de la notion traduit un retour à des formes plus classiques de standardisation des projets informatiques. « État plateforme » peut être considéré comme une tentative de renouveler l’approche de l’innovation et de la gestion dans l’administration, tentative qui fait écho à l’introduction du « digital » dans les entreprises privées.
+Cette recherche identifie les business models (BM) mis en œuvre par les éditeurs de logiciels libres et open source. Ces modèles requièrent une approche originale des BM parce que la création de la valeur dépend de l’attractivité du projet auprès de contributeurs dont le nombre, la qualité et la diversité ne sont pas contrôlés. Cette spécificité pose la question du partage d’une valeur qui ne peut pas être anticipée ni formellement négociée. Nous procédons à une analyse quantitative de près de 200 logiciels et réalisons une taxonomie par la méthode TwoStep Cluster. Nos résultats mettent au jour quatre BM, engagement, exploration, expertise et optimisation.
