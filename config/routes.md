@@ -279,6 +279,53 @@ routes:
         files:
           fr: ./texts/podcasts/podcasts-data.md
 
+  - name: our-cooperative
+    url: /our-cooperative
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/our-cooperative/our-cooperative-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/our-cooperative/our-cooperative-data.md
+
+  - name: shares-simulator
+    url: /shares-simulator
+    sections: 
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js: 
+            - href: https://multi-site-simulator-test.netlify.app/js/app.js
+          css: 
+            - href: https://multi-site-simulator-test.netlify.app/css/app.css
+          html: |
+            <multi-shares-simulator 
+              locale="fr"
+              cooperative="multi"
+              partvalue="25"
+              minbenefs="0"
+              benefs="100000"
+              repart='{
+                "reserves":40,
+                "participation":50,
+                "dividendes":10
+              }'
+              team='[
+                { "name":"Johan Richer", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Thomas Brosset", "parts":40, "workTime":40, "yearTime": 12 },
+                { "name":"Pierre Camilleri", "parts":100, "workTime":60, "yearTime": 12 },
+                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 }
+              ]'
+            />
+
+
   - name: blog
     url: /blog
     sections: 
@@ -393,8 +440,135 @@ routes:
         component: TextComponent
         files:
           fr: ./texts/jobs/jobs-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/jobs/jobs-data.md
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js:
+            - href: https://www.welcomekit.co/assets/embed.js
+            - href: null
+              script: |
+                welcomeKitReady(function() {
+                  var wk = new WelcomeKitEmbed('J78KpaG')
+                  wk.group('job')
+                  wk.display(["department","officeCity","contractType","createdAt","startDate"])
+                  wk.locale('fr')
+                  wk.website('multi')
+                  wk.render()
+                })
+          html: |
+            <div id='welcomekit-embed'></div>
+          css: |
+            .welcomekit-jobs-list-item {
+              margin: 0;
+              padding: 0;
+            }
+            .welcomekit-jobs-list-item-link {
+              position: relative;
+              display: block;
+              margin: 0;
+              padding: 30px 5px;
+              border-bottom: 1px solid #eee;
+              text-decoration: none;
+              transition: all 0.2s;
+            }
+            .welcomekit-jobs-list-item-link:after {
+              position: absolute;
+              top: 50%;
+              right: 30px;
+              width: 20px;
+              height: 20px;
+              margin-top: -10px;
+              content: ' ';
+              border-top: 1px solid #ddd;
+              border-right: 1px solid #ddd;
+              transform: rotate(45deg);
+              transition: all 0.2s;
+            }
+            .welcomekit-jobs-list-item-link:hover {
+              background: #f5f5f5;
+              border-bottom-color: #ddd;
+            }
+            .welcomekit-jobs-list-item-link:hover:after {
+              right: 20px;
+              border-top-color: #aaa;
+              border-right-color: #aaa;
+            }
+            .welcomekit-job-name {
+              margin: 0 0 10px 0;
+              padding: 0;
+              font-weight: 500;
+              font-size: 19px;
+              line-height: 20px;
+            }
+            .welcomekit-job-infos {
+              margin: 0;
+              padding: 0;
+            }
+            .welcomekit-job-infos > li {
+              position: relative;
+              display: inline-block;
+              margin: 0 34px 0 0;
+              color: #aaa;
+            }
+            .welcomekit-job-infos > li:before {
+              position: absolute;
+              top: 6px;
+              left: -20px;
+              content: ' ';
+              display: block;
+              height: 6px;
+              width: 6px;
+              background: #ddd;
+              border-radius: 50%;
+            }
+            .welcomekit-job-infos > li:first-child:before {
+              display: none;
+            }
+            .welcomekit-job-infos > li.welcomekit-job-description {
+              display: block;
+              margin: 10px 0 0 0;
+              padding: 10px 20px;
+              border-left: 2px solid #eee;
+            }
+            .welcomekit-job-infos > li.welcomekit-job-description p,
+            .welcomekit-job-infos > li.welcomekit-job-description ul {
+              margin: 0;
+              padding: 0 0 10px 0;
+              color: #bbb;
+            }
+            .welcomekit-job-infos > li.welcomekit-job-description ul li {
+              border-left: 1px solid #eee;
+              padding-left: 10px;
+              margin-bottom: 10px;
+            }
+            .welcomekit-job-infos > li.welcomekit-job-description pre {
+              border-left: 1px solid #eee;
+              padding-left: 10px;
+              overflow: auto;
+            }
+            .welcomekit-job-infos > li.welcomekit-job-description:before {
+              display: none
+            }
+            .welcomekit-office-city,
+            .welcomekit-department-name {
+              display: block;
+              padding: 15px;
+              background: #eee;
+              border-top: 1px solid #e0e0e0;
+              border-bottom: 1px solid #e0e0e0;
+              font-weight: 500;
+              font-size: 17px;
+              line-height: 18px;
+              text-transform: uppercase;
+            }
+            .welcomekit-warning {
+              display: block;
+              padding: 50px 0;
+              text-align: center;
+            }
+      # - name: data
+      #   component: DataGrid
+      #   files:
+      #     fr: ./texts/jobs/jobs-data.md
 --- 
