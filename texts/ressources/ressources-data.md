@@ -26,6 +26,12 @@ options:
     - key: tags
       color: info
 
+  filters: 
+    activate: true
+    items: 
+      - name: type
+      - name: tags
+
 items:
   - file: ./texts/ressources/items/book-PM-Menger-Le_travail_createur.md
 

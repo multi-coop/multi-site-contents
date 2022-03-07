@@ -8,7 +8,7 @@ options:
 
   shuffle: true
 
-  card-modal: true
+  card-modal: false
   card-modal-config:
     full-screen: true
     column-left: false
@@ -25,6 +25,12 @@ options:
       color: primary
     - key: tags
       color: info
+
+  filters: 
+    activate: true
+    items: 
+      - name: type
+      - name: tags
 
 items:
   - file: ./texts/network/items/mednum.md
