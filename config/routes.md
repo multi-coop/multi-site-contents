@@ -4,6 +4,8 @@ routes:
   # LANDING
   - name: home 
     url: /
+    options:
+      hero: true
     sections: 
       - name: logo
         component: LogoAnimated
