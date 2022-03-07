@@ -22,7 +22,7 @@ options:
 
   tags-keys: 
     - key: type
-      color: primary
+      color: light
     - key: tags
       color: info
 
