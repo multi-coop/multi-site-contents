@@ -38,7 +38,7 @@ items:
   - file: ./texts/network/items/latitudes.md
   - file: ./texts/network/items/mednum.md
   - file: ./texts/network/items/urscop.md
-  - file: ./texts/network/items/usages-communs.md
+  # - file: ./texts/network/items/usages-communs.md
 
 dict:
   type:
