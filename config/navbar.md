@@ -68,25 +68,25 @@ buttons-left:
           en: Our references
   
   - name: contact 
-    # link: /contact
-    component: dropdownLink
+    link: /infos
+    component: simpleLink
     options: [ arrowless, hoverable ]
     label: 
       fr: Contact
       en: Contact
-    submenu: 
-      - name: infos
-        link: /infos
-        component: simpleLink
-        label: 
-          fr: Infos
-          en: Infos
-      - name: contribute
-        link: /contribute
-        component: simpleLink
-        label: 
-          fr: Contribuer
-          en: Contribute
+      # submenu: 
+      #   - name: infos
+      #     link: /infos
+      #     component: simpleLink
+      #     label: 
+      #       fr: Infos
+      #       en: Infos
+      #   - name: contribute
+      #     link: /contribute
+      #     component: simpleLink
+      #     label: 
+      #       fr: Contribuer
+      #       en: Contribute
       # - name: legal
       #   link: /legal
       #   component: simpleLink
@@ -97,25 +97,32 @@ buttons-left:
 buttons-right: 
 
   - name: recruit 
-    # link: /recruit
-    component: dropdownLink
+    link: /jobs
+    component: simpleLink
     options: [ arrowless, hoverable ]
     label: 
       fr: Jobs
       en: Jobs
-    submenu: 
-      - name: join
-        link: /join
-        component: simpleLink
-        label: 
-          fr: Pourquoi nous rejoindre
-          en: Why join us
-      - name: jobs
-        link: /jobs
-        component: simpleLink
-        label: 
-          fr: On recrute
-          en: We recruit
+    # submenu: 
+    #   - name: join
+    #     link: /join
+    #     component: simpleLink
+    #     label: 
+    #       fr: Pourquoi nous rejoindre
+    #       en: Why join us
+    #   - name: jobs
+    #     link: /jobs
+    #     component: simpleLink
+    #     label: 
+    #       fr: On recrute
+    #       en: We recruit
+
+  - name: blog
+    link: /blog
+    component: simpleLink
+    label: 
+      fr: Blog
+      en: Blog
 
   - name: we-like
     disabled: false
@@ -123,8 +130,8 @@ buttons-right:
     component: dropdownLink
     options: [ arrowless, hoverable ]
     label: 
-      fr: On aime
-      en: We like
+      fr: Notre univers
+      en: Our univers
     submenu: 
       # - name: network
       #   link: /network
@@ -138,12 +145,6 @@ buttons-right:
       #   label: 
       #     fr: Podcasts
       #     en: Podcasts
-      - name: blog
-        link: /blog
-        component: simpleLink
-        label: 
-          fr: Blog
-          en: Blog
 
   - name: switch-locale
     component: switchLocaleDropdown
