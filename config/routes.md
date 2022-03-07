@@ -130,6 +130,8 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/team/team-head-fr.md
       - name: data
@@ -201,6 +203,8 @@ routes:
     sections: 
       - name: products-head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/references/products-head-fr.md
       - name: products-data
@@ -248,6 +252,8 @@ routes:
                 en: Our open source products
       - name: refs-head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/references/references-head-fr.md
       - name: refs-data
@@ -377,6 +383,8 @@ routes:
                 en: Why joining multi ?
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/jobs/jobs-head-fr.md
       - name: data
@@ -404,6 +412,8 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/network/network-head-fr.md
       - name: data
