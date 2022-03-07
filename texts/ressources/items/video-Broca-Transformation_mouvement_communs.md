@@ -2,7 +2,7 @@
 title: Les transformations du mouvement des communs numériques de 1990 à nos jours
 author: Sébastien Broca
 medium: [ video, conférence ]
-topics: [ open source, internet ]
+topics: [ open source, communs ]
 cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/broca-transformation_mouvement_communs.png
 link: https://www.canal-u.tv/chaines/cnrspouchet/les-transformations-du-mouvement-des-communs-numeriques-de-1990-a-nos-jours
 ---
