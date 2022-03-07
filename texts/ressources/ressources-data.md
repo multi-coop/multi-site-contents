@@ -50,6 +50,7 @@ items:
   - file: ./texts/ressources/items/book-ONeil-Weapons_of_math_destruction.md
   - file: ./texts/ressources/items/podcast-Colon-Cerveaux_sous_controle.md
   - file: ./texts/ressources/items/video-Broca-Transformation_mouvement_communs.md
+  - file: ./texts/ressources/items/article-Gregoire-Intermittents_du_spectacle.md
 
 dict:
   author:
