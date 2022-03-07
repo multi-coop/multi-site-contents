@@ -36,6 +36,7 @@ options:
 items:
   - file: ./texts/ressources/items/book-Menger-Le_travail_createur.md
   - file: ./texts/ressources/items/book-Dardot-Laval-Commun.md
+  - file: ./texts/ressources/items/book-Cornut-Orsi-Rochfeld-Dictionnaire_des_biens_communs.md
 
 dict:
   author:
