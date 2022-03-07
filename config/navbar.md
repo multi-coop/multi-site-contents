@@ -149,8 +149,8 @@ buttons-right:
         link: /shares-simulator
         component: simpleLink
         label: 
-          fr: Simulateur de participation
-          en: Participation simulator
+          fr: Simulateur de répartition
+          en: Repartition simulator
       # - name: network
       #   link: /network
       #   component: simpleLink

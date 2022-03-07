@@ -254,44 +254,18 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/references/references-data.md
-  
-  - name: network
-    url: /network
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/we-like/network-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/we-like/network-data.md
 
-  - name: podcasts
-    url: /podcasts
-    sections:
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/podcasts/podcasts-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/podcasts/podcasts-data.md
-
-  - name: blog
-    url: /blog
-    sections: 
-      - name: head
-        component: TextComponent
-        options:
-          columns-size: two-thirds
-        files:
-          fr: ./texts/blog/blog-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/blog/blog-data.md
+  # - name: podcasts
+  #   url: /podcasts
+  #   sections:
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/podcasts/podcasts-head-fr.md
+  #     - name: data
+  #       component: DataGrid
+  #       files:
+  #         fr: ./texts/podcasts/podcasts-data.md
 
   # CONTACT
   # - name: contact
@@ -409,6 +383,47 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/jobs/jobs-data.md
+
+
+  - name: blog
+    url: /blog
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/blog/blog-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/blog/blog-data.md
+
+  - name: network
+    url: /network
+    sections: 
+      - name: head
+        component: TextComponent
+        files:
+          fr: ./texts/network/network-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/network/network-data.md
+
+  - name: ressources
+    url: /ressources
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/ressources/ressources-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/ressources/ressources-data.md
 
   - name: shares-simulator
     url: /shares-simulator
