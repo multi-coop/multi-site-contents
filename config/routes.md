@@ -318,6 +318,18 @@ routes:
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: two-thirds
+          buttons-size: full
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Nos offres d'emploi
+                en: Our job offers
 
   - name: contribute
     url: /contribute
