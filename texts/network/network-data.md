@@ -39,7 +39,7 @@ items:
   - file: ./texts/network/items/fairness.md
   - file: ./texts/network/items/latitudes.md
   - file: ./texts/network/items/mednum.md
-  - file: ./texts/network/items/urscop.md
+  - file: ./texts/network/items/urscop-idf.md
   - file: ./texts/network/items/scopyleft.md
   - file: ./texts/network/items/ut7.md
   - file: ./texts/network/items/ping.md
