@@ -6,6 +6,7 @@ options:
   columns-size: one-third
   has-readmore: false
 
+  list: true
   shuffle: true
 
   card-modal: false
