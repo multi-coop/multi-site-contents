@@ -45,6 +45,7 @@ items:
   - file: ./texts/network/items/open-data-france.md
   - file: ./texts/network/items/open-source-politics.md
   - file: ./texts/network/items/code-for-france.md
+  - file: ./texts/network/items/leon.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
