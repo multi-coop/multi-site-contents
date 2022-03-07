@@ -4,6 +4,7 @@ type: ressources
 options:
   title-key: title
   illustration-key: cover
+  illustration-height: 85px
   columns-size: full
   has-readmore: true
 
