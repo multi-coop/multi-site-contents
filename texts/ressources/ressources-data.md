@@ -51,6 +51,7 @@ items:
   - file: ./texts/ressources/items/podcast-Colon-Cerveaux_sous_controle.md
   - file: ./texts/ressources/items/video-Broca-Transformation_mouvement_communs.md
   - file: ./texts/ressources/items/article-Gregoire-Intermittents_du_spectacle.md
+  - file: ./texts/ressources/items/book-Zuboff-Age_capitalisme_surveillance.md
 
 dict:
   author:
