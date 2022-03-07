@@ -52,7 +52,11 @@ items:
   - file: ./texts/ressources/items/video-Broca-Transformation_mouvement_communs.md
   - file: ./texts/ressources/items/article-Gregoire-Intermittents_du_spectacle.md
   - file: ./texts/ressources/items/book-Zuboff-Age_capitalisme_surveillance.md
-
+  - file: ./texts/ressources/items/video-Hoback-Terms_and_conditions_may_apply.md
+  - file: ./texts/ressources/items/video-Poitras-Citizen_four.md
+  - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
+  - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
+  - file: ./texts/ressources/items/video-Meillassoux-Gladovic-Nothing_to_hide.md
 dict:
   author:
     fr: Auteur
