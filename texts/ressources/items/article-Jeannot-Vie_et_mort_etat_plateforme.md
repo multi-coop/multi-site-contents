@@ -1,6 +1,5 @@
 ---
 title: Vie et mort de l’État plateforme
-# subtitle: Ce que la critique de l’État nous apprend des formes de communs numériques
 author: Gilles Jeannot
 medium: [ article ]
 topics: [ open data, API, open source, politique, Etat ]

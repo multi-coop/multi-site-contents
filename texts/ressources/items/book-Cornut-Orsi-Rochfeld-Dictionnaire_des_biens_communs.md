@@ -1,6 +1,5 @@
 ---
 title: Dictionnaire des biens communs
-# subtitle: S'accomplir dans l'incertain
 author: Marie Cornu, Fabienne Orsi, Judith Rochfeld
 medium: [ book ]
 topics: [ communs, biens communs ]
