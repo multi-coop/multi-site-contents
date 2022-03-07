@@ -1,5 +1,6 @@
 ---
 title: LEON
+title: Les Entrepreneurs Ouverts du Numérique
 type: [ Association ]
 tags: [ open data ]
 logo: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/network/images/leon-logo.png

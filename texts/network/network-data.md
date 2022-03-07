@@ -3,6 +3,7 @@ type: network
 
 options:
   title-key: title
+  subtitle-key: subtitle
   illustration-key: logo
   illustration-height: 50px
   columns-size: full
