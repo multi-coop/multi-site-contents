@@ -41,6 +41,8 @@ items:
   - file: ./texts/network/items/urscop.md
   - file: ./texts/network/items/scopyleft.md
   - file: ./texts/network/items/ut7.md
+  - file: ./texts/network/items/ping.md
+  - file: ./texts/network/items/open-data-france.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
