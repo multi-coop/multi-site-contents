@@ -3,8 +3,10 @@ type: ressources
 
 options:
   title-key: title
+  subtitle-key: subtitle
+  author-key: author
   illustration-key: cover
-  illustration-height: 85px
+  illustration-height: 120px
   columns-size: full
   has-readmore: true
 
