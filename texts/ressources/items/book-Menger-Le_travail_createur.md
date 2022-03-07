@@ -4,7 +4,7 @@ subtitle: S'accomplir dans l'incertain
 author: Pierre-Michel Menger
 medium: [ book ]
 topics: [ culture, travail ]
-cover: https://github.com/multi-coop/multi-site-contents/blob/maj-edito/texts/ressources/images/PM-Menger-Le_travail_createur.jpeg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/PM-Menger-Le_travail_createur.jpeg
 link: https://www.editionspoints.com/ouvrage/le-travail-createur-pierre-michel-menger/9782757839690
 ---
 
