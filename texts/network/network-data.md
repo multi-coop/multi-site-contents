@@ -18,10 +18,6 @@ options:
     infos-texts: 
       - type
 
-  miniature-keys: 
-    - type
-    - tags
-
   tags-keys: 
     - key: type
       color: primary

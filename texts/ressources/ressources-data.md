@@ -18,10 +18,6 @@ options:
     infos-texts: 
       - author
 
-  miniature-keys: 
-    - author
-    - tags
-
   tags-keys: 
     - key: medium
       color: primary
