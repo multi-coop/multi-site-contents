@@ -3,6 +3,7 @@ type: ressources
 
 options:
   title-key: title
+  illustration-key: cover
   columns-size: full
   has-readmore: true
 

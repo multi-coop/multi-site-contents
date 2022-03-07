@@ -3,6 +3,7 @@ type: network
 
 options:
   title-key: title
+  illustration-key: logo
   columns-size: one-third
   has-readmore: false
 
@@ -34,7 +35,14 @@ options:
       - name: tags
 
 items:
+  - file: ./texts/network/items/codeurs-en-liberte.md
+  - file: ./texts/network/items/data-for-good.md
+  - file: ./texts/network/items/eig.md
+  - file: ./texts/network/items/fairness.md
+  - file: ./texts/network/items/latitudes.md
   - file: ./texts/network/items/mednum.md
+  - file: ./texts/network/items/urscop.md
+  - file: ./texts/network/items/usages-communs.md
 
 dict:
   type:
