@@ -21,19 +21,6 @@ columns:
         label:
           fr: Mentions légales
           en: Legal mentions
-  - name: who
-    label:
-      fr: Multi
-      en: Infos
-    links: 
-      - url: /team
-        label:
-          fr: Equipe
-          en: Team
-      - url: /references
-        label:
-          fr: Références
-          en: References
   - name: socials
     options: [ in-line ]
     label:
@@ -60,5 +47,23 @@ columns:
         label:
           fr: Github
           en: Github
+  - name: who
+    label:
+      fr: Multi
+      en: Infos
+    links: 
+      - url: /team
+        label:
+          fr: Equipe
+          en: Team
+      - url: /offer
+        label:
+          fr: Prestations
+          en: Offer
+      - url: /references
+        label:
+          fr: Références
+          en: References
+
 ---
 
