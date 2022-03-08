@@ -1,5 +1,5 @@
 ---
-title: Aful
+title: AFUL
 subtitle: Promouvoir les logiciels libres ainsi que l'utilisation de standards ouverts
 type: [ Association ]
 tags: [ open source ]
