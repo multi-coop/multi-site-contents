@@ -308,7 +308,7 @@ routes:
         component: ButtonsComponent
         options:
           columns-size: full
-          buttons-size: full
+          buttons-size: half
           buttons: 
             - link: /jobs
               icon-left: arrow-right-bold
