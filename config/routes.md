@@ -50,6 +50,8 @@ routes:
   # WHO ARE WE
   - name: cooperative
     url: /cooperative
+    options:
+      hero: true
     sections: 
       - name: head
         component: TextComponent
@@ -286,6 +288,8 @@ routes:
 
   - name: infos
     url: /infos
+    options:
+      hero: true
     sections: 
       - name: logo
         component: LogoAnimated
