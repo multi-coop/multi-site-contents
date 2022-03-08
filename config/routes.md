@@ -300,14 +300,14 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: half
+          columns-size: full
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:
-          columns-size: half
+          columns-size: full
           buttons-size: full
           buttons: 
             - link: /jobs
