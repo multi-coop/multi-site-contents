@@ -56,14 +56,14 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: half
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/cooperative-fr.md
           en: ./texts/who-are-we/cooperative-en.md
       - name: btn-to-team
         component: ButtonsComponent
         options:
-          columns-size: three-quarters
+          columns-size: full
           buttons-size: half
           buttons: 
             - link: /team
