@@ -48,6 +48,7 @@ items:
   - file: ./texts/network/items/code-for-france.md
   - file: ./texts/network/items/leon.md
   - file: ./texts/network/items/april.md
+  - file: ./texts/network/items/aful.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
