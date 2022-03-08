@@ -4,7 +4,7 @@ subtitle: Le revenu inconditionnel au regard d'une expérience de socialisation 
 author: Mathieu Grégoire
 medium: [ article ]
 topics: [ culture, travail, modèles économiques ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-cairn.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-cairn.png
 link: https://www.cairn.info/revue-mouvements-2013-1-page-97.htm
 ---
 

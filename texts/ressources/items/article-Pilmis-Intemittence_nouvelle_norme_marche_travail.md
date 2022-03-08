@@ -3,7 +3,7 @@ title: L'intermittence, nouvelle norme du marché du travail ?
 author: Olivier Pilmis
 medium: [ article ]
 topics: [ intermittence, modèles économiques, travail ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-cairn.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-cairn.png
 link: https://www.cairn.info/revue-regards-croises-sur-l-economie-2013-1-page-278.htm
 ---
 

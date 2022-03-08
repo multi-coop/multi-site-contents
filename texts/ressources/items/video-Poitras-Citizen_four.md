@@ -3,7 +3,7 @@ title: Citizenfour
 author: Laura Poitras
 medium: [ video, film, documentaire ]
 topics: [ surveillance, internet ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/citizen_four.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/citizen_four.png
 link: https://www.imdb.com/title/tt4044364
 ---
 

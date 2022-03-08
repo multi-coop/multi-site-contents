@@ -3,7 +3,7 @@ title: Nos cerveaux sous contrôle
 author: David Colon
 medium: [ podcast ]
 topics: [ open source, internet ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-sismique.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-sismique.png
 link: https://www.sismique.fr/post/85-nos-cerveaux-sous-controle-david-colon
 ---
 

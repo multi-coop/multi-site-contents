@@ -4,7 +4,7 @@ subtitle: Modèles économiques des logiciels open source et logiciels libres
 author: Faber Novel Consulting
 medium: [ article ]
 topics: [ open source, modèles économiques ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/faber-novel.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/faber-novel.png
 link: https://www.slideshare.net/faberNovel/research-paperles-business-models-de-l-open-source-faber-novel-consulting
 ---
 

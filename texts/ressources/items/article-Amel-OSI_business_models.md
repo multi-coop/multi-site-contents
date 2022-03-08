@@ -4,7 +4,7 @@ subtitle: Le cas des logiciels open source
 author: Charleux Amel, Anne Mionne
 medium: [ article ]
 topics: [ open source, modèles économiques ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/open_editions.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/open_editions.png
 link: https://journals.openedition.org/fcs/2088
 ---
 

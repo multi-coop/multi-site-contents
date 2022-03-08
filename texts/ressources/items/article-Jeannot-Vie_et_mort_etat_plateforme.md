@@ -3,7 +3,7 @@ title: Vie et mort de l’État plateforme
 author: Gilles Jeannot
 medium: [ article ]
 topics: [ open data, API, open source, politique, Etat ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-cairn.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-cairn.png
 link: https://www.cairn.info/revue-francaise-d-administration-publique-2020-1-page-165.htm#:~:text=%C2%AB%20%C3%89tat%20plateforme%20%C2%BB%20peut%20%C3%AAtre%20consid%C3%A9r%C3%A9,digital%20%C2%BB%20dans%20les%20entreprises%20priv%C3%A9es.
 ---
 

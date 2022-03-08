@@ -3,7 +3,7 @@ title: Terms and Conditions May Apply
 author: Cullen Hoback
 medium: [ video, film, documentaire ]
 topics: [ open source, internet ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/terms_and_conditions_may_apply.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/terms_and_conditions_may_apply.png
 link: https://www.imdb.com/title/tt2084953
 ---
 

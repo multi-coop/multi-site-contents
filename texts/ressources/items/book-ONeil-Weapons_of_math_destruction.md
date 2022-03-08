@@ -4,7 +4,7 @@ subtitle: How Big Data Increases Inequality and Threatens Democracy
 author: Cathy O'Neil
 medium: [ book ]
 topics: [ data, politique ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/Weapons_of_Math_Destruction.jpg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/Weapons_of_Math_Destruction.jpg
 link: https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction
 ---
 

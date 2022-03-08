@@ -3,7 +3,7 @@ title: L’Âge du capitalisme de surveillance
 author: Soshana Zuboff
 medium: [ book ]
 topics: [ data, internet, surveillance ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/couv-capitalisme-de-surveillance-hd-572196-380x570.jpg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/couv-capitalisme-de-surveillance-hd-572196-380x570.jpg
 link: https://www.zulma.fr/livre/lage-du-capitalisme-de-surveillance/
 ---
 

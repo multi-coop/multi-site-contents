@@ -4,7 +4,7 @@ subtitle: Essai sur la révolution du XXIème siècle
 author: Pierre Dardot, Christian Laval
 medium: [ book ]
 topics: [ communs, politique ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/communs-dardot-laval.jpeg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/communs-dardot-laval.jpeg
 link: https://www.editionsladecouverte.fr/commun-9782707169389
 ---
 

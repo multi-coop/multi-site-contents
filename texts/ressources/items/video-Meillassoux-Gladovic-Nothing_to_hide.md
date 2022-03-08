@@ -3,7 +3,7 @@ title: Nothing to Hide
 author: Marc Meillassoux, Mihaela Gladovic
 medium: [ video, film, documentaire ]
 topics: [ surveillance, internet ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/nothing_to_hide.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/nothing_to_hide.png
 link: https://www.imdb.com/title/tt7330532
 ---
 

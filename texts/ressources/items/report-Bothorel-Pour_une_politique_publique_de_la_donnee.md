@@ -3,7 +3,7 @@ title: Pour une politique publique de la donnée
 author: Eric Bothorel, Stéphanie Combes, Renaud Vedel
 medium: [ report ]
 topics: [ open data, API, open source, politique, Etat ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/rapport-bothorel.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/rapport-bothorel.png
 link: https://www.vie-publique.fr/rapport/277879-pour-une-politique-publique-de-la-donnee
 ---
 

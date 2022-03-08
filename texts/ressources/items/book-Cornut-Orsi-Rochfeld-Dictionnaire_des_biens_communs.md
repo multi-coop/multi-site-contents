@@ -3,7 +3,7 @@ title: Dictionnaire des biens communs
 author: Marie Cornu, Fabienne Orsi, Judith Rochfeld
 medium: [ book ]
 topics: [ communs, biens communs ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/dict_biens_communs.jpeg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/dict_biens_communs.jpeg
 link: https://www.puf.com/content/Dictionnaire_des_biens_communs
 ---
 

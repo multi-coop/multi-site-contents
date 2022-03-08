@@ -4,7 +4,7 @@ subtitle: The Story of Aaron Swartz
 author: Brian Knappenberger
 medium: [ video, film, documentaire ]
 topics: [ surveillance, internet, open data ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/internets_own_boy.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/internets_own_boy.png
 link: https://www.imdb.com/title/tt3268458
 ---
 

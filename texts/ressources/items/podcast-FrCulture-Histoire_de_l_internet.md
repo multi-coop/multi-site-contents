@@ -3,7 +3,7 @@ title: Une histoire de l'Internet
 author: Julien Le Bot
 medium: [ podcast, radio ]
 topics: [ open source, internet, histoire ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-france_culture.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-france_culture.png
 link: https://www.franceculture.fr/emissions/serie/une-histoire-de-l-internet
 ---
 

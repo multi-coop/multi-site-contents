@@ -4,7 +4,7 @@ subtitle: Ce que la critique de l’État nous apprend des formes de communs num
 author: Sébastien Shulz
 medium: [ article ]
 topics: [ communs, biens communs, politique ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/open_editions.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/open_editions.png
 link: https://journals.openedition.org/terminal/7684
 ---
 

@@ -3,7 +3,7 @@ title: La bataille du libre
 author: Philippe Borrel
 medium: [ video, film, documentaire ]
 topics: [ open source, internet ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/logo-peertube.png
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/logo-peertube.png
 link: https://peertube.fr/w/47e8c64d-234f-4b73-a3db-25eec1a88f43
 ---
 

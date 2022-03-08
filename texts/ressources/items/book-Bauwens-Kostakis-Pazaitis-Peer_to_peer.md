@@ -4,7 +4,7 @@ subtitle: The Commons Manifesto
 author: Michel Bauwens, Vasilis Kostakis, and Alex Pazaitis
 medium: [ book, manifesto ]
 topics: [ communs, biens communs, politique, open source ]
-cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/maj-edito/texts/ressources/images/peer_to_peer-Bauwens.jpeg
+cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/peer_to_peer-Bauwens.jpeg
 link: https://www.jstor.org/stable/j.ctvfc53qf
 ---
 
