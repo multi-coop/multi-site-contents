@@ -50,6 +50,7 @@ items:
   - file: ./texts/network/items/april.md
   - file: ./texts/network/items/aful.md
   - file: ./texts/network/items/framasoft.md
+  - file: ./texts/network/items/cooptech.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
