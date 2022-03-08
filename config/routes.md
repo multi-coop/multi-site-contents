@@ -316,6 +316,12 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
+            - link: /contribute
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Contribuer
+                en: Contribute
 
   - name: contribute
     url: /contribute
