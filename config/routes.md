@@ -56,7 +56,7 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: three-quarters
+          columns-size: half
         files:
           fr: ./texts/who-are-we/cooperative-fr.md
           en: ./texts/who-are-we/cooperative-en.md
