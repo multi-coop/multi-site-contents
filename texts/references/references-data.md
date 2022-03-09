@@ -7,6 +7,8 @@ options:
   images-ratio: 7by4
   columns-size: one-third
 
+  shuffle: true
+
   card-modal: true
   card-modal-config:
     full-screen: true

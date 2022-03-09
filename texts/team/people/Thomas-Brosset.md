@@ -1,6 +1,6 @@
 ---
 name: Thomas Brosset
-status: [ associate ]
+status: [ associate, employee ]
 start: début 2022
 image: ./images/team/thomas-brosset.png
 github: https://github.com/thoomasbro

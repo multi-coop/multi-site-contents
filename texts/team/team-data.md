@@ -27,7 +27,7 @@ options:
       color: primary
 
   filters: 
-    activate: true
+    activate: false
     items: 
       # - name: status
       - name: skills

@@ -4,6 +4,8 @@ routes:
   # LANDING
   - name: home 
     url: /
+    options:
+      hero: true
     sections: 
       - name: logo
         component: LogoAnimated
@@ -48,18 +50,20 @@ routes:
   # WHO ARE WE
   - name: cooperative
     url: /cooperative
+    options:
+      hero: true
     sections: 
       - name: head
         component: TextComponent
         options:
-          columns-size: three-quarters
+          columns-size: two-thirds
         files:
           fr: ./texts/who-are-we/cooperative-fr.md
           en: ./texts/who-are-we/cooperative-en.md
       - name: btn-to-team
         component: ButtonsComponent
         options:
-          columns-size: three-quarters
+          columns-size: full
           buttons-size: half
           buttons: 
             - link: /team
@@ -130,6 +134,8 @@ routes:
     sections: 
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/team/team-head-fr.md
       - name: data
@@ -201,6 +207,8 @@ routes:
     sections: 
       - name: products-head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/references/products-head-fr.md
       - name: products-data
@@ -248,50 +256,26 @@ routes:
                 en: Our open source products
       - name: refs-head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/references/references-head-fr.md
       - name: refs-data
         component: DataGrid
         files:
           fr: ./texts/references/references-data.md
-  
-  - name: network
-    url: /network
-    sections: 
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/we-like/network-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/we-like/network-data.md
 
-  - name: podcasts
-    url: /podcasts
-    sections:
-      - name: head
-        component: TextComponent
-        files:
-          fr: ./texts/podcasts/podcasts-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/podcasts/podcasts-data.md
-
-  - name: blog
-    url: /blog
-    sections: 
-      - name: head
-        component: TextComponent
-        options:
-          columns-size: two-thirds
-        files:
-          fr: ./texts/blog/blog-head-fr.md
-      - name: data
-        component: DataGrid
-        files:
-          fr: ./texts/blog/blog-data.md
+  # - name: podcasts
+  #   url: /podcasts
+  #   sections:
+  #     - name: head
+  #       component: TextComponent
+  #       files:
+  #         fr: ./texts/podcasts/podcasts-head-fr.md
+  #     - name: data
+  #       component: DataGrid
+  #       files:
+  #         fr: ./texts/podcasts/podcasts-data.md
 
   # CONTACT
   # - name: contact
@@ -304,6 +288,8 @@ routes:
 
   - name: infos
     url: /infos
+    options:
+      hero: true
     sections: 
       - name: logo
         component: LogoAnimated
@@ -314,10 +300,28 @@ routes:
       - name: head
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: full
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
+      - name: btn-to-jobs
+        component: ButtonsComponent
+        options:
+          columns-size: full
+          buttons-size: full
+          buttons: 
+            - link: /jobs
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Nos offres d'emploi
+                en: Our job offers
+            - link: /contribute
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Contribuer
+                en: Contribute
 
   - name: contribute
     url: /contribute
@@ -391,10 +395,87 @@ routes:
                 en: Why joining multi ?
       - name: head
         component: TextComponent
+        options:
+          columns-size: two-thirds
         files:
           fr: ./texts/jobs/jobs-head-fr.md
       - name: data
         component: DataGrid
         files:
           fr: ./texts/jobs/jobs-data.md
+
+
+  - name: blog
+    url: /blog
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/blog/blog-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/blog/blog-data.md
+
+  - name: network
+    url: /network
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/network/network-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/network/network-data.md
+
+  - name: ressources
+    url: /ressources
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/ressources/ressources-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/ressources/ressources-data.md
+
+  - name: shares-simulator
+    url: /shares-simulator
+    sections: 
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js: 
+            - href: https://multi-site-simulator-test.netlify.app/js/app.js
+          css: 
+            - href: https://multi-site-simulator-test.netlify.app/css/app.css
+          html: |
+            <multi-shares-simulator 
+              locale="fr"
+              cooperative="multi"
+              partvalue="25"
+              minbenefs="0"
+              benefs="100000"
+              repart='{
+                "reserves":40,
+                "participation":50,
+                "dividendes":10
+              }'
+              team='[
+                { "name":"Johan Richer", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Thomas Brosset", "parts":40, "workTime":40, "yearTime": 12 },
+                { "name":"Pierre Camilleri", "parts":100, "workTime":60, "yearTime": 12 },
+                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 }
+              ]'
+            />
 --- 
