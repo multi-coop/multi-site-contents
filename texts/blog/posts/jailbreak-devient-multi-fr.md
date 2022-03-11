@@ -1,7 +1,7 @@
 ---
 title: En 2022, Jailbreak devient multi !
 tags: [ multi, jailbreak ]
-created: 03/03/2021
+created: 03/03/2022
 author: multi
 ---
 
