@@ -12,7 +12,7 @@ skills: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
 
 Après une formation initiale d'architecte DPLG, puis avoir travaillé dans la coopération culturelle internationale (pour l´ambassade d´Espagne au Mexique, l´ambassade de France en Egypte), dans la recherche (doctorant CNRS en Turquie), je me suis finalement reconverti dans le numérique en tant que développeur *fullstack*.
 
-Mes différentes bifurcations professionnelles m´ont permis d´affirmer les **quelques principes qui me guident** : donner avant tout du sens à son métier, travailler en groupe et faire confiance à l'intelligence collective, avancer en mode "recherche-action", apprendre en continu, varier les outils (techniques, acaémiques, esthétiques), partager ce qu'on produit...
+Mes différentes bifurcations professionnelles m´ont permis d´affirmer les **quelques principes qui me guident** : donner avant tout du sens à son métier, travailler en groupe et faire confiance à l'intelligence collective, avancer en mode "recherche-action", apprendre en continu, varier les outils (techniques, académiques, esthétiques), partager ce qu'on produit...
 
 Je développe uniquement des logiciels ouverts et je milite ainsi de cette manière pour soutenir le mouvement de l'open data et du logiciel libre. Je rejoins Jailbreak en 2021 pour l´accompagner dans sa transformation en coopérative, qui devient **multi** en 2022.
 
