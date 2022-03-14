@@ -10,7 +10,7 @@ email: julien.paris@multi.coop
 skills: [ full-stack, python, nuxt, vuejs, flask, fastAPI ]
 ---
 
-Après une formation initiale d'architecte DPLG, puis avoir travaillé dans la coopération culturelle internationale (pour l'ambassade d´Espagne au Mexique, l'ambassade de France en Egypte), dans la recherche (doctorant CNRS en Turquie), je me suis finalement reconverti dans le numérique en tant que développeur *fullstack*.
+Après une formation initiale d'architecte DPLG, puis avoir travaillé dans la coopération culturelle internationale (pour l'ambassade d'Espagne au Mexique, l'ambassade de France en Egypte), dans la recherche (doctorant CNRS en Turquie), je me suis finalement reconverti dans le numérique en tant que développeur *fullstack*.
 
 Mes différentes bifurcations professionnelles m'ont permis d'affirmer les **quelques principes qui me guident** : donner avant tout du sens à son métier, travailler en groupe et faire confiance à l'intelligence collective, avancer en mode "recherche-action", apprendre en continu, varier les outils (techniques, académiques, esthétiques), partager ce qu'on produit...
 
