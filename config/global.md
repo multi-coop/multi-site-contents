@@ -4,6 +4,7 @@ app_default_locale: fr
 app_locales: [ fr, en ]
 app_md_flavor: github
 app_icon: ./images/logos/logo-multi-003-m.png
+app_favicon: ./images/logos/favicon_multi.ico
 
 routes: ./config/routes.md
 navbar: ./config/navbar.md
