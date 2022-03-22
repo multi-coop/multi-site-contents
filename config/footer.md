@@ -28,7 +28,7 @@ columns:
   - name: socials
     options: [ in-line ]
     label:
-      fr: Sur les réseaux
+      fr: Sur les internets
       en: On social networks
     links: 
       - url: https://twitter.com/multi_coop
