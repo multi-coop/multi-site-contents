@@ -316,7 +316,7 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
-            - link: https://app.element.io/#/#multi:multi.coop
+            - link: https://chat.multi.coop/#/room/#multi:multi.coop
               icon-left: arrow-right-bold
               rounded: true
               label: 

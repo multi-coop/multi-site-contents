@@ -27,7 +27,7 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
-      - url: https://app.element.io/#/#multi:multi.coop
+      - url: https://chat.multi.coop/#/room/#multi:multi.coop
         icon: forum-outline
         label:
           fr: Chat
