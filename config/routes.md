@@ -320,8 +320,8 @@ routes:
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Forum
-                en: Forum
+                fr: Forum Matrix
+                en: Matrix forum
             - link: /contribute
               icon-left: arrow-right-bold
               rounded: true
