@@ -27,11 +27,11 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
-      - url: https://matrix.to/#/#general:multi.coop
+      - url: https://app.element.io/#/#multi:multi.coop
         icon: forum-outline
         label:
-          fr: Matrix
-          en: Matrix
+          fr: Chat
+          en: Chat
       - url: https://twitter.com/multi_coop
         icon: twitter
         label:
