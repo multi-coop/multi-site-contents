@@ -316,6 +316,12 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
+            - link: https://matrix.to/#/#general:multi.coop
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Forum
+                en: Forum
             - link: /contribute
               icon-left: arrow-right-bold
               rounded: true

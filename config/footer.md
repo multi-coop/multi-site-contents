@@ -27,6 +27,11 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
+      - url: https://matrix.to/#/#general:multi.coop
+        icon: forum-outline
+        label:
+          fr: Matrix
+          en: Matrix
       - url: https://twitter.com/multi_coop
         icon: twitter
         label:
