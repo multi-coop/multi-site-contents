@@ -316,12 +316,12 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
-            - link: https://matrix.to/#/#general:multi.coop
+            - link: https://app.element.io/#/#multi:multi.coop
               icon-left: arrow-right-bold
               rounded: true
               label: 
-                fr: Forum Matrix
-                en: Matrix forum
+                fr: Chat
+                en: Chat
             - link: /contribute
               icon-left: arrow-right-bold
               rounded: true
