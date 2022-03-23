@@ -57,6 +57,8 @@ items:
   - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
   - file: ./texts/ressources/items/video-Meillassoux-Gladovic-Nothing_to_hide.md
   - file: ./texts/ressources/items/report-GIEC.md
+  - file: ./texts/ressources/items/report-Bauwens-value_in_the_commons_economy.md
+  - file: ./texts/ressources/items/book-Frischmann-Madison-Strandburg-governing_knowledge_commons.md
 
 dict:
   author:
