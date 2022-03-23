@@ -56,6 +56,8 @@ items:
   - file: ./texts/ressources/items/video-Poitras-Citizen_four.md
   - file: ./texts/ressources/items/video-Knappenberger-Inernets_own_boy.md
   - file: ./texts/ressources/items/video-Meillassoux-Gladovic-Nothing_to_hide.md
+  - file: ./texts/ressources/items/report-GIEC.md
+
 dict:
   author:
     fr: Auteur
