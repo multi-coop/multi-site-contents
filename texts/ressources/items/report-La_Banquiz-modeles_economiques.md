@@ -1,6 +1,6 @@
 ---
 title: Les Business Modèles du Libre
-author: P. Bertrand, E. Juliot, S. Fermigier, M. Soroko, O. Viné,
+author: P. Bertrand, E. Juliot, S. Fermigier, M. Soroko, O. Viné
 medium: [ report ]
 topics: [ open source, modèles économiques ]
 cover: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/ressources/images/banquiz-modeles_economiques.png
