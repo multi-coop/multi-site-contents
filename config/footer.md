@@ -21,6 +21,10 @@ columns:
         label:
           fr: Mentions légales
           en: Legal mentions
+      - url: /contribute
+        label:
+          fr: Contribuer
+          en: Contribute
   - name: socials
     options: [ in-line ]
     label:
