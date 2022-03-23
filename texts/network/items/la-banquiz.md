@@ -2,7 +2,7 @@
 title: La Banquiz
 subtitle: Premier accélérateur européen de start-ups du logiciel libre et de l'open source
 type: [ incubateur ]
-tags: [ open source ]
+tags: [ open source, logiciel libre ]
 logo: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/network/images/banquizlogo.svg
 link: https://labanquiz.com/
 ---
