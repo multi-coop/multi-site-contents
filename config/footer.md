@@ -31,6 +31,11 @@ columns:
       fr: Sur les réseaux
       en: On social networks
     links: 
+      - url: https://app.element.io/#/room/#multi:multi.coop
+        icon: forum-outline
+        label:
+          fr: Chat
+          en: Chat
       - url: https://twitter.com/multi_coop
         icon: twitter
         label:

@@ -316,6 +316,12 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
+            - link: https://app.element.io/#/room/#multi:multi.coop
+              icon-left: arrow-right-bold
+              rounded: true
+              label: 
+                fr: Chat
+                en: Chat
             - link: /contribute
               icon-left: arrow-right-bold
               rounded: true
