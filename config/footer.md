@@ -46,7 +46,7 @@ columns:
         label:
           fr: Linkedin
           en: Linkedin
-      - url: https://gitlab.com/coop-multi
+      - url: https://gitlab.com/multi-coop
         icon: gitlab
         label:
           fr: Gitlab
