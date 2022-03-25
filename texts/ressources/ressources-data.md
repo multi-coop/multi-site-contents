@@ -60,6 +60,7 @@ items:
   - file: ./texts/ressources/items/report-Bauwens-value_in_the_commons_economy.md
   - file: ./texts/ressources/items/book-Frischmann-Madison-Strandburg-governing_knowledge_commons.md
   - file: ./texts/ressources/items/report-La_Banquiz-modeles_economiques.md
+  - file: ./texts/network/items/ademe-resilience.md
 
 dict:
   author:
