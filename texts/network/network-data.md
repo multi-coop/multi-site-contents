@@ -54,6 +54,7 @@ items:
   - file: ./texts/network/items/open-heroines.md
   - file: ./texts/network/items/la-banquiz.md
   - file: ./texts/network/items/fabmob.md
+  - file: ./texts/network/items/ademe-resilience.md
   # - file: ./texts/network/items/usages-communs.md
 
 dict:
