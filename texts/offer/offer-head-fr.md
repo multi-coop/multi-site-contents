@@ -27,9 +27,10 @@ L'*open source* permet de **consolider les liens entre utilisateurs et développ
 
 ## Data science interprétable & auditable
 
+Notre pôle *data science* réalise pour vous analyses exploratoires, nettoyage et valorisation de vos données ; ainsi que la construction de modèles statistiques ou de *machine learning*, leur mise en production et la restitution des résultats auprès des utilisateurs. Nous auditons ou enrichissons également vos modèles existants.
+
 Avoir un modèle de *machine learning* avec une bonne capacité de prédiction est indispensable, mais êtes-vous prêts à confier des décisions importantes à une machine, sans capacité d'audit ?
 
-Nous vous proposons plutôt de construire des **modèles transparents**, **performants**, qui viennent démultiplier la valeur de vos données en garantissant que l'**humain reste au centre de la prise de décisions**.
+Grâce à notre expertise, nous vous proposons plutôt de construire des **modèles transparents**, **performants** et **documentés** qui viennent démultiplier la valeur de vos données en garantissant que l'**humain reste au centre de la prise de décisions**.
 
-Nous auditons ou enrichissons également vos modèles existants.
 
