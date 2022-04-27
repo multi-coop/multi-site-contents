@@ -15,5 +15,3 @@ Ce processus s’adosse à des capacités d’investissement énormes qui dépas
 Cette privatisation semble prendre la forme douce de dispositifs qui améliorent le quotidien. Ses effets sociaux sont pourtant considérables : elle déstabilise les entreprises et les administrations, renforce les inégalités sociales d’accès aux services et accélère la perte de souveraineté publique. Les tentatives de réappropriation des communs numériques ouvrent cependant des perspectives, notamment sous la forme d’un militantisme de fonctionnaires qui défendent la souveraineté numérique nationale.
 
 Cet ouvrage porte au jour, derrière les sympathiques « applis » de nos smartphones, les conséquences économiques et techniques réelles de cette privatisation numérique, ainsi que les perspectives de résistance et de réinvention du service public.
-
-
