@@ -38,6 +38,7 @@ items:
   - file: ./texts/team/people/Thomas-Brosset.md
   - file: ./texts/team/people/Pierre-Camilleri.md
   - file: ./texts/team/people/Quentin-Loridant.md
+  - file: ./texts/team/people/Lysiane-Don.md
   # - file: ./texts/team/people/Coline-Malivel.md
 
 dict:
@@ -56,6 +57,9 @@ dict:
   employee:
     fr: salarié
     en: employee
+  intern:
+    fr: stagiaire
+    en: intern
   start:
     fr: Dans l'équipe depuis
     en: Team member since
