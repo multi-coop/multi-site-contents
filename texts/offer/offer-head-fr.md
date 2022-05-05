@@ -31,6 +31,6 @@ Notre pôle *data science* réalise analyses exploratoires, nettoyage et valoris
 
 Avoir un modèle de *machine learning* avec une bonne capacité de prédiction est indispensable, mais êtes-vous prêts à confier des décisions importantes à une machine, sans capacité d'audit ?
 
-Grâce à notre expertise, nous vous proposons plutôt de construire des **modèles transparents**, **performants** et **documentés** qui viennent démultiplier la valeur de vos données en garantissant que l'**humain reste au centre de la prise de décisions**.
+Grâce à notre expertise, nous vous proposons de construire des **modèles transparents**, **performants** et **documentés** qui viennent démultiplier la valeur de vos données en garantissant que l'**humain reste au centre de la prise de décisions**.
 
 
