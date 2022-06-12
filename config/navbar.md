@@ -151,6 +151,12 @@ buttons-right:
         label: 
           fr: Simulateur de répartition
           en: Repartition simulator
+      - name: gitribute-cooptech
+        link: /gitribute-cooptech
+        component: simpleLink
+        label: 
+          fr: Annuaire des coopératives
+          en: Tech coops in France
       # - name: network
       #   link: /network
       #   component: simpleLink

@@ -484,4 +484,74 @@ routes:
                 { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 }
               ]'
             />
+
+  - name: gitribute-cooptech
+    url: /gitribute-cooptech
+    sections: 
+      - name: simulator
+        component: WidgetComponent
+        options:
+          columns-size: two-thirds
+          js: 
+            - href: https://deploy-preview-7--multi-gitribute.netlify.app/js/app.js
+          css: 
+            - href: https://deploy-preview-7--multi-gitribute.netlify.app/css/app.css
+          html: |
+            <multi-gitribute-file
+              title="Liste des coopératives de la tech en France - csv ( semicolon separator)"
+              gitfile="https://github.com/multi-coop/gitribute-content-test/blob/main/data/csv/cooptech/Annuaire-SCOP-SCIC-tech-France.csv"
+              options='{
+                "height": "500px",
+                "separator":",",
+                "lockcolumns": true,
+                "tagseparator":",",
+                "customfilters" : {
+                  "activate": true,
+                  "filterfields": [
+                  "type",
+                    "Statut juridique"
+                    ]
+                },
+                "schema": {
+                  "file": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/cooptech/Annuaire-SCOP-SCIC-tech-France-schema.json"
+                },
+                "fields-custom-properties": {
+                  "file": "https://github.com/multi-coop/gitribute-content-test/blob/main/data/json/cooptech/Annuaire-SCOP-SCIC-tech-France-fields-custom-props.json"
+                },
+                "customsorting" : {
+                  "activate": true,
+                  "sortfields": [
+                    { "name": "Nom" }
+                  ]
+                },
+                "pagination":{
+                  "itemsPerPage": 20
+                },
+                "cardsview": { "activate": true, "default": false },
+                "cardsdetail": true,
+                "cardssettings": {
+                  "mini": {
+                    "Nom": {"position": "title"},
+                    "Présentation": {"position": "description"},
+                    "Site internet": {"position": "description"},
+                    "Statut juridique": {"position": "tags"},
+                    "Domaine(s)": {"position": "tags"}
+                  },
+                  "detail": {
+                    "Nom": {"position": "title"},
+                    "Site internet": {"position": "description"},
+                    "Présentation": {"position": "description"},
+                    "Numéro SIREN": {"position": "description"},
+                    "Adresse": {"position": "description"},
+                    "Statut juridique": {"position": "tags"},
+                    "Domaine(s)": {"position": "tags"},
+                    "Fiche URSCOP": {"position": "links"}
+                  }
+                }
+              }'
+              usertoken=""
+              locale="fr"
+              debug="false"
+            />
+
 --- 
