@@ -62,6 +62,7 @@ items:
   - file: ./texts/ressources/items/report-La_Banquiz-modeles_economiques.md
   - file: ./texts/network/items/ademe-resilience.md
   - file: ./texts/ressources/items/Jeannot-Cottin_Marx-La_privatisation_numerique.md
+  - file: ./texts/ressources/items/report-Europe-digital-commons.md
 
 dict:
   author:
