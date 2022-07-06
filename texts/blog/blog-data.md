@@ -11,20 +11,21 @@ options:
     full-screen: true
     column-left: false
     column-right: true
-    infos-texts: 
+    infos-texts:
       - author
       - created
 
-  miniature-keys: 
+  miniature-keys:
     - author
     - created
     - tags
 
-  tags-keys: 
+  tags-keys:
     - key: tags
       color: info
 
 items:
+  - file: ./texts/blog/posts/blog-post-raison-etre.md
   - file: ./texts/blog/posts/blog-post-financements-fr.md
   - file: ./texts/blog/posts/blog-post-01-fr.md
   - file: ./texts/blog/posts/jailbreak-devient-multi-fr.md
