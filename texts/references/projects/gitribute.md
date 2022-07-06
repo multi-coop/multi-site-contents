@@ -58,10 +58,10 @@ refs:
 code:
   - name: app
     link: https://gitlab.com/multi-coop/gitribute
-    fr: frontend 
+    fr: Code source de l'application 
   - name: docs
     link: https://gitribute-docs.multi.coop/
-    fr: frontend
+    fr: Documentation
   - name: deploy
     link: https://gitribute.multi.coop/
     fr: Déploiement
