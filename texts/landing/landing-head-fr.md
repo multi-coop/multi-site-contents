@@ -4,4 +4,4 @@ effect: half-tone
 ---
 
 
-![](https://hackmd.io/_uploads/BJ2XoAu9t.png)
+![](https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/logos/logo-multi-003.png)

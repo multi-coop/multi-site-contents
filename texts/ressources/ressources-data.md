@@ -63,6 +63,8 @@ items:
   - file: ./texts/network/items/ademe-resilience.md
   - file: ./texts/ressources/items/Jeannot-Cottin_Marx-La_privatisation_numerique.md
   - file: ./texts/ressources/items/report-Europe-digital-commons.md
+  - file: ./texts/ressources/items/thesis-transformer_etat_par_les_communs_numeriques-Shulz.md
+
 
 dict:
   author:
