@@ -8,7 +8,7 @@ routes:
       hero: true
     sections: 
       - name: logo
-        component: LogoAnimated
+        component: TextComponent
         options:
           columns-size: two-thirds
           no-translation: true
@@ -161,7 +161,7 @@ routes:
     url: /offer
     sections: 
       - name: logo
-        component: LogoAnimated
+        component: TextComponent
         options: [ no-translation ]
         files:
           fr: ./texts/landing/landing-head-fr.md
@@ -292,7 +292,7 @@ routes:
       hero: true
     sections: 
       - name: logo
-        component: LogoAnimated
+        component: TextComponent
         options: [ no-translation ]
         files:
           fr: ./texts/landing/landing-head-fr.md
