@@ -21,21 +21,41 @@
   </div>
   <div class="column is-3 has-text-centered">
     <a class=""
-      href="https://www.ademe.fr"
-      target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ademe-logo.png"
-        alt="ADEME"
-      />
-    </a>
-  </div>
-  <div class="column is-3 has-text-centered">
-    <a class=""
       href="https://agence-cohesion-territoires.gouv.fr/"
       target="_blank">
       <img
         src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/anct-logo.png"
         alt="ANCT"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.ecologie.gouv.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mte-logo.png"
+        alt="MINISTERE DE LA TRANSITION ECOLOGIQUE"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://mer.gouv.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/min-mer-logo.png"
+        alt="MINISTERE DE LA MER"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.ademe.fr"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ademe-logo.png"
+        alt="ADEME"
       />
     </a>
   </div>
