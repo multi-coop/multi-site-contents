@@ -1,2 +1,143 @@
-
-![](https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ademe-logo.png)
+<div class="columns is-multiline">
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.opendatafrance.net/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/odf-logo.svg"
+        alt="OPEN DATA FRANCE"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.numerique.gouv.fr/dinum/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dinum-logo.png"
+        alt="DINUM"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.ademe.fr"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ademe-logo.png"
+        alt="ADEME"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://agence-cohesion-territoires.gouv.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/anct-logo.png"
+        alt="ANCT"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://lafabriquedesmobilites.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/fabmob-logo.png"
+        alt="FABMOB"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://lamednum.coop/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mednum-logo.jpg"
+        alt="MEDNUM"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.mednum-bfc.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mednum-bfc-logo.png"
+        alt="MEDNUM BFC"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.pingbase.net/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ping-logo.png"
+        alt="PING"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://conumm.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/conumm-logo.png"
+        alt="CONUMM"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://rhinocc.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/rhinocc-logo.jpg"
+        alt="RHINOCC"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.epa-senart.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/epa-senart-logo.png"
+        alt="EPA SENART"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.doubs.fr"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dept-doubs-logo.png"
+        alt="DEPARTEMENT DU DOUBS"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://carto.francilin.fr/"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/francilin-logo.jpg"
+        alt="FRANCILIN"
+      />
+    </a>
+  </div>
+  <div class="column is-3 has-text-centered">
+    <a class=""
+      href="https://www.deciderensemble.com"
+      target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/decider-ensemble-logo.png"
+        alt="DECIDER ENSEMBLE"
+      />
+    </a>
+  </div>
+</div>
+ 

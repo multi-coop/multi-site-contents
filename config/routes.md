@@ -57,7 +57,7 @@ routes:
       - name: clients-logos
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: full
           no-translation: true
         files:
           fr: ./texts/landing/landing-clients-logos.md
