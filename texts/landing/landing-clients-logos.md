@@ -1,4 +1,4 @@
-<div class="columns is-multiline">
+<div class="columns is-multiline is-6 is-vcentered is-centered">
   <div class="column is-3 has-text-centered">
     <a class=""
       href="https://www.opendatafrance.net/"
@@ -101,21 +101,21 @@
   </div>
   <div class="column is-3 has-text-centered">
     <a class=""
-      href="https://www.epa-senart.fr/"
+      href="https://www.doubs.fr"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/epa-senart-logo.png"
-        alt="EPA SENART"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dept-doubs-logo.jpg"
+        alt="DEPARTEMENT DU DOUBS"
       />
     </a>
   </div>
   <div class="column is-3 has-text-centered">
     <a class=""
-      href="https://www.doubs.fr"
+      href="https://www.epa-senart.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dept-doubs-logo.png"
-        alt="DEPARTEMENT DU DOUBS"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/epa-senart-logo.png"
+        alt="EPA SENART"
       />
     </a>
   </div>
@@ -134,7 +134,7 @@
       href="https://www.deciderensemble.com"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/decider-ensemble-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/decider-ensemble-logo.jpg"
         alt="DECIDER ENSEMBLE"
       />
     </a>
