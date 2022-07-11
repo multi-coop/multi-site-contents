@@ -1,5 +1,5 @@
 <br>
 <br>
 <h3 class="has-text-centered mb-0">
-  Nos partenaires
+  Ils travaillent avec nous
 </h3>
