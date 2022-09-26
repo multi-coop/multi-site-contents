@@ -34,7 +34,7 @@ matomo:
 
 seo_keywords: [
   cooperative, data,
-  dataviz, widget, multi, multiviz, git, nodcode
+  dataviz, widget, multi, multiviz, git, nocode
 ]
 
 ---
