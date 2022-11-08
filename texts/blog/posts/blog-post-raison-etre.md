@@ -12,7 +12,7 @@ Nous avons choisi de faire appel à [Maud Richet](https://www.linkedin.com/in/ma
 ---
 |![Reflexion](https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/blog/reflexion.jpeg)|
 |:--:|
-| *Echange dans le bâtiment authentique de la Manufacture des Capucins* (photo: Maud Richet)|
+| *Échange dans le bâtiment authentique de la Manufacture des Capucins* (photo: Maud Richet)|
 
 # Raison d'être du projet
 
