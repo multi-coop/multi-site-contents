@@ -145,6 +145,7 @@ routes:
       - name: head-alumni
         component: TextComponent
         options:
+          custom-class: mt-4
           columns-size: two-thirds
         files:
           fr: ./texts/team/team-alumni-head-fr.md
