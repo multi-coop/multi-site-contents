@@ -155,6 +155,16 @@ routes:
               label: 
                 fr: Nos offres d'emploi
                 en: Our job offers
+      - name: head-alumni
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/team/team-alumni-head-fr.md
+      - name: data-alumni
+        component: DataGrid
+        files:
+          fr: ./texts/team/team-alumni-data.md
 
   # OFFER
   - name: offer
