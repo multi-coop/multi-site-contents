@@ -25,6 +25,7 @@ Nous avons choisi de faire appel à [Maud Richet](https://www.linkedin.com/in/ma
 
 * Réinterroger l'organisation classique des entreprises du point de vue managérial et économique
 * Réinterroger régulièrement et de façon systématique notre mode de fonctionnement
+* Travailler en équipe
 * Produire de la pensée par l'action et des réalisations concrètes
 * Assurer l'épanouissement personnel des acteurs du projet en répondant à leurs attentes professionnelles
 * Ne jamais remettre à plus tard les clarifications éventuelles sur les valeurs
