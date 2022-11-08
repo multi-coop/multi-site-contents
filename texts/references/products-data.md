@@ -11,46 +11,46 @@ options:
   card-modal-config:
     full-screen: true
     column-left: false
-    column-right: 
+    column-right:
       default-text: description
-      infos-texts: 
+      infos-texts:
         - period
         - type
         - approach
         - resources
       tabs:
         - infos
-        - gallery 
-        - links 
+        - gallery
+        - links
       images-gallery: true
 
-  miniature-keys: 
+  miniature-keys:
     - technos
     - clients
 
-  texts-keys: 
-    - description 
+  texts-keys:
+    - description
     - period
     - type
     - approach
     - resources
 
-  links-keys: 
-    - refs 
+  links-keys:
+    - refs
     - code
 
-  tags-keys: 
+  tags-keys:
     - key: clients
       color: primary
     - key: technos
       color: light
-  filters: 
+  filters:
     activate: true
-    items: 
+    items:
       - name: technos
       - name: clients
 
-items: 
+items:
   - file: ./texts/references/projects/data-patch.md
   - file: ./texts/references/projects/barometre-action-publique.md
   # - file: ./texts/references/projects/africartes.md
@@ -65,12 +65,12 @@ items:
   - file: ./texts/references/projects/open-scraper.md
   - file: ./texts/references/projects/validata.md
   - file: ./texts/references/projects/gitribute.md
+  - file: ./texts/references/projects/vitrine.md
   # - file: ./texts/references/projects/dbnomics.md
   # - file: ./texts/references/projects/open-fisca.md
   # - file: ./texts/references/projects/synapse.md
   # - file: ./texts/references/projects/hydroviz.md
   # - file: ./texts/references/projects/libviz.md
-
 
 dict:
   clients:
