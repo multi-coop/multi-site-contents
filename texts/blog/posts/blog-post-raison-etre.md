@@ -17,7 +17,7 @@ Nous avons choisi de faire appel à [Maud Richet](https://www.linkedin.com/in/ma
 # Raison d'être du projet
 
 * Créer des communs numériques / durables
-* Rendre transparent des données, du code et des algorithmes
+* Rendre accessibles à tous des données, du code et des algorithmes
 * Faire des projets de bout en bout
 * Chercher à aller vers des projets plus gros, plus complexes (techniquement et humainement)
 
