@@ -5,7 +5,7 @@ created: 06/07/2022
 author: Quentin Loridant
 ---
 
-Voila quelques mois que notre équipe s'est constituée. Après avoir livré des premiers clients, recruté une stagiaire, emménagé dans des nouveaux locaux, il était temps pour nous de se poser le temps d'une journée et définir ce qui nous rassemble. Nous sentions avoir besoin de ce moment pour mieux préparer la suite.
+Voilà quelques mois que notre équipe s'est constituée. Après avoir livré des premiers clients, recruté une stagiaire, emménagé dans des nouveaux locaux, il était temps pour nous de se poser le temps d'une journée et définir ce qui nous rassemble. Nous sentions avoir besoin de ce moment pour mieux préparer la suite.
 
 Nous avons choisi de faire appel à [Maud Richet](https://www.linkedin.com/in/maudrichet/) pour faciliter nos échanges. Installés dans les locaux de [la Manufacture des Capucins](https://lamanufacturedescapucins.coop/), nous avons parlé, nous avons écouté, nous avons joué, et voici ce qu'il en est sorti :
 
