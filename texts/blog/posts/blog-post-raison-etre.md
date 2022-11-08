@@ -18,7 +18,7 @@ Nous avons choisi de faire appel à [Maud Richet](https://www.linkedin.com/in/ma
 
 * Créer des communs numériques / durables
 * Rendre accessibles à tous des données, du code et des algorithmes
-* Faire des projets de bout en bout
+* Faire des projets de bout en bout, de l'identification des besoins jusqu'à la maintenance, en passant par la conception produit et le développement
 * Chercher à aller vers des projets plus gros, plus complexes (techniquement et humainement)
 
 # Raison d'être sociale
