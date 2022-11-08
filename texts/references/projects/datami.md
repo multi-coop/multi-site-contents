@@ -1,10 +1,10 @@
 ---
-name: Gitribute
+name: Datami
 
 clients: 
+  - ANCT
   - Fabmob
   - Open Data France
-  - ANCT
 
 period: 
   fr: depuis 2022 (développement continu)
@@ -19,9 +19,9 @@ description:
   fr: |
     Outil générique de type widget, permettant de visualiser et d'éditer des données hébeergées sur Github ou Gitlab, voire sur un mediawiki.
 
-    Gitribute possède différentes fonctionnalités visant à simplifier l'édition de données et leur enrichissement :
+    Datami possède différentes fonctionnalités visant à simplifier l'édition de données et leur enrichissement :
 
-    - visualisation sous forme de tableau ou de tuiles
+    - visualisation sous forme de tableau, de fiches, de cartographie ou data-visualisations
     - visualisation des différences entre la version originale et la version éditée par l'utilisateur
     - recherche par filtres ou en fulltext
     - import / export des données
@@ -36,42 +36,40 @@ approach:
     - 
     - outil générique de visualisation et d'édition de données
     - widget intégrable dans tout site web
-    - accent mis sur la simplicité d'utilisation et l'UX 
+    - accent mis sur la simplicité d'utilisation et l'UX
     - responsive
 
 resources:
   fr: 
-    - 1 développeur fullstack lead 
-    - 1 développeur fullstack junior 
+    - 1 développeur fullstack lead
+    - 1 développeur fullstack junior
 
 
-technos: [ Javascript, Vue.js, Bulma, Buefy, Git ]
+technos: [ Javascript, Vue.js, Bulma, Buefy, Git, Maplibre, ApexCharts ]
 
 refs:
-  - name: Open Data France
-    link: hhttps://demo-odf-data-observatoire.netlify.app/
-    fr: Visualisation des données de l'observatoire de l'Open Data d'OpenDataFrance
-  - name: Fabmob
-    link: https://demo-explowiki.netlify.app/
-    fr: Visualisation des projets du site mediawiki de la Fabmob
+  - name: site
+    link: https://datami.multi.coop/
+    fr: Site vitrine de Datami
 
 code:
   - name: app
-    link: https://gitlab.com/multi-coop/gitribute
+    link: https://gitlab.com/multi-coop/datami-project/datami
     fr: Code source de l'application 
   - name: docs
-    link: https://gitribute-docs.multi.coop/
+    link: https://datami-docs.multi.coop/
     fr: Documentation
   - name: deploy
-    link: https://gitribute.multi.coop/
+    link: https://datami-widget.multi.coop/
     fr: Déploiement
 
 images:
-  - ./images/references/gitribute/multifiles-preview-01.png
-  - ./images/references/gitribute/gitfile-md-preview-01.png
-  - ./images/references/gitribute/gitfile-csv-preview-01.png
-  - ./images/references/gitribute/gitfile-json-preview-01.png
-  - ./images/references/gitribute/explowiki-preview-01.png
+  - ./images/references/datami/datami-landing.png
+  - ./images/references/datami/multifiles-preview-01.png
+  - ./images/references/datami/gitfile-md-preview-01.png
+  - ./images/references/datami/gitfile-csv-preview-01.png
+  - ./images/references/datami/gitfile-json-preview-01.png
+  - ./images/references/datami/explowiki-preview-01.png
 
 
 ---
