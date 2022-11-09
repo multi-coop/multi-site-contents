@@ -6,7 +6,6 @@ end: novembre 2022
 image: ./images/team/lysiane-don.jpeg
 github: https://github.com/Lysianedon
 linkedin: https://www.linkedin.com/in/lysianedon/
-email: lysiane.don@multi.coop
 skills: [ Javascript, web ]
 ---
 
