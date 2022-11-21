@@ -64,7 +64,7 @@ items:
   - file: ./texts/references/projects/solidata.md
   - file: ./texts/references/projects/open-scraper.md
   - file: ./texts/references/projects/validata.md
-  - file: ./texts/references/projects/gitribute.md
+  - file: ./texts/references/projects/datami.md
   - file: ./texts/references/projects/vitrine.md
   # - file: ./texts/references/projects/dbnomics.md
   # - file: ./texts/references/projects/open-fisca.md
