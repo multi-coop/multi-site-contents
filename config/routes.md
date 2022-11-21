@@ -49,6 +49,7 @@ routes:
       - name: clients-intro
         component: TextComponent
         options:
+          custom-class: mt-6
           columns-size: two-thirds
           no-translation: true
         files:
