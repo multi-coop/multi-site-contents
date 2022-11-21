@@ -33,19 +33,8 @@ matomo:
   matomo_track_outlinks: true
 
 seo_keywords: [
-  cooperative, data,
-  dataviz, widget, multi, multiviz, git, nodcode
-]
-
-matomo: 
-  matomo_active: true
-  matomo_server: multi.matomo.cloud
-  matomo_site_id: 3
-  matomo_track_outlinks: true
-
-seo_keywords: [
-  cooperative, data,
-  dataviz, widget, multi, multiviz, git, nocode
+  cooperative, data, dev, web, scop, coop,
+  multi, git
 ]
 
 ---
