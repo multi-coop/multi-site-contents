@@ -4,7 +4,7 @@
       href="https://www.opendatafrance.net/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/odf-logo.svg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/odf-logo.svg"
         alt="OPEN DATA FRANCE"
       />
     </a>
@@ -14,7 +14,7 @@
       href="https://www.numerique.gouv.fr/dinum/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dinum-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/dinum-logo.png"
         alt="DINUM"
       />
     </a>
@@ -24,7 +24,7 @@
       href="https://www.ecologie.gouv.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mte-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/mte-logo.png"
         alt="MINISTERE DE LA TRANSITION ECOLOGIQUE"
       />
     </a>
@@ -34,7 +34,7 @@
       href="https://mer.gouv.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/min-mer-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/min-mer-logo.png"
         alt="MINISTERE DE LA MER"
       />
     </a>
@@ -44,7 +44,7 @@
       href="https://agence-cohesion-territoires.gouv.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/anct-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/anct-logo.png"
         alt="ANCT"
       />
     </a>
@@ -54,7 +54,7 @@
       href="https://www.ademe.fr"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ademe-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/ademe-logo.png"
         alt="ADEME"
       />
     </a>
@@ -64,7 +64,7 @@
       href="https://lafabriquedesmobilites.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/fabmob-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/fabmob-logo.png"
         alt="FABMOB"
       />
     </a>
@@ -74,7 +74,7 @@
       href="https://lamednum.coop/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mednum-logo.jpg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/mednum-logo.jpg"
         alt="MEDNUM"
       />
     </a>
@@ -84,7 +84,7 @@
       href="https://www.mednum-bfc.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/mednum-bfc-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/mednum-bfc-logo.png"
         alt="MEDNUM BFC"
       />
     </a>
@@ -94,7 +94,7 @@
       href="https://www.pingbase.net/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/ping-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/ping-logo.png"
         alt="PING"
       />
     </a>
@@ -104,7 +104,7 @@
       href="https://conumm.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/conumm-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/conumm-logo.png"
         alt="CONUMM"
       />
     </a>
@@ -114,7 +114,7 @@
       href="https://rhinocc.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/rhinocc-logo.jpg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/rhinocc-logo.jpg"
         alt="RHINOCC"
       />
     </a>
@@ -124,7 +124,7 @@
       href="https://www.doubs.fr"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/dept-doubs-logo.jpg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/dept-doubs-logo.jpg"
         alt="DEPARTEMENT DU DOUBS"
       />
     </a>
@@ -134,7 +134,7 @@
       href="https://www.epa-senart.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/epa-senart-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/epa-senart-logo.png"
         alt="EPA SENART"
       />
     </a>
@@ -144,7 +144,7 @@
       href="https://carto.francilin.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/francilin-logo.jpg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/francilin-logo.jpg"
         alt="FRANCILIN"
       />
     </a>
@@ -154,7 +154,7 @@
       href="https://www.deciderensemble.com"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/add-clients-logos/images/clients/decider-ensemble-logo.jpg"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/decider-ensemble-logo.jpg"
         alt="DECIDER ENSEMBLE"
       />
     </a>
