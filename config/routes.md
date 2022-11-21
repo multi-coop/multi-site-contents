@@ -15,7 +15,7 @@ routes:
         files:
           fr: ./texts/landing/landing-head-fr.md
           en: ./texts/landing/landing-head-fr.md
-      - name: head
+      - name: catchphrase
         component: TextComponent
         options:
           columns-size: half
@@ -46,6 +46,23 @@ routes:
               label: 
                 fr: Nos références
                 en: Our references
+      - name: clients-intro
+        component: TextComponent
+        options:
+          custom-class: mt-6
+          columns-size: two-thirds
+          no-translation: true
+        files:
+          fr: ./texts/landing/landing-clients-intro-fr.md
+          en: ./texts/landing/landing-clients-intro-en.md
+      - name: clients-logos
+        component: TextComponent
+        options:
+          columns-size: full
+          no-translation: true
+        files:
+          fr: ./texts/landing/landing-clients-logos.md
+          en: ./texts/landing/landing-clients-logos.md
   
   # WHO ARE WE
   - name: cooperative

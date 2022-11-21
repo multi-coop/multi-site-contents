@@ -17,14 +17,14 @@ legal: ./config/legal.md
 #   data: ./data
 
 colors:
-  loading_color: #6fdcbf
-  primary: #bc85ff
-  accent: #572a99
-  secondary: #6fdcbf
-  info: #53657D
-  warning: #ff9947
-  error: #D1335B
-  success: #03BD5B
+  primary: '#037988'
+  loading_color: '#6fdcbf'
+  accent: '#572a99'
+  secondary: '#6fdcbf'
+  info: '#53657D'
+  warning: '#ff9947'
+  error: '#D1335B'
+  success: '#03BD5B'
 
 matomo: 
   matomo_active: true
@@ -33,8 +33,8 @@ matomo:
   matomo_track_outlinks: true
 
 seo_keywords: [
-  cooperative, data,
-  dataviz, widget, multi, multiviz, git, nocode
+  cooperative, data, dev, web, scop, coop,
+  multi, git
 ]
 
 ---
