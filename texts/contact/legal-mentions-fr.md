@@ -19,7 +19,7 @@ Les termes « données à caractère personnel », « personne concernée », «
 
 En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet https://multi.coop l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
 
-- Propriétaire : SAS Jailbreak – 116 rue Dalayrac 94120 Fontenay-sous-Bois
+- Propriétaire : multi SAS – 116 rue Dalayrac 94120 Fontenay-sous-Bois
 - Responsable publication : Julien Paris – julien.paris@multi.coop
 - Le responsable publication est une personne physique ou une personne morale.
 - Webmaster : Julien Paris – julien.paris@multi.coop
@@ -70,7 +70,7 @@ Le Client est informé des réglementations concernant la communication marketin
 
 ### 7.1 Responsables de la collecte des données personnelles
 
-Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : Jailbreak. https://multi.coopest représenté par Julien Paris, son représentant légal
+Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : multi SAS https://multi.coop représenté par Julien Paris, son représentant légal
 
 En tant que responsable du traitement des données qu’il collecte, https://multi.coop s’engage à respecter le cadre des dispositions légales en vigueur. Il lui appartient notamment au Client d’établir les finalités de ses traitements de données, de fournir à ses prospects et clients, à partir de la collecte de leurs consentements, une information complète sur le traitement de leurs données personnelles et de maintenir un registre des traitements conforme à la réalité. 
 
@@ -101,7 +101,7 @@ Dès que https://multi.coop a connaissance du décès d’un Utilisateur et à d
 
 Si l’Utilisateur souhaite savoir comment https://multi.coop utilise ses Données Personnelles, demander à les rectifier ou s’oppose à leur traitement, l’Utilisateur peut contacter https://multi.coop par écrit à l’adresse suivante :
 
-Jailbreak – DPO, Julien Paris
+multi – DPO, Julien Paris
 116 rue Dalayrac 94120 Fontenay-sous-Bois.
 
 Dans ce cas, l’Utilisateur doit indiquer les Données Personnelles qu’il souhaiterait que https://multi.coop corrige, mette à jour ou supprime, en s’identifiant précisément avec une copie d’une pièce d’identité (carte d’identité ou passeport).
@@ -129,7 +129,7 @@ Aucune information personnelle de l'utilisateur du site https://multi.coop n'est
 
 Pour assurer la sécurité et la confidentialité des Données Personnelles et des Données Personnelles de Santé, https://multi.coop utilise des réseaux protégés par des dispositifs standards tels que par pare-feu, la pseudonymisation, l’encryption et mot de passe.
 
-Lors du traitement des Données Personnelles, https://multi.coopprend toutes les mesures raisonnables visant à les protéger contre toute perte, utilisation détournée, accès non autorisé, divulgation, altération ou destruction.
+Lors du traitement des Données Personnelles, https://multi.coop prend toutes les mesures raisonnables visant à les protéger contre toute perte, utilisation détournée, accès non autorisé, divulgation, altération ou destruction.
 
 ## 9. Liens hypertextes « cookies » et balises (“tags”) internet
 
