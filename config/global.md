@@ -11,18 +11,24 @@ navbar: ./config/navbar.md
 footer: ./config/footer.md
 legal: ./config/legal.md
 
-# contents: 
-#   texts: ./texts
-#   images: ./images
-#   data: ./data
+# colors multi:
+#   text: #063442
+#   dark: #2F746E
+#   main: #4FC4AF
+#   light: #C1E7D2
+#   secondary_light: #FDF3CF
+#   secondary: #FFC07A
+#   secondary_dark: #ED7901
+#   secondary_text: #494048
 
+custom_colors: true
 colors:
-  primary: '#037988'
-  loading_color: '#6fdcbf'
-  accent: '#572a99'
-  secondary: '#6fdcbf'
-  info: '#53657D'
-  warning: '#ff9947'
+  primary: '#2F746E'
+  loading_color: '#C1E7D2'
+  accent: '#4FC4AF'
+  secondary: '#FFC07A'
+  info: '#494048'
+  warning: '#ED7901'
   error: '#D1335B'
   success: '#03BD5B'
 

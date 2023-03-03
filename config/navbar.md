@@ -1,6 +1,6 @@
 ---
 background-color: white
-logo-left: ./images/logos/logo-multi-003.png
+logo-left: ./images/logos/logo-MULTI-colored-dark.png
 fixed-top: true
 
 buttons-left-centered: true

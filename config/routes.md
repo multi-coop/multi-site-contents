@@ -10,7 +10,7 @@ routes:
       - name: logo
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: three-quarters
           no-translation: true
         files:
           fr: ./texts/landing/landing-head-fr.md
@@ -159,17 +159,17 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/team/team-data.md
-      - name: head-alumni
-        component: TextComponent
-        options:
-          custom-class: mt-4
-          columns-size: two-thirds
-        files:
-          fr: ./texts/team/team-alumni-head-fr.md
-      - name: data-alumni
-        component: DataGrid
-        files:
-          fr: ./texts/team/team-alumni-data.md
+      # - name: head-alumni
+      #   component: TextComponent
+      #   options:
+      #     custom-class: mt-4
+      #     columns-size: two-thirds
+      #   files:
+      #     fr: ./texts/team/team-alumni-head-fr.md
+      # - name: data-alumni
+      #   component: DataGrid
+      #   files:
+      #     fr: ./texts/team/team-alumni-data.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:
