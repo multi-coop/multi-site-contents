@@ -1,9 +1,9 @@
-p {
+p, .content {
   line-height: 1.8em;
 }
-p > a, .content a {
-  color: #ED7901 !important;
-  text-decoration: none !important;
+p > a:not(.navbar-link, .navbar-item), .content a:not(.navbar-link, .navbar-item) {
+  color: #ED7901;
+  text-decoration: none;
 }
 footer a {
   text-decoration: none !important;
