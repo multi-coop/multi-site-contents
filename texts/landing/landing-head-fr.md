@@ -11,8 +11,12 @@ effect: half-tone
       src="http://localhost:8800/statics/images/logos/logo-MULTI-colored-4FC4AF.png"
       alt="LOGO MULTI"
     /> -->
-    <img
+    <!-- <img
       src="http://localhost:8800/statics/images/logos/logo-MULTI-colored-063442.png"
+      alt="LOGO MULTI"
+    /> -->
+    <img
+      src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/julien-update-colors/images/logos/logo-MULTI-colored-063442.png"
       alt="LOGO MULTI"
     />
   </div>
