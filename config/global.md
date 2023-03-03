@@ -23,7 +23,7 @@ legal: ./config/legal.md
 
 custom_colors: true
 colors:
-  primary: '#2F746E'
+  primary: '#4FC4AF'
   loading_color: '#C1E7D2'
   accent: '#4FC4AF'
   secondary: '#FFC07A'
@@ -31,6 +31,10 @@ colors:
   warning: '#ED7901'
   error: '#D1335B'
   success: '#03BD5B'
+
+custom_css: true
+custom_css_files:
+  - ./styles/custom-css-multi.css
 
 matomo: 
   matomo_active: true

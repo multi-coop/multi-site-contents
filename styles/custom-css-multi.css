@@ -1,0 +1,23 @@
+p {
+  line-height: 1.8em;
+}
+p > a, .content a {
+  color: #ED7901 !important;
+  text-decoration: none !important;
+}
+footer a {
+  text-decoration: none !important;
+}
+footer .credit-text a {
+  color: #4FC4AF !important;
+}
+p > a > span.icon {
+  color: #4FC4AF !important;
+}
+strong {
+  border-bottom: 4px solid #FFC07A;
+  /* background:linear-gradient( to left, #FDF3CF,#FDF3CF);
+  background-position: 0 100%; 
+  background-size: 100% 10px; 
+  background-repeat: repeat-x;  */
+}
