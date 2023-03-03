@@ -319,7 +319,7 @@ routes:
     options:
       hero: true
     sections: 
-      - name: logo
+      - name: infos
         component: TextComponent
         options: [ no-translation ]
         files:
@@ -332,6 +332,7 @@ routes:
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
+          en: ./texts/contact/infos-head-en.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:

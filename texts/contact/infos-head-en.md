@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: center;">
   <p>
-    Pour plus d'informations contactez-nous à :
+    Contact us and send us an email to :
   </p>
 </div>
 <div style="display: flex; justify-content: center;">

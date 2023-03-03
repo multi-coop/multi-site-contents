@@ -11,13 +11,28 @@ footer a {
 footer .credit-text a {
   color: #4FC4AF !important;
 }
+p, h1, h2, h3, h4, h5 {
+  color: #063442;
+}
 p > a > span.icon {
   color: #4FC4AF !important;
 }
+
 strong {
+  color: #063442;
   border-bottom: 4px solid #FFC07A;
   /* background:linear-gradient( to left, #FDF3CF,#FDF3CF);
   background-position: 0 100%; 
   background-size: 100% 10px; 
+  background-repeat: repeat-x;  */
+}
+h1, h2, h3 {
+  /* color: #4FC4AF !important; */
+  /* margin-top: 2em !important; */
+  border-left: 10px solid #4FC4AF;
+  padding-left: .4em;
+  /* background:linear-gradient( to left, #4FC4AF,#4FC4AF);
+  background-position: 0 100%; 
+  background-size: 100% 1.2em; 
   background-repeat: repeat-x;  */
 }
