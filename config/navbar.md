@@ -1,7 +1,9 @@
 ---
 background-color: white
 # logo-left: ./images/logos/logo-MULTI-colored-063442.png
-logo-left: ./images/logos/logo-MULTI-colored-4FC4AF.png
+# logo-left: ./images/logos/logo-MULTI-colored-4FC4AF.png
+# logo-left: ./images/logos/logo-MULTI-colored-063442-02.png
+logo-left: ./images/logos/logo-MULTI-colored-4FC4AF-02.png
 fixed-top: true
 
 buttons-left-centered: true
