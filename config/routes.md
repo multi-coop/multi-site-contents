@@ -499,7 +499,7 @@ routes:
               cooperative="multi"
               partvalue="25"
               minbenefs="0"
-              benefs="100000"
+              benefs="50000"
               repart='{
                 "reserves":40,
                 "participation":50,
