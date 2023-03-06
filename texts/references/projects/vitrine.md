@@ -13,13 +13,22 @@ period:
 
 description:
   fr: |
-    pour générer facilement un site web en utilisant du contenu récupéré sur des pages tierces.
+    Pour générer facilement un site web en utilisant du contenu récupéré sur des pages tierces.
 
     À l'origine, son principal cas d'usage était pour l'organisation de hackathons, afin de présenter ses projets et ses participants, ses jeux de données, ses outils, etc.
 
     Vitrine peut également être utilisée à d'autres fins.
 
+resources:
+  fr:
+    - 1 développeur
+
 technos: [Javascript, Svelte]
+
+refs:
+  - name: site
+    link: https://gitlab.com/multi-coop/vitrine
+    fr: Site vitrine
 
 code:
   - name: app
