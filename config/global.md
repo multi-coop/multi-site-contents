@@ -34,8 +34,8 @@ colors:
 
 custom_css: true
 custom_css_files:
-  # - ./styles/custom-css-multi.css
-  - https://raw.githubusercontent.com/multi-coop/multi-site-contents/julien-update-colors/styles/custom-css-multi.css
+  - ./styles/custom-css-multi.css
+  # - https://raw.githubusercontent.com/multi-coop/multi-site-contents/julien-update-colors/styles/custom-css-multi.css
 
 matomo: 
   matomo_active: true

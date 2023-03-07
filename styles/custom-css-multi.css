@@ -11,6 +11,9 @@ footer a {
 footer .credit-text a {
   color: #4FC4AF !important;
 }
+.navbar-link, .navbar-item {
+  color: #063442;
+}
 p, h1, h2, h3, h4, h5 {
   color: #063442;
 }
@@ -25,6 +28,14 @@ strong {
   background-position: 0 100%; 
   background-size: 100% 10px; 
   background-repeat: repeat-x;  */
+
+  /* Proposition Pierre */
+  /* background: linear-gradient( to left, #FDF3CF,#FDF3CF);
+  background-position: 0.25em bottom;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+  padding-right: 0.25em;
+  margin-right: -0.25em; */
 }
 h1, h2, h3 {
   /* color: #4FC4AF !important; */
@@ -35,4 +46,23 @@ h1, h2, h3 {
   background-position: 0 100%; 
   background-size: 100% 1.2em; 
   background-repeat: repeat-x;  */
+}
+
+.dataCard > .card {
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 0.2), 0 0px 0 1px rgba(255, 192, 122, 0.1); */
+}
+.dataCard > .card:hover {
+  /* box-shadow: 0 0 .25em .25em rgba(255, 192, 122, 1); */
+  /* box-shadow: 0 0 .0em .15em rgba(255, 192, 122, 1); */
+  /* box-shadow: 0 0 .5em .5em rgba(253, 243, 207, 1); */
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(253, 243, 207, 0.2), 0 0px 0 1px rgba(253, 243, 207, 0.1); */
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 0.2), 0 0px 0 1px rgba(255, 192, 122, 0.1); */
+  box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 1), 0 0px 0 1px rgba(255, 192, 122, 0.5);
+  cursor: pointer;
+}
+.card-header {
+  box-shadow: none;
+}
+.card-header-title {
+  border: none;
 }
