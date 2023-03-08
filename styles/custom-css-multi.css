@@ -14,7 +14,7 @@ footer .credit-text a {
 .navbar-link, .navbar-item {
   color: #063442;
 }
-p, h1, h2, h3, h4, h5 {
+p, h1, h2, h3, h4, h5, .content h1, .content h2, .content h3, .content h4, h5.content  {
   color: #063442;
 }
 p > a > span.icon {
@@ -57,7 +57,8 @@ h1, h2, h3 {
   /* box-shadow: 0 0 .5em .5em rgba(253, 243, 207, 1); */
   /* box-shadow: 0 0.5em 1em -0.125em rgba(253, 243, 207, 0.2), 0 0px 0 1px rgba(253, 243, 207, 0.1); */
   /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 0.2), 0 0px 0 1px rgba(255, 192, 122, 0.1); */
-  box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 1), 0 0px 0 1px rgba(255, 192, 122, 0.5);
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 1), 0 0px 0 1px rgba(255, 192, 122, 0.5); */
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, .5), 0 0px 0 1px rgba(10, 10, 10, 0.2);
   cursor: pointer;
 }
 .card-header {
