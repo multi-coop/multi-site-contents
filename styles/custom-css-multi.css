@@ -23,19 +23,19 @@ p > a > span.icon {
 
 strong {
   color: #063442;
-  border-bottom: 4px solid #FFC07A;
+  /* border-bottom: 4px solid #FFC07A; */
   /* background:linear-gradient( to left, #FDF3CF,#FDF3CF);
   background-position: 0 100%; 
   background-size: 100% 10px; 
   background-repeat: repeat-x;  */
 
   /* Proposition Pierre */
-  /* background: linear-gradient( to left, #FDF3CF,#FDF3CF);
+  background: linear-gradient( to left, #FDF3CF,#FDF3CF);
   background-position: 0.25em bottom;
   background-size: 100% 50%;
   background-repeat: no-repeat;
   padding-right: 0.25em;
-  margin-right: -0.25em; */
+  margin-right: -0.25em;
 }
 h1, h2, h3 {
   /* color: #4FC4AF !important; */
