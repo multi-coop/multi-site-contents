@@ -1,37 +1,3 @@
-:root {
-  --text-color: #063442;
-  --text-color-alt: #494048;
-  --text-color-light: #999999;
-  --main-color: #4FC4AF;
-  --dark-color: #2F746E;
-  --light-color: #C1E7D2;
-  --highlight-color: #FDF3CF;
-
-  --secondary-color: #FFC07A;
-  --secondary-color-dark: #ED7901;
-
-  /* --r-background-color: white;
-  --r-main-color: var(--main-color);
-
-  --r-main-font-size: 28px;
-  --r-block-margin: 3%;
-
-  --r-heading1-size: 48px;
-  --r-heading2-size: 38px;
-  --r-heading-margin: 1% 0 4% 0;
-  --r-heading-font: "poppins semibold", verdana;
-  --r-heading-color: var(--text-color);
-  --r-heading-line-height: 1.2em;
-  --r-heading-text-transform: none;
-
-  --r-code-font: "courier new";
-  --r-link-color: var(--secondary-color-dark);
-  --r-link-color-dark: var(--secondary-color);
-  --r-link-color-hover: var(--secondary-color);
-  --r-selection-color: white;
-  --r-selection-background-color: var(--main-color); */
-}
-
 p, .content {
   line-height: 1.8em;
 }
@@ -76,7 +42,7 @@ p > a > span.icon {
 strong {
   /* color: white; */
   /* background: #4FC4AF; */
-  box-shadow: inset 0 -0.4em 0 0 var(--highlight-color);  
+  box-shadow: inset 0 -0.4em 0 0 #FDF3CF;  
 }
 
 strong:before, strong:after {
