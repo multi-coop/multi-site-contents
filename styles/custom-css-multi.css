@@ -10,7 +10,7 @@
   --secondary-color: #FFC07A;
   --secondary-color-dark: #ED7901;
 
-  --r-background-color: white;
+  /* --r-background-color: white;
   --r-main-color: var(--main-color);
 
   --r-main-font-size: 28px;
@@ -29,7 +29,7 @@
   --r-link-color-dark: var(--secondary-color);
   --r-link-color-hover: var(--secondary-color);
   --r-selection-color: white;
-  --r-selection-background-color: var(--main-color);
+  --r-selection-background-color: var(--main-color); */
 }
 
 p, .content {
