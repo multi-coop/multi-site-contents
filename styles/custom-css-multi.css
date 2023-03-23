@@ -90,7 +90,7 @@ h3:before {
 }
 h2:after {
 /* .reveal h3:after { */
-  content: "\a";
+  content: "\0020\a";
   white-space: pre;
 }
 
