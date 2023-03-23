@@ -2,7 +2,7 @@
 <div
   class="mb-4"
   style="display: flex; justify-content: center;">
-  <h1>
+  <h1 class="has-text-centered">
     Informations
   </h1>
 </div>
