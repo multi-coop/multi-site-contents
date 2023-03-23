@@ -1,9 +1,12 @@
+# Notre offre de service
 
 **De la conception du produit à la mise en production** nous apportons l'expertise, l'agilité et l'engagement d'une équipe multidisciplinaire, pour construire avec vous des projets numériques d'intérêt général. Nous assurons également des missions de **conseil** et d'**audit** en **conception de produit** et **data science**.
 
 ---
 
 ## Conception & développement de services numériques
+
+<!-- ### Un autre titre en h3 à la suite -->
 
 Nous avons développé une expérience solide dans le **développement d'outils numériques d'intérêt général**, nous permettant de transformer vos idées en services pleinement opérationnels.
 
