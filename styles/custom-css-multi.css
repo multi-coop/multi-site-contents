@@ -108,8 +108,9 @@ h4 {
   margin-bottom: .8em !important;
 }
 
-a.button {
-  color: white;
+button.button.is-primary,
+a.button.is-primary {
+  color: white !important;
   font-weight: bold;
 }
 
