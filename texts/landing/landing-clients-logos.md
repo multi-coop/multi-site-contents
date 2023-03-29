@@ -14,7 +14,7 @@
       href="https://www.numerique.gouv.fr/dinum/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/dinum-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/dinum-logo.svg"
         alt="DINUM"
       />
     </a>
@@ -24,7 +24,7 @@
       href="https://www.ecologie.gouv.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/mte-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/mte-logo.svg"
         alt="MINISTERE DE LA TRANSITION ECOLOGIQUE"
       />
     </a>
@@ -34,7 +34,7 @@
       href="https://mer.gouv.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/min-mer-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/min-mer-logo.svg"
         alt="MINISTERE DE LA MER"
       />
     </a>
