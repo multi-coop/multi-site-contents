@@ -16,9 +16,7 @@
   <p>
     📥 &nbsp; 
     <a href="mailto:contact@multi.coop">
-      <strong>
-        contact@multi.coop
-      </strong>
+      contact@multi.coop
     </a>
   </p>
 </div>
