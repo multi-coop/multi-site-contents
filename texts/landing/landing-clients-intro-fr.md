@@ -1,5 +1,7 @@
 <br>
 <br>
-<h3 class="has-text-centered mb-0">
-  Ils travaillent avec nous
-</h3>
+<div style="display: flex; justify-content: center;">
+  <h3 class="mb-0">
+    Ils travaillent avec nous
+  </h3>
+</div>

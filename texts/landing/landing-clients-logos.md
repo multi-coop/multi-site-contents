@@ -1,6 +1,6 @@
-<div class="columns is-multiline is-mobile is-8 is-vcentered is-centered">
+<div class="columns is-multiline is-mobile is-8 is-vcentered is-centered mt-6">
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.opendatafrance.net/"
       target="_blank">
       <img
@@ -10,7 +10,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.numerique.gouv.fr/dinum/"
       target="_blank">
       <img
@@ -20,7 +20,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.ecologie.gouv.fr/"
       target="_blank">
       <img
@@ -30,7 +30,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://mer.gouv.fr/"
       target="_blank">
       <img
@@ -40,7 +40,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://agence-cohesion-territoires.gouv.fr/"
       target="_blank">
       <img
@@ -50,7 +50,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.ademe.fr"
       target="_blank">
       <img
@@ -60,7 +60,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://lafabriquedesmobilites.fr/"
       target="_blank">
       <img
@@ -70,7 +70,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://lamednum.coop/"
       target="_blank">
       <img
@@ -80,7 +80,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.mednum-bfc.fr/"
       target="_blank">
       <img
@@ -90,7 +90,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.pingbase.net/"
       target="_blank">
       <img
@@ -100,7 +100,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://conumm.fr/"
       target="_blank">
       <img
@@ -110,7 +110,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://rhinocc.fr/"
       target="_blank">
       <img
@@ -120,7 +120,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.doubs.fr"
       target="_blank">
       <img
@@ -130,7 +130,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.epa-senart.fr/"
       target="_blank">
       <img
@@ -140,7 +140,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://carto.francilin.fr/"
       target="_blank">
       <img
@@ -150,7 +150,7 @@
     </a>
   </div>
   <div class="column is-2 has-text-centered">
-    <a class=""
+    <a class="no-bg"
       href="https://www.deciderensemble.com"
       target="_blank">
       <img

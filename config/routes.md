@@ -10,7 +10,7 @@ routes:
       - name: logo
         component: TextComponent
         options:
-          columns-size: two-thirds
+          columns-size: three-quarters
           no-translation: true
         files:
           fr: ./texts/landing/landing-head-fr.md
@@ -159,17 +159,17 @@ routes:
         component: DataGrid
         files:
           fr: ./texts/team/team-data.md
-      - name: head-alumni
-        component: TextComponent
-        options:
-          custom-class: mt-4
-          columns-size: two-thirds
-        files:
-          fr: ./texts/team/team-alumni-head-fr.md
-      - name: data-alumni
-        component: DataGrid
-        files:
-          fr: ./texts/team/team-alumni-data.md
+      # - name: head-alumni
+      #   component: TextComponent
+      #   options:
+      #     custom-class: mt-4
+      #     columns-size: two-thirds
+      #   files:
+      #     fr: ./texts/team/team-alumni-head-fr.md
+      # - name: data-alumni
+      #   component: DataGrid
+      #   files:
+      #     fr: ./texts/team/team-alumni-data.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:
@@ -319,7 +319,7 @@ routes:
     options:
       hero: true
     sections: 
-      - name: logo
+      - name: infos
         component: TextComponent
         options: [ no-translation ]
         files:
@@ -332,6 +332,7 @@ routes:
           columns-divider: h1
         files:
           fr: ./texts/contact/infos-head-fr.md
+          en: ./texts/contact/infos-head-en.md
       - name: btn-to-jobs
         component: ButtonsComponent
         options:
@@ -498,18 +499,19 @@ routes:
               cooperative="multi"
               partvalue="25"
               minbenefs="0"
-              benefs="100000"
+              benefs="50000"
               repart='{
                 "reserves":40,
                 "participation":50,
                 "dividendes":10
               }'
               team='[
-                { "name":"Johan Richer", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Johan Richer", "parts":100, "workTime":80, "yearTime": 12 },
                 { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
                 { "name":"Thomas Brosset", "parts":40, "workTime":40, "yearTime": 12 },
-                { "name":"Pierre Camilleri", "parts":100, "workTime":60, "yearTime": 12 },
-                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 }
+                { "name":"Pierre Camilleri", "parts":100, "workTime":100, "yearTime": 12 },
+                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 },
+                { "name":"Amélie Rondot", "parts":0, "workTime":60, "yearTime": 12 }
               ]'
             />
 --- 

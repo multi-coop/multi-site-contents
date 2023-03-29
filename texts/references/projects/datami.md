@@ -44,7 +44,6 @@ resources:
     - 1 développeur fullstack lead
     - 1 développeur fullstack junior
 
-
 technos: [ Javascript, Vue.js, Bulma, Buefy, Git, Maplibre, ApexCharts ]
 
 refs:

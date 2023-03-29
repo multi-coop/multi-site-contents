@@ -1,0 +1,142 @@
+p, .content {
+  line-height: 1.8em;
+}
+p > a:not(.navbar-link, .navbar-item .indicator-item), 
+.content a:not(.navbar-link, .navbar-item, .indicator-item) {
+  color: #ED7901;
+  text-decoration: underline;
+  /* border-bottom: 1px solid #ED7901; */
+  
+  /* background: #FDF3CF; */
+  /* background-position: 0.2em bottom; */
+  /* background-size: 100% 60%; */
+  /* background-repeat: no-repeat; */
+  /* padding-right: 0.2em;
+  margin-right: -0.2em; */
+}
+.tabs li a {
+  background: none !important;
+  padding: none !important;
+}
+
+a.no-bg, footer a {
+  background: none !important;
+}
+
+footer a {
+  text-decoration: none !important;
+}
+footer .credit-text a {
+  color: #4FC4AF !important;
+}
+.navbar-link, .navbar-item {
+  color: #063442;
+}
+p, h1, h2, h3, h4, h5, .content h1, .content h2, .content h3, .content h4, h5.content  {
+  color: #063442;
+}
+p > a > span.icon {
+  color: #4FC4AF !important;
+}
+
+strong {
+  /* box-shadow: inset 0 -0.4em 0 0 #FDF3CF; */
+  background: linear-gradient( to left, #FDF3CF,#FDF3CF);
+  background-position: 0.25em bottom;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+  padding-right: 0.25em;
+  margin-right: -0.25em;
+}
+
+strong:before, strong:after {
+  content: "\0020";
+  white-space: pre;
+}
+
+h1 {
+  text-align: left;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  /* border-left: 0.25em solid #4FC4AF; */
+}
+h1:not(.has-text-centered) {
+  border-left: 0.25em solid #4FC4AF;
+}
+
+h2 {
+  display: inline;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+h3 {
+  display: inline;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+h2:not(.card-header-title) {
+  background: #4FC4AF;
+  color: white !important;
+  /* display: inline-block; */
+  text-align: left;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+h3 {
+  /* box-shadow: inset 0 -0.4em 0 0 #FDF3CF;
+  display: table;
+  text-align: left;
+  padding-left: 0.25em;
+  padding-right: 0.5em; */
+
+  background: linear-gradient( to left, #FDF3CF,#FDF3CF);
+  background-position: 0.25em bottom;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+  padding-right: 0.25em;
+  margin-right: -0.25em;
+}
+
+h2:after, h3:after {
+  content: "\a";
+  white-space: pre;
+}
+
+h4 {
+  font-size: 24px;
+  margin-top: 1.4em !important;
+  margin-bottom: .8em !important;
+}
+
+button.button.is-primary,
+a.button.is-primary {
+  color: white !important;
+  font-weight: bold;
+}
+
+.dataCard > .card {
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 0.2), 0 0px 0 1px rgba(255, 192, 122, 0.1); */
+}
+.dataCard > .card:hover {
+  /* box-shadow: 0 0 .25em .25em rgba(255, 192, 122, 1); */
+  /* box-shadow: 0 0 .0em .15em rgba(255, 192, 122, 1); */
+  /* box-shadow: 0 0 .5em .5em rgba(253, 243, 207, 1); */
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(253, 243, 207, 0.2), 0 0px 0 1px rgba(253, 243, 207, 0.1); */
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 0.2), 0 0px 0 1px rgba(255, 192, 122, 0.1); */
+  /* box-shadow: 0 0.5em 1em -0.125em rgba(255, 192, 122, 1), 0 0px 0 1px rgba(255, 192, 122, 0.5); */
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, .5), 0 0px 0 1px rgba(10, 10, 10, 0.2);
+  cursor: pointer;
+}
+.card-header {
+  /* box-shadow: none; */
+  /* border-bottom: grey 1px solid; */
+}
+.card-image {
+  /* box-shadow: none; */
+  border-top: Gainsboro 1px solid;
+  border-bottom: Gainsboro 1px solid;
+}
+
+.card-header-title {
+  border: none;
+}
