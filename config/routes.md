@@ -499,19 +499,20 @@ routes:
               cooperative="multi"
               partvalue="25"
               minbenefs="0"
-              benefs="50000"
+              benefs="45000"
               repart='{
-                "reserves":40,
-                "participation":50,
-                "dividendes":10
+                "reserves":75,
+                "participation":25,
+                "dividendes":0
               }'
               team='[
                 { "name":"Johan Richer", "parts":100, "workTime":80, "yearTime": 12 },
                 { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
-                { "name":"Thomas Brosset", "parts":40, "workTime":40, "yearTime": 12 },
+                { "name":"Thomas Brosset", "parts":40, "workTime":20, "yearTime": 12 },
                 { "name":"Pierre Camilleri", "parts":100, "workTime":100, "yearTime": 12 },
                 { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 },
-                { "name":"Amélie Rondot", "parts":0, "workTime":60, "yearTime": 12 }
+                { "name":"Amélie Rondot", "parts":0, "workTime":60, "yearTime": 11 },
+                { "name":"Erica Delagnier", "parts":0, "workTime":80, "yearTime": 0 }
               ]'
             />
 --- 
