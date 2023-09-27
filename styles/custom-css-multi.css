@@ -140,3 +140,8 @@ a.button.is-primary {
 .card-header-title {
   border: none;
 }
+
+b-numberinput > p.control {
+  padding-top: 0;
+  padding-bottom: 0;
+}
