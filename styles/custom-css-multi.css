@@ -141,7 +141,7 @@ a.button.is-primary {
   border: none;
 }
 
-b-numberinput > p.control {
+.b-numberinput > p.control {
   padding-top: 0;
   padding-bottom: 0;
 }
