@@ -468,6 +468,20 @@ routes:
         files:
           fr: ./texts/network/network-data.md
 
+  - name: cooperations
+    url: /cooperations
+    sections: 
+      - name: head
+        component: TextComponent
+        options:
+          columns-size: two-thirds
+        files:
+          fr: ./texts/network/cooperations-head-fr.md
+      - name: data
+        component: DataGrid
+        files:
+          fr: ./texts/network/cooperations-data.md
+
   - name: ressources
     url: /ressources
     sections: 

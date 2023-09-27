@@ -142,6 +142,12 @@ buttons-right:
         label: 
           fr: Notre réseau
           en: Our network
+      - name: cooperations
+        link: /cooperations
+        component: simpleLink
+        label: 
+          fr: Notre réseau élargi
+          en: Our extended network
       - name: ressources
         link: /ressources
         component: simpleLink
