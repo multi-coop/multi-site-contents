@@ -39,6 +39,8 @@ items:
   - file: ./texts/team/people/Pierre-Camilleri.md
   - file: ./texts/team/people/Quentin-Loridant.md
   - file: ./texts/team/people/Amelie-Rondot.md
+  - file: ./texts/team/people/Erica-Delagnier.md
+
 
 dict:
   status: 
@@ -48,13 +50,13 @@ dict:
     fr: compétences
     en: skills
   associate:
-    fr: associé
+    fr: associé·e
     en: associate
   founder:
     fr: co-fondateur
     en: co-founder
   employee:
-    fr: salarié
+    fr: salarié·e
     en: employee
   intern:
     fr: stagiaire
