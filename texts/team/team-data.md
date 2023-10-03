@@ -50,13 +50,13 @@ dict:
     fr: compétences
     en: skills
   associate:
-    fr: associé
+    fr: associé·e
     en: associate
   founder:
     fr: co-fondateur
     en: co-founder
   employee:
-    fr: salarié
+    fr: salarié·e
     en: employee
   intern:
     fr: stagiaire
