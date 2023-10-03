@@ -39,6 +39,8 @@ items:
   - file: ./texts/team/people/Pierre-Camilleri.md
   - file: ./texts/team/people/Quentin-Loridant.md
   - file: ./texts/team/people/Amelie-Rondot.md
+  - file: ./texts/team/people/Erica-Delagnier.md
+
 
 dict:
   status: 
