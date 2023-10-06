@@ -29,7 +29,7 @@ buttons-left:
         component: simpleLink
         label: 
           fr: La coopérative
-          en: The cooprative
+          en: The cooperative
       - name: origin
         link: /origin
         component: simpleLink
