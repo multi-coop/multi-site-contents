@@ -21,7 +21,7 @@ description:
 
     Plusieurs notes de risque sont calculées. Elles nécessitent le croisement de différentes bases de données qui permettent de contextualiser la demande.
     
-    Constitué d'une équipe réduire à 1 product owner (PO) et un développeur/data scientist, le projet a été réalisé en relation étroite avec les équipes de l'ANSM (dont notamment une designer UX/UI). Les livraisons en fin de chaque sprint ont permis de valider les avancées et la réponse du produit aux besoins des utilisateurs.
+    Constitué d'une équipe réduite à 1 product owner (PO) et un développeur/data scientist, le projet a été réalisé en relation étroite avec les équipes de l'ANSM (dont notamment une designer UX/UI). Les livraisons en fin de chaque sprint ont permis de valider les avancées et la réponse du produit aux besoins des utilisateurs.
 
 approach:
   fr: 
