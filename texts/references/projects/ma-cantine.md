@@ -37,7 +37,7 @@ refs:
 code:
   - name: app
     link: https://github.com/betagouv/ma-cantine
-    fr: app
+    fr: Github
 
 images:
   - ./images/references/ma-cantine/app.png
