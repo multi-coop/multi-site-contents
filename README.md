@@ -43,7 +43,7 @@ The contents are deployed with Netlify
 
 ## Mini server for local development
 
-A mini server is writen in the `server.py` to serve this folder's files, so we could test and develop locally while running [multi-site-app]()
+A mini server is writen in the `server.py` to serve this folder's files, so we could test and develop locally while running [multi-site-app](https://github.com/multi-coop/multi-site-app)
 
 To install the mini-server :
 
