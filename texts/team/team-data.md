@@ -40,6 +40,7 @@ items:
   - file: ./texts/team/people/Quentin-Loridant.md
   - file: ./texts/team/people/Amelie-Rondot.md
   - file: ./texts/team/people/Erica-Delagnier.md
+  - file: ./texts/team/people/Tarik-Amar.md
 
 
 dict:
