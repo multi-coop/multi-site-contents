@@ -41,6 +41,7 @@ items:
   - file: ./texts/team/people/Amelie-Rondot.md
   - file: ./texts/team/people/Erica-Delagnier.md
   - file: ./texts/team/people/Tarik-Amar.md
+  - file: ./texts/team/people/Thibaut-Tezenas.md
 
 
 dict:
