@@ -41,9 +41,9 @@ items:
   - file: ./texts/team/people/Amelie-Rondot.md
   - file: ./texts/team/people/Erica-Delagnier.md
   - file: ./texts/team/people/Tarik-Amar.md
+  - file: ./texts/team/people/Sarra-Ben-Arbia.md
   - file: ./texts/team/people/Thibaut-Tezenas.md
-
-
+  
 dict:
   status: 
     fr: statut
@@ -60,6 +60,9 @@ dict:
   employee:
     fr: salarié·e
     en: employee
+  apprentice:
+    fr: apprenti·e
+    en: apprentice
   intern:
     fr: stagiaire
     en: intern
