@@ -39,7 +39,7 @@ refs:
 
 code:
   - name: app
-    link: https://git.opendatafrance.net/validata
+    link: https://gitlab.com/validata-table/validata-table
     fr: app
 
 images:
