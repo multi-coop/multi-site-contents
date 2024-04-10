@@ -43,6 +43,7 @@ items:
   - file: ./texts/team/people/Tarik-Amar.md
   - file: ./texts/team/people/Sarra-Ben-Arbia.md
   - file: ./texts/team/people/Thibaut-Tezenas.md
+  - file: ./texts/team/people/Oumeima-El-Isbihani.md
   
 dict:
   status: 
