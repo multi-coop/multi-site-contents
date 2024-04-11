@@ -1,6 +1,6 @@
 ---
 name: Amélie Rondot
-status: [ employee ]
+status: [ associate, employee ]
 start: novembre 2022
 image: ./images/team/amelie-rondot-square.jpg
 github: https://github.com/arondot
