@@ -1,7 +1,7 @@
 ---
 name: Oumeima El Isbihani
 status: [ employee ]
-start: Avril 2024
+start: avril 2024
 image: ./images/team/oumeima-el-isbihani.jpg
 email: oumeima.el-isbihani@multi.coop
 skills: [ dev, VueJS, JS, python ]
