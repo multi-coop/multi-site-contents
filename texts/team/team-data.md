@@ -45,7 +45,7 @@ items:
   - file: ./texts/team/people/Thibaut-Tezenas.md
   - file: ./texts/team/people/Oumeima-El-Isbihani.md
   - file: ./texts/team/people/Raphael-Odini.md
-  
+  - file: ./texts/team/people/Paul-Vallee.md
 dict:
   status: 
     fr: statut
