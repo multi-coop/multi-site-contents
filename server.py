@@ -13,7 +13,7 @@ CORS(app)
 def serveHtml(folder_path, filename):  
   print("folder_path : ", folder_path)
   print("filename : ", filename)
-  return render_template( folder_path + '/' + filename )
+  return render_template(folder_path + '/' + filename)
 
 @app.route('/statics/<path:folder_path>/<string:filename>')
 def sendStatic(folder_path, filename):

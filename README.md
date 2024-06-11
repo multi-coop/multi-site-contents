@@ -2,11 +2,11 @@
 
 This repo contains all contents for multi website, including the site's architecture : website name, locales, navbar, routes, footers, images, and text contents...
 
-Thoses contents are organized so they could be deployed as a website, thanks to a softawre developped by the digital cooperative **[multi](https://multi.coop)**.
+Thoses contents are organized so they could be deployed as a website, thanks to a software developed by the digital cooperative **[multi](https://multi.coop)**.
 
 ---
 
-## Render those contents as a websitte
+## Render those contents as a website
 
 🚀 &nbsp; Here you'll find the [**"multi-site-app" source code**](https://github.com/multi-coop/multi-site-app) to deploy the `.md` contents contained in this repo.
 
@@ -21,12 +21,12 @@ This repo is organized in the following order :
 ├── README.md
 ├── LICENCE.md
 ├── config folder: to deploy a website with the `multi-site` app
-│   ├── global.md : global config file (md and yaml head)
-│   ├── navbar.md : config file for navbar butttons and links (md and yaml head)
-│   ├── route.md : config file for routes (md and yaml head)
-│   └── footer.md : config file for footer links (md and yaml head)
+│   ├── global.md: global config file (md and yaml head)
+│   ├── navbar.md: config file for navbar butttons and links (md and yaml head)
+│   ├── route.md: config file for routes (md and yaml head)
+│   └── footer.md: config file for footer links (md and yaml head)
 ├── images folder: contains images
-├── texts folder : contains all markdown files, including 
+├── texts folder: contains all markdown files, including 
 
 ```
 
