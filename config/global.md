@@ -1,5 +1,5 @@
 ---
-app_name : Coopérative numérique multi
+app_name: Coopérative numérique multi
 app_default_locale: fr
 app_locales: [ fr, en ]
 app_md_flavor: github
@@ -37,7 +37,7 @@ custom_css_files:
   - ./styles/custom-css-multi.css
   # - https://raw.githubusercontent.com/multi-coop/multi-site-contents/julien-update-colors/styles/custom-css-multi.css
 
-matomo: 
+matomo:
   matomo_active: true
   matomo_server: multi.matomo.cloud
   matomo_site_id: 3

@@ -1,12 +1,15 @@
 ---
-routes: 
+routes:
 
   # LANDING
-  - name: home 
+  - name: home
     url: /
     options:
       hero: true
-    sections: 
+      description:
+        fr: Coopérative multi-disciplinaire. Nous concevons et développons des services numériques d’intérêt général.
+        en: Multi-disciplinary cooperative. We design and develop digital services for the general interest.
+    sections:
       - name: logo
         component: TextComponent
         options:
@@ -27,23 +30,23 @@ routes:
         options:
           columns-size: three-quarters
           buttons-size: half
-          buttons: 
+          buttons:
             - link: /offer
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Notre offre de service
                 en: Our services
             - link: /products
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos produits open source
                 en: Our open source products
             - link: /references
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos références
                 en: Our references
       - name: clients-intro
@@ -63,13 +66,13 @@ routes:
         files:
           fr: ./texts/landing/landing-clients-logos.md
           en: ./texts/landing/landing-clients-logos.md
-  
+
   # WHO ARE WE
   - name: cooperative
     url: /cooperative
     options:
       hero: true
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -82,23 +85,23 @@ routes:
         options:
           columns-size: full
           buttons-size: half
-          buttons: 
+          buttons:
             - link: /team
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Découvrez l'équipe
                 en: Discover the team
             - link: /references
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos références
                 en: Our references
 
   # - name: manifesto
   #   url: /manifesto
-  #   sections: 
+  #   sections:
   #     - name: logo
   #       component: LogoAnimated
   #       options: [ no-translation ]
@@ -121,7 +124,7 @@ routes:
 
   - name: manifesto-temp
     url: /manifesto-temp
-    sections: 
+    sections:
       - name: manifesto-temp
         component: TextComponent
         options:
@@ -132,7 +135,7 @@ routes:
   - name: origin
     url: /origin
     options: [ menu ]
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -146,9 +149,9 @@ routes:
         files:
           fr: ./texts/who-are-we/goals-fr.md
 
-  - name: team 
+  - name: team
     url: /team
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -176,18 +179,18 @@ routes:
           columns-size: two-thirds
           buttons-size: full
           custom-classes: mt-6
-          buttons: 
+          buttons:
             - link: /jobs
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos offres d'emploi
                 en: Our job offers
 
   # OFFER
   - name: offer
     url: /offer
-    sections: 
+    sections:
       - name: logo
         component: TextComponent
         options: [ no-translation ]
@@ -206,23 +209,23 @@ routes:
         options:
           columns-size: two-thirds
           buttons-size: half
-          buttons: 
+          buttons:
             - link: /products
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos produits open source
                 en: Our open source products
             - link: /references
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos références
                 en: Our references
 
   - name: offer-temp
     url: /offer-temp
-    sections: 
+    sections:
       - name: offer-temp
         component: TextComponent
         options:
@@ -232,7 +235,7 @@ routes:
 
   - name: products
     url: /products
-    sections: 
+    sections:
       - name: products-head
         component: TextComponent
         options:
@@ -248,30 +251,30 @@ routes:
         options:
           columns-size: two-thirds
           buttons-size: full
-          buttons: 
+          buttons:
             - link: /offer
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Notre offre de service
                 en: Our services
 
   - name: references
     url: /references
-    sections: 
+    sections:
       - name: btn-to-offer-products
         component: ButtonsComponent
         options:
           columns-size: two-thirds
           buttons-size: half
           custom-classes: mb-6
-          buttons: 
+          buttons:
             - link: /offer
               icon-left: arrow-right-bold
               rounded: true
               outlined: false
               color: light
-              label: 
+              label:
                 fr: Notre offre de service
                 en: Our services
             - link: /products
@@ -279,7 +282,7 @@ routes:
               rounded: true
               outlined: false
               color: light
-              label: 
+              label:
                 fr: Nos produits open source
                 en: Our open source products
       - name: refs-head
@@ -308,7 +311,7 @@ routes:
   # CONTACT
   # - name: contact
   #   url: /contact
-  #   sections: 
+  #   sections:
   #     - name: head
   #       component: TextComponent
   #       files:
@@ -318,7 +321,7 @@ routes:
     url: /infos
     options:
       hero: true
-    sections: 
+    sections:
       - name: infos
         component: TextComponent
         options: [ no-translation ]
@@ -338,29 +341,29 @@ routes:
         options:
           columns-size: full
           buttons-size: full
-          buttons: 
+          buttons:
             - link: /jobs
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos offres d'emploi
                 en: Our job offers
             - link: https://app.element.io/#/room/#multi:multi.coop
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Chat
                 en: Chat
             - link: /contribute
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Contribuer
                 en: Contribute
 
   - name: contribute
     url: /contribute
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -371,7 +374,7 @@ routes:
 
   - name: legal
     url: /legal
-    sections: 
+    sections:
       # - name: data
       #   component: TextDataComponent
       #   files:
@@ -382,9 +385,9 @@ routes:
           fr: ./texts/contact/legal-mentions-fr.md
 
   # JOBS
-  - name: join 
+  - name: join
     url: /join
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -396,36 +399,36 @@ routes:
         options:
           columns-size: two-thirds
           buttons-size: full
-          buttons: 
+          buttons:
             - link: /team
               icon-left: arrow-right-bold
               rounded: true
               outlined: true
-              label: 
+              label:
                 fr: Découvrez l'équipe
                 en: Discover the team
             - link: /jobs
               icon-left: arrow-right-bold
               rounded: true
-              label: 
+              label:
                 fr: Nos offres d'emploi
                 en: Our job offers
 
-  - name: jobs 
+  - name: jobs
     url: /jobs
-    sections: 
+    sections:
       - name: btn-to-join
         component: ButtonsComponent
         options:
           columns-size: two-thirds
           buttons-size: two-thirds
           custom-classes: mb-5
-          buttons: 
+          buttons:
             - link: /join
               icon-left: arrow-right-bold
               rounded: true
               outlined: true
-              label: 
+              label:
                 fr: Pourquoi rejoindre multi ?
                 en: Why joining multi ?
       - name: head
@@ -442,7 +445,7 @@ routes:
 
   - name: blog
     url: /blog
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -456,7 +459,7 @@ routes:
 
   - name: network
     url: /network
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -470,7 +473,7 @@ routes:
 
   - name: cooperations
     url: /cooperations
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -484,7 +487,7 @@ routes:
 
   - name: ressources
     url: /ressources
-    sections: 
+    sections:
       - name: head
         component: TextComponent
         options:
@@ -498,17 +501,17 @@ routes:
 
   - name: shares-simulator
     url: /shares-simulator
-    sections: 
+    sections:
       - name: simulator
         component: WidgetComponent
         options:
           columns-size: two-thirds
-          js: 
+          js:
             - href: https://multi-site-simulator-test.netlify.app/js/app.js
-          css: 
+          css:
             - href: https://multi-site-simulator-test.netlify.app/css/app.css
           html: |
-            <multi-shares-simulator 
+            <multi-shares-simulator
               locale="fr"
               cooperative="multi"
               partvalue="25"
