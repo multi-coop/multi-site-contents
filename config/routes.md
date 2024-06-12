@@ -7,8 +7,8 @@ routes:
     options:
       hero: true
       description:
-        fr: Coopérative multi-disciplinaire. Nous concevons et développons des services numériques d’intérêt général.
-        en: Multi-disciplinary cooperative. We design and develop digital services for the general interest.
+        fr: Coopérative qui conçois et développe des services numériques d’intérêt général.
+        en: Cooperative that designs and develops digital services for the general interest.
     sections: 
       - name: logo
         component: TextComponent
