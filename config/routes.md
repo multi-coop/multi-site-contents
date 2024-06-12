@@ -7,7 +7,7 @@ routes:
     options:
       hero: true
       description:
-        fr: Coopérative qui conçois et développe des services numériques d’intérêt général.
+        fr: Coopérative qui conçoit et développe des services numériques d’intérêt général.
         en: Cooperative that designs and develops digital services for the general interest.
     sections: 
       - name: logo
