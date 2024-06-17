@@ -19,7 +19,7 @@ Les termes « données à caractère personnel », « personne concernée », «
 
 En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet https://multi.coop l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
 
-- Propriétaire : multi SAS – 116 rue Dalayrac 94120 Fontenay-sous-Bois
+- Propriétaire : multi SCOP SAS à capital variable – 116 rue Dalayrac 94120 Fontenay-sous-Bois
 - Responsable publication : Julien Paris – julien.paris@multi.coop
 - Le responsable publication est une personne physique ou une personne morale.
 - Webmaster : Julien Paris – julien.paris@multi.coop
