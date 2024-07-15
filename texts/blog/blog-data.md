@@ -29,6 +29,7 @@ items:
   - file: ./texts/blog/posts/blog-post-financements-fr.md
   - file: ./texts/blog/posts/blog-post-01-fr.md
   - file: ./texts/blog/posts/jailbreak-devient-multi-fr.md
+  - file: ./texts/blog/posts/lettre-UE-NGI.md
 
 dict:
   created:
