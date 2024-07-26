@@ -3,7 +3,7 @@ title: La Fabrique des mobilités (Fabmob)
 subtitle: Face à l'urgence, reconstruisons les mobilités brique par brique, ensemble via l'open source.
 type: [ association ]
 tags: [ open source, logiciel libre, mobilité ]
-logo: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/texts/network/images/fabmob_cmjn6.svg
+logo: https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/fabmob-logo.svg
 link: https://lafabriquedesmobilites.fr/
 ---
 

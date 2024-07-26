@@ -64,7 +64,7 @@
       href="https://lafabriquedesmobilites.fr/"
       target="_blank">
       <img
-        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/fabmob-logo.png"
+        src="https://raw.githubusercontent.com/multi-coop/multi-site-contents/main/images/clients/fabmob-logo.svg"
         alt="FABMOB"
       />
     </a>
