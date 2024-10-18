@@ -6,11 +6,16 @@ image: ./images/team/pierre-camilleri.png
 github: https://github.com/pierrecamilleri
 linkedin: https://www.linkedin.com/in/pierre-camilleri-6a121664/
 email: pierre.camilleri@multi.coop
-skills: [ data, data science, R, python, Shiny ]
+skills: [ dev, data, python, R, golang, ts, html/css ]
 ---
 
-Ingénieur de l’École polytechnique et docteur dans le secteur des transports, j'ai été séduit par le projet collectif de *multi* de construire un environnement de travail sain, qui donne à chacun la capacité de s'y épanouir.
+Ingénieur de l’École polytechnique et docteur dans le secteur des transports, 
+je me qualifie volontiers par le néologisme _data full stack_ : je touche à 
+tout ce qui a attrait aux données, de leur récupération, mise en qualité et 
+distribution, à leur analyse, modélisation et valorisation.
 
-J'ai beaucoup d'intérêt et m'interroge beaucoup sur la relation entre l'individu et la collectivité et sur la prise de décisions collective. Ces réflexions ont complètement bouleversé ma façon de penser la démocratie, l'économie et la vie en entreprise.
-
-Elles ont également eu des répercussions sur ma manière de pratiquer la modélisation, dans laquelle l'utilisateur et son appropriation du modèle doit primer sur toute considération technique ou statistique, un peu à l'image de ce que l'[artisanat logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) est au développement informatique. Cela va souvent à l'encontre des effets de mode et de l'inflation de la complexité de modèles "boîtes noires".  
+J'ai à cœur de réaliser des prestations utiles et de proposer des solutions 
+frugales,  je développe selon les préceptes de l'[artisanat 
+logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr). L'impact 
+recherché prime sur toute considération technique dans ma pratique d'analyse 
+de la donnée ou de développement web. 
