@@ -9,13 +9,14 @@ email: pierre.camilleri@multi.coop
 skills: [ dev, data, python, R, golang, ts, html/css ]
 ---
 
-Ingénieur de l’École polytechnique et docteur dans le secteur des transports, 
-je me qualifie volontiers par le néologisme _data full stack_ : je touche à 
-tout ce qui a attrait aux données, de leur récupération, mise en qualité et 
-distribution, à leur analyse, modélisation et valorisation.
+Ingénieur de l’École polytechnique et docteur en transport, je suis un expert 
+polyvalent de la donnée, capable d'intervenir à chaque étape du cycle de vie 
+des données : de leur collecte et leur préparation, jusqu'à leur analyse 
+avancée, modélisation et la valorisation des résultats.
 
-J'ai à cœur de réaliser des prestations utiles et de proposer des solutions 
-frugales,  je développe selon les préceptes de l'[artisanat 
-logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr). L'impact 
-recherché prime sur toute considération technique dans ma pratique d'analyse 
-de la donnée ou de développement web. 
+Mon approche est pragmatique avec un fort accent sur l'impact réel de chaque 
+projet. Je développe selon les préceptes de l'[artisanat 
+logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) des solutions
+frugales, dans un souci constant de qualité et de pérennité. Quant à ma 
+pratique de l'analyse de la données, j'ai à cœur de concilier les 
+connaissances métier et les données et les faire dialoguer.
