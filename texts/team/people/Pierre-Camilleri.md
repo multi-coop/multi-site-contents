@@ -19,4 +19,4 @@ projet. Je développe selon les préceptes de l'[artisanat
 logiciel](https://manifesto.softwarecraftsmanship.org/#/fr-fr) des solutions
 frugales, dans un souci constant de qualité et de pérennité. Quant à ma 
 pratique de l'analyse de la données, j'ai à cœur de concilier les 
-connaissances métier et les données et les faire dialoguer.
+connaissances métier et les données afin de les faire dialoguer.
