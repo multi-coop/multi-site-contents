@@ -3,7 +3,7 @@ name: Amélie Rondot
 status: [ associate, employee ]
 start: novembre 2022
 image: ./images/team/amelie-rondot-square.jpg
-github: https://github.com/arondot
+github: https://github.com/amelie-rondot
 email: amelie.rondot@multi.coop
 skills: [ python, django, flask, kubernetes ]
 ---
