@@ -513,7 +513,7 @@ routes:
               cooperative="multi"
               partvalue="25"
               minbenefs="0"
-              benefs="45000"
+              benefs="80000"
               repart='{
                 "reserves":75,
                 "participation":25,
@@ -524,9 +524,13 @@ routes:
                 { "name":"Julien Paris", "parts":100, "workTime":100, "yearTime": 12 },
                 { "name":"Thomas Brosset", "parts":40, "workTime":20, "yearTime": 12 },
                 { "name":"Pierre Camilleri", "parts":100, "workTime":100, "yearTime": 12 },
-                { "name":"Quentin Loridant", "parts": 100, "workTime":80, "yearTime": 12 },
-                { "name":"Amélie Rondot", "parts":0, "workTime":60, "yearTime": 11 },
-                { "name":"Erica Delagnier", "parts":0, "workTime":80, "yearTime": 0 }
+                { "name":"Quentin Loridant", "parts": 100, "workTime":90, "yearTime": 12 },
+                { "name":"Amélie Rondot", "parts":3, "workTime":80, "yearTime": 12 },
+                { "name":"Erica Delagnier", "parts":0, "workTime":80, "yearTime": 12 },
+                { "name":"Tarik Amar", "parts":0, "workTime":100, "yearTime": 9 },
+                { "name":"Thibaut Tezenas", "parts":0, "workTime":100, "yearTime": 8 },
+                { "name":"Raphaël Odini", "parts":0, "workTime":80, "yearTime": 7 },
+                { "name":"Oumeima El Isbihani", "parts":0, "workTime":80, "yearTime": 7 }
               ]'
             />
 --- 
