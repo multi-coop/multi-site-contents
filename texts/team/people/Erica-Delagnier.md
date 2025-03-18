@@ -1,6 +1,6 @@
 ---
 name: Erica Delagnier
-status: [ employee ]
+status: [ associate, employee ]
 start: septembre 2023
 image: ./images/team/erica-delagnier.jpeg
 github: https://github.com/edelagnier

@@ -1,6 +1,6 @@
 ---
 name: Tarik Amar
-status: [ employee ]
+status: [ associate, employee ]
 start: january 2023
 image: ./images/team/tarik-amar.png
 github: https://github.com/at-github
