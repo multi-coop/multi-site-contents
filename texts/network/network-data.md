@@ -33,16 +33,16 @@ options:
       - name: tags
 
 items:
-  - file: ./texts/network/items/cgscop.md #
-  - file: ./texts/network/items/urscop-idf.md
-  - file: ./texts/network/items/numeum.md #
-  - file: ./texts/network/items/systematic.md #
   - file: ./texts/network/items/april.md
+  - file: ./texts/network/items/assemblee-virtuelle.md
+  - file: ./texts/network/items/cgscop.md
   - file: ./texts/network/items/cooptech.md
-  - file: ./texts/network/items/assemblee-virtuelle.md #
-  - file: ./texts/network/items/mednum.md
   - file: ./texts/network/items/federation-pros-osm.md
+  - file: ./texts/network/items/mednum.md
+  - file: ./texts/network/items/numeum.md
+  - file: ./texts/network/items/urscop-idf.md
   - file: ./texts/network/items/social-good-accelerator.md
+  - file: ./texts/network/items/systematic.md
 
 dict:
   type:
