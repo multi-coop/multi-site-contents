@@ -23,35 +23,35 @@ description:
   fr: |
     Portail de données interne : un projet fédérateur à partir d’un projet urbain
     
-    Résumé du projet
+    # Résumé du projet
     
     Multi a accompagné un acteur majeur de l'aménagement public en Île-de-France 
     dans la mise en place d’un portail de données interne basé sur CKAN. La plateforme 
     vise à faciliter le partage de données de projet et de référence, en interne 
     comme avec les partenaires extérieurs.
     
-    Problème
+    ## Problème
     
     En l'absence d'une stratégie claire et d’un outil adapté, l’établissement 
     rencontrait des difficultés à centraliser et diffuser les données produites dans 
     le cadre des projets. Cela engendrait des doublons, des conflits de versions et 
     une faible capitalisation des connaissances.
     
-    Besoin
+    ## Besoin
     
     Le client souhaitait une solution de catalogage et de partage de données – 
     notamment spatiales – accessible à des utilisateurs non techniques, et permettant 
     une gestion fine des droits selon les profils (internes/externes).
     
-    Solution
+    ## Solution
     
     Multi a déployé une plateforme CKAN personnalisée, hébergée en France, et a 
     accompagné l’organisation dans la structuration de ses données, la formation 
     des utilisateurs et le support à l’adoption de l’outil.
 
-    Le projet dans le détail
+    # Le projet dans le détail
 
-    Contexte
+    ## Contexte
     
     Bien que de taille modeste (environ 50 collaborateurs), cet établissement public 
     travaille avec de nombreux partenaires, clients et prestataires. La construction 
@@ -59,7 +59,7 @@ description:
     homogènes et bien documentées. L’ambition portée par la plateforme était de 
     favoriser la coopération autour d’une base commune d’information.
     
-    Situation
+    ## Situation
     
     Dans le cadre d’un projet portant sur l’étude de la pollution d’un secteur 
     d’aménagement, l’établissement a été missionné pour rassembler et structurer 
@@ -67,7 +67,7 @@ description:
     départ pour initier une démarche plus large de gestion et de mutualisation 
     des données.
     
-    Critères
+    ## Critères
     
     La solution recherchée devait répondre à plusieurs exigences :
 
@@ -80,7 +80,7 @@ description:
         • Être hébergée et maintenue sur des serveurs situés en France,
         • Limiter son emprunte environnementale .
 
-    Solution mise en œuvre
+    ## Solution mise en œuvre
     
     Multi a assuré l’intégration et le déploiement d’un portail CKAN configuré 
     selon les besoins métier du client. L’intervention a couvert :
@@ -92,35 +92,35 @@ description:
         • La formation des équipes internes,
         • Un support technique dédié pour les utilisateurs partenaires.
   en: |
-      Project Summary
+      # Project Summary
 
       Multi supported a major public planning stakeholder in the Île-de-France 
       region in implementing an internal data portal based on CKAN. The platform 
       is designed to facilitate the sharing of project and reference data, both 
       internally and with external partners.
       
-      Problem
+      ## Problem
       
       In the absence of a clear strategy and suitable tools, the organization 
       struggled to centralize and disseminate data produced during projects. 
       This led to duplication, version conflicts, and poor knowledge capitalization.
       
-      Need
+      ## Need
       
       The client was looking for a data cataloging and sharing solution — 
       particularly for spatial data — that would be accessible to non-technical 
       users and allow fine-grained permission management based on user profiles (internal/external).
       
-      Solution
+      ## Solution
       
       Multi deployed a customized CKAN platform, hosted in France, and 
       supported the organization in structuring its data, training users, 
       and facilitating adoption of the tool.
 
       
-      Project Details
+      # Project Details
       
-      Context
+      ## Context
       
       Although modest in size (around 50 staff members), this public institution 
       collaborates with numerous partners, clients, and service providers. Building 
@@ -128,14 +128,14 @@ description:
       and well-documented data. The ambition of the platform was to foster collaboration 
       around a common information base.
       
-      Situation
+      ## Situation
       
       As part of a project to study pollution in a development area, the institution was 
       tasked with gathering and organizing a large volume of heterogeneous data. This 
       initiative was chosen as a starting point to launch a broader data management 
       and sharing strategy.
       
-      Requirements
+      ## Requirements
       
       The desired solution had to meet several key requirements:
       
@@ -148,7 +148,7 @@ description:
           • Be hosted and maintained on servers located in France,
           • Minimize its environmental footprint.
       
-      Implemented Solution
+      ## Implemented Solution
       
       Multi handled the integration and deployment of a CKAN portal tailored to 
       the client’s business needs. The scope of the work included:
