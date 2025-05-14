@@ -176,7 +176,7 @@ resources:
 technos: [ CKAN, Docker, PostGIS ]
 
 refs:
-  - name: CKAN: The world's leading open-source data portal platform
+  - name: CKAN - The world's leading open-source data portal platform
     link: https://ckan.org/
     fr: CKAN
 

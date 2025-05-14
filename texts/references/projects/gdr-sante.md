@@ -5,7 +5,7 @@ clients:
   - ANSM (Agence Nationale de Sécurité du Médicament et des produits de santé) 
 
 period: 
-  fr: 2023
+  fr: depuis 2023
 
 type:
   fr:
