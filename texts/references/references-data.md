@@ -53,27 +53,29 @@ options:
       - name: clients
 
 items: 
-  - file: ./texts/references/projects/data-patch.md
-  - file: ./texts/references/projects/barometre-action-publique.md
   - file: ./texts/references/projects/africartes.md
   - file: ./texts/references/projects/aides-entreprises.md
-  - file: ./texts/references/projects/open-mobility-indicators.md
-  - file: ./texts/references/projects/parcours-entree-dans-emploi.md
-  - file: ./texts/references/projects/play-with-transitions.md
-  - file: ./texts/references/projects/digital-transport-for-africa.md
-  - file: ./texts/references/projects/observatoire-open-data-des-territoires.md
   - file: ./texts/references/projects/apiviz.md
-  - file: ./texts/references/projects/solidata.md
-  - file: ./texts/references/projects/open-scraper.md
-  - file: ./texts/references/projects/validata.md
+  - file: ./texts/references/projects/barometre-action-publique.md
+  - file: ./texts/references/projects/datami.md
+  - file: ./texts/references/projects/data-patch.md
+  - file: ./texts/references/projects/cibnav.md
   - file: ./texts/references/projects/dbnomics.md
-  - file: ./texts/references/projects/open-fisca.md
-  - file: ./texts/references/projects/synapse.md
-  - file: ./texts/references/projects/ma-cantine.md
+  - file: ./texts/references/projects/digital-transport-for-africa.md
+  - file: ./texts/references/projects/gdr-sante.md
   - file: ./texts/references/projects/hydroviz.md
   - file: ./texts/references/projects/libviz.md
-  - file: ./texts/references/projects/cibnav.md
-  - file: ./texts/references/projects/datami.md
+  - file: ./texts/references/projects/ma-cantine.md
+  - file: ./texts/references/projects/observatoire-open-data-des-territoires.md
+  - file: ./texts/references/projects/open-fisca.md
+  - file: ./texts/references/projects/open-mobility-indicators.md
+  - file: ./texts/references/projects/open-scraper.md
+  - file: ./texts/references/projects/parcours-entree-dans-emploi.md
+  - file: ./texts/references/projects/play-with-transitions.md
+  - file: ./texts/references/projects/portail-ckan.md
+  - file: ./texts/references/projects/solidata.md
+  - file: ./texts/references/projects/synapse.md
+  - file: ./texts/references/projects/validata.md
   - file: ./texts/references/projects/vitrine.md
 
 
