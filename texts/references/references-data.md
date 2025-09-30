@@ -76,6 +76,7 @@ items:
   - file: ./texts/references/projects/solidata.md
   - file: ./texts/references/projects/synapse.md
   - file: ./texts/references/projects/validata.md
+  - file: ./texts/references/projects/complalim.md
   - file: ./texts/references/projects/vitrine.md
 
 
