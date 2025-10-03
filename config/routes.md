@@ -531,9 +531,6 @@ routes:
                 { "name":"Amélie Rondot", "parts":3, "workTime":80, "yearTime": 12 },
                 { "name":"Erica Delagnier", "parts":0, "workTime":80, "yearTime": 12 },
                 { "name":"Tarik Amar", "parts":0, "workTime":100, "yearTime": 9 },
-                { "name":"Thibaut Tezenas", "parts":0, "workTime":100, "yearTime": 8 },
-                { "name":"Raphaël Odini", "parts":0, "workTime":80, "yearTime": 7 },
-                { "name":"Oumeima El Isbihani", "parts":0, "workTime":80, "yearTime": 7 }
               ]'
             />
 --- 
