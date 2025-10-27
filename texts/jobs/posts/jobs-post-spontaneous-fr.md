@@ -9,6 +9,10 @@ post_date: 04 février 2022
 
 💪 &nbsp; Nous restons ouverts à toute proposition et à tous types de talents. N'hésitez pas à nous envoyer une candidature spontanée :)
 
+En savoir plus :
+* [Notre processus de recrutement](https://gitlab.com/multi-coop/multi/-/wikis/RH/Recrutement#organisation-des-recrutements)
+* [Notre grille de salaire](https://gitlab.com/multi-coop/multi/-/wikis/RH/Grille-de-salaire)
+
 <a href="https://multi.welcomekit.co/jobs/candidatures-spontanees" class="button is-primary is-rounded is-fullwidth">
   Candidatez !
 </a>
