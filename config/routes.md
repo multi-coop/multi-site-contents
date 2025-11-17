@@ -531,7 +531,7 @@ routes:
                 { "name":"Amélie Rondot", "parts":3, "workTime":80, "yearTime": 12 },
                 { "name":"Erica Delagnier", "parts":0, "workTime":80, "yearTime": 12 },
                 { "name":"Tarik Amar", "parts":0, "workTime":100, "yearTime": 9 },
-                { "name":"Quentin Bonnemaison", "parts":0, "workTime":100, "yearTime": 10 },
+                { "name":"Quentin Bonnemaison", "parts":0, "workTime":100, "yearTime": 10 }
               ]'
             />
 --- 
