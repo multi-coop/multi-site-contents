@@ -42,6 +42,7 @@ items:
   - file: ./texts/team/people/Erica-Delagnier.md
   - file: ./texts/team/people/Tarik-Amar.md
   - file: ./texts/team/people/Sarra-Ben-Arbia.md
+  - file: ./tests/team/people/Quentin-Bonnemaison.md
 dict:
   status: 
     fr: statut
