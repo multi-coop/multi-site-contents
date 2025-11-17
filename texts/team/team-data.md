@@ -31,7 +31,7 @@ options:
     items: 
       # - name: status
       - name: skills
-    
+  
 items:
   - file: ./texts/team/people/Johan-Richer.md
   - file: ./texts/team/people/Julien-Paris.md
@@ -42,7 +42,7 @@ items:
   - file: ./texts/team/people/Erica-Delagnier.md
   - file: ./texts/team/people/Tarik-Amar.md
   - file: ./texts/team/people/Sarra-Ben-Arbia.md
-  - file: ./tests/team/people/Quentin-Bonnemaison.md
+  - file: ./texts/team/people/Quentin-Bonnemaison.md
 dict:
   status: 
     fr: statut
