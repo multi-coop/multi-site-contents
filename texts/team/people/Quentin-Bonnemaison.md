@@ -2,7 +2,7 @@
 name: Quentin Bonnemaison
 status: [ employee ]
 start: octobre 2025
-image: ./images/team/quentin-bonnemaison.png
+image: ./images/team/quentin-bonnemaison.jpg
 linkedin: https://www.linkedin.com/in/quentin-bonnemaison/
 github: https://github.com/BmnQuentin
 email: quentin.bonnemaison@multi.coop
