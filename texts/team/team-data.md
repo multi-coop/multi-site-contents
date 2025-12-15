@@ -34,7 +34,6 @@ options:
   
 items:
   - file: ./texts/team/people/Johan-Richer.md
-  - file: ./texts/team/people/Julien-Paris.md
   - file: ./texts/team/people/Thomas-Brosset.md
   - file: ./texts/team/people/Pierre-Camilleri.md
   - file: ./texts/team/people/Quentin-Loridant.md
